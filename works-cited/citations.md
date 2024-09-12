@@ -332,6 +332,17 @@
 * **Boden, Margaret A.** _Mind as Machine: A Historyof Cognitive Science_. Oxford University Press, 2006.
 * **Blackmore, Susan.** _The Meme Machine_. Oxford University Press, 1999.
 * **Dennett, Daniel C.** _Consciousness Explained_. Little, Brown and Company, 1991.
+* Gamble C. _Origins and Revolutions: Human Identity in Earliest Prehistory_. Cambridge University Press; 2013.
+* Tattersall I. _Masters of the Planet: The Search for Our Human Origins_. St. Martin's Press; 2012.
+* Bowler PJ. _The Eclipse of Darwinism: Anti-Darwinian Evolution Theories in the Decades around 1900_. Johns Hopkins University Press; 1989.
+* Ruse M. _Monad to Man: The Concept of Progress in Evolutionary Biology_. Harvard University Press; 1996.
+* Gould SJ. _Ontogeny and Phylogeny_. Harvard University Press; 1977.
+* Mayr E. _The Growth of Biological Thought: Diversity, Evolution, and Inheritance_. Harvard University Press; 1982.
+* Dennett DC. _Darwin's Dangerous Idea: Evolution and the Meanings of Life_. Simon & Schuster; 1995.
+* Richards RJ. _The Tragic Sense of Life: Ernst Haeckel and the Struggle over Evolutionary Thought_. University of Chicago Press; 2008.
+* Dawkins R. _The Selfish Gene_. 30th anniversary ed. Oxford University Press; 2006.
+* Jablonka E, Lamb MJ. _Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life_. MIT Press; 2005.
+* Bergson H. _Creative Evolution_. Macmillan; 1911.
 
 
 

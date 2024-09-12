@@ -38,6 +38,7 @@
 * [Chapter 4: Priorities & Models of Memesis](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/README.md)
   * [Religion: The Memetic Model Infallible](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/religion-the-memetic-model-infallible.md)
   * [Which Model Does ACEL Model?](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/which-model-does-acel-model.md)
+  * [Built Different: The Unique Path of Human Evolution](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/built-different-the-unique-path-of-human-evolution.md)
 
 ## Part 2: The Evolutionary Trajectory of Machinae
 
