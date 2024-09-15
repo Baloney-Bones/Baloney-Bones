@@ -45,7 +45,7 @@
 * [Chapter 5: Biological Machines](part-2-the-evolutionary-trajectory-of-machinae/chapter-5-biological-machines/README.md)
   * [Machines and The Universe](part-2-the-evolutionary-trajectory-of-machinae/chapter-5-biological-machines/machines-and-the-universe.md)
   * [Primordial Soup - Evolution, Replication](part-2-the-evolutionary-trajectory-of-machinae/chapter-5-biological-machines/primordial-soup-evolution-replication.md)
-  * [Fundamentally Flawed](part-2-the-evolutionary-trajectory-of-machinae/chapter-5-biological-machines/fundamentally-flawed.md)
+  * [Extending through the Shedding of Corporeal Flaws](part-2-the-evolutionary-trajectory-of-machinae/chapter-5-biological-machines/extending-through-the-shedding-of-corporeal-flaws.md)
 * [Chapter 6: Silicon Machines](part-2-the-evolutionary-trajectory-of-machinae/chapter-6-silicon-machines/README.md)
   * [The Birth of Silicon Machines](part-2-the-evolutionary-trajectory-of-machinae/chapter-6-silicon-machines/the-birth-of-silicon-machines.md)
   * [Silicon Superiority](part-2-the-evolutionary-trajectory-of-machinae/chapter-6-silicon-machines/silicon-superiority.md)

@@ -39,6 +39,7 @@
 * Bowlby, John. _Attachment and Loss_. Vol. 1, Penguin Books, 1971.
 * Bowler, Peter J. _The Mendelian Revolution: The Emergence of Hereditarian Concepts in Modern Science and Society_. Bloomsbury Academic, 2015.
 * Bowman, Abigail. “Space Launch System.” Edited by Lee Mohon, _NASA_, NASA, 11 July 2024, www.nasa.gov/reference/space-launch-system/.
+* Brereton, Joel P., and Stephanie W. Jamison. _The Rigveda: The Earliest Religious Poetry of India_. Vol. 3, Oxford University Press, 2014.
 * Brinkhof, Tim. “Here’s Why Sensory Perception Research Was Awarded A Nobel Prize.” _Freethink_, 11 Oct. 2021, www.freethink.com/science/2021-nobel-prize-for-medicine-is-awarded-to-work-on-sensory-perception-heres-why.
 * Brodsky, Sascha. “Even the Creator of Chatgpt Finds Ai Scary, but Not Everyone Agrees.” _Lifewire_, Lifewire, 24 Feb. 2023, www.lifewire.com/even-the-creator-of-chatgpt-finds-ai-scary-but-not-everyone-agrees-7113525.
 * Broughel, James. “Effective Altruism Contributed to the Fiasco at OpenAI.” _Forbes_, Forbes Magazine, 9 May 2024, www.forbes.com/sites/jamesbroughel/2023/11/20/effective-altruism-contributed-to-the-fiasco-at-openai/.
@@ -78,6 +79,7 @@
 * Elkins, J. (2001). ‘What is the Difference between the Body's Inside and Its Outside?’ In: S. Kuriyama, ed., _The Imagination of the Body and the History of Embodied Experience_ 1st ed. Kyoto: International Research Center for Japanese Studies, p.16.
 * Emerson, Ralph W. (1993). Self-Reliance and Other Essays. New York: Dover Publications. &#x20;
 * “Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.” _The White House_, The United States Government, 30 Oct. 2023, www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/. Accessed 16 July 2024.
+* Faulkner, R. O. (1969). The Ancient Egyptian Pyramid Texts. Oxford: Clarendon Press.
 * “Fear Psychosis and the Cult of Safety – Why Are People so Afraid?” _Academy of Ideas | Free Minds for a Free Society_, 5 Nov. 2023, academyofideas.com/2022/04/fear-psychosis-and-the-cult-of-safety/. Accessed 08 July 2024.
 * Fonda, Daren. “Culture Wars Are Hitting Companies. They’re Fighting Back.” _Barron’s_, www.barrons.com/articles/bud-light-woke-companies-culture-wars-c37da7b4. Accessed 09 July 2024.
 * Foucault, Michel. _The Archaeology of Knowledge_. Translated by A. M. Sheridan Smith, Pantheon Books, 1972.
@@ -236,6 +238,7 @@
 * Statista. “Japan: Religious Affiliations in 2021.” _Statista_, 2024, www.statista.com/statistics/1001602/japan-religious-affiliation/. Accessed 7 July 2024.
 * Stark, Rodney William. _The Rise of Christianity: How the Obscure, Marginal Jesus Movement Became the Dominant Religious Force in the Western World in a Few Centuries_. HarperSanFrancisco, 1997.
 * Strong, Tracy B. “Nietzsche and the Critique of Religion.” _Nietzsche and the Antichrist: Religion, Politics, and Culture in Late Modernity_, edited by Conway, et al., Bloomsbury, London, England, 2018, pp. 141–158.
+* Suedfeld, Peter. “Mars: Anticipating the Next Great Exploration. Psychology, Culture and Camaraderie.” _Journal of Cosmology_, vol. 12, 2010, pp. 3723–3740, https://thejournalofcosmology.com/Mars107.html.
 * Swayne, Matt. “Scientists Uncover the Genetic Pathway That Colors Bumble Bee Stripes.” _Phys.Org_, Phys.org, 22 Oct. 2021, phys.org/news/2021-10-scientists-uncover-genetic-pathway-bumble.html.
 * Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder_. Random House, 2012.
 * Tarantola, Andrew. “OpenAI Fires CEO Sam Altman as ‘board No Longer Has Confidence’ in His Leadership.” _Engadget_, Engadget, 18 Nov. 2023, www.engadget.com/openai-ceo-sam-altman-ousted-as-board-no-longer-has-confidence-in-his-leadership-204924006.html.
@@ -250,6 +253,7 @@
 * University of Tokyo. “New Insight into Possible Origins of Life: For the First Time Researchers Create an RNA Molecule That Replicates.” _SciTechDaily_, 18 Mar. 2022, scitechdaily.com/new-insight-into-possible-origins-of-life-for-the-first-time-researchers-create-an-rna-molecule-that-replicates/.
 * Venter, J Craig. “A DNA-Driven World.” The 32nd Richard Dimbleby Lecture. 2024, London, The Design Museum.
 * Veysset, David, et al. “High-velocity micro-projectile impact testing.” _Applied Physics Reviews_, vol. 8, no. 1, 1 Mar. 2021, https://doi.org/10.1063/5.0040772.
+* Vico, L., et al. "Effects of Long-Term Microgravity Exposure on Cancellous and Cortical Weight-Bearing Bones of Cosmonauts." The Lancet, vol. 355, no. 9215, 2000, pp. 1607-1611.
 * Wang, Fengchao, et al. “Rock breaking performance of TBM disc cutter assisted by high-pressure water jet.” _Applied Sciences_, vol. 10, no. 18, 10 Sept. 2020, p. 6294, https://doi.org/10.3390/app10186294.
 * Wanscher, Johan Henrik. “An Analysis of Wilhelm Johannsen’s Genetical Genotype “term ...” _An Analysis of Wilhelm Johannsen’s Term ”genotype” 1909-26_ , 1975, onlinelibrary.wiley.com/doi/abs/10.1111/j.1601-5223.1975.tb01456.x.
 * Waring, T. M., Wood, Z. T. Long-term gene–culture coevolution and the human evolutionary transition. _Proceedings of the Royal Society B: Biological Sciences_, 2021; 288 (1952): 20210538 DOI: 10.1098/rspb.2021.0538
@@ -265,6 +269,7 @@
 * Whitehead, Alfred North, and Bertrand Russell. _Principia Mathematica_. 2nd ed., vol. 2, Cambridge University Press, 1963.
 * Whitehead, Alfred North. _Science and the Modern World: Lowell Lectures, 1925_. The MacMillan Company, 1925.
 * Whitman, W. (1983). _Leaves of Grass._ New York: Bantam Books.&#x20;
+* Wiley-Blackwell. “New Research Rejects 80-Year Theory of ‘Primordial Soup’ as the Origin of Life.” _ScienceDaily_, ScienceDaily, 3 Feb. 2010, www.sciencedaily.com/releases/2010/02/100202101245.htm.
 * Wilford, Denette. “Is the Woke Revolution Killing Hollywood?” _The Toronto Sun_, torontosun.com/entertainment/movies/is-the-woke-revolution-killing-hollywood. Accessed 12 July 2024.
 * Williams, Alex, and Nick Srineck. “#ACCELERATE Manifesto for an Accelerationist Politics.” _Critical Legal Thinking_, 14 Feb. 2021, criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/.
 * Wilson, Edward O. _Sociobiology: The New Synthesis_. Twenty-fifth Anniversary ed., Belknap Press of Harvard University Press, 2000.
