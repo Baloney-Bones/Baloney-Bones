@@ -22,7 +22,7 @@ We know through a plethora of empirical studies that the physical human body, on
 
 Furthermore, in such journeys, the human body abandons both of Earth’s natural cosmic radiation shields: its magnetic field, as well as its atmosphere. While recent improvements to artificial shields — on spacecraft, for instance — marginally help to mitigate the effects of radiation on astronauts’ bodies, they are by far from total in their protection. Even with these protective layers, high-energy particles still gain deep entry into tissues, increasing the risk of cancers and other degenerative diseases, like cataracts (Cucinotta et al. 2001). Additionally, due to this microgravity, bone density loss, e.g. osteoporosis, will also likely occur as a result (Vico et al. 2000).&#x20;
 
-Taken together, our bodies are more or less destroyed in spce.&#x20;
+Taken together, our bodies are more or less destroyed in space.&#x20;
 
 ### Psychological Limitations 1
 
