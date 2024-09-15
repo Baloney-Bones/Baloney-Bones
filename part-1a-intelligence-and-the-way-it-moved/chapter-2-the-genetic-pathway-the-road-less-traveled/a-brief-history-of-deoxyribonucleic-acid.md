@@ -31,24 +31,6 @@ Obviously, this spreading, growing, and adapting of selective breeding continued
 
 </details>
 
-<details>
-
-<summary>Tension</summary>
-
-Tensions:
-
-* Lamarckian inheritance vs. Mendelian genetics: The early application of selective breeding aligns more with Lamarckian ideas, which are later challenged by Mendelian genetics, creating a tension in the historical narrative of heredity.
-
-Inaccuracies/Misinterpretations:
-
-* Over-reliance on early agriculture as evidence: While early agricultural practices show a deliberate manipulation of heredity, they may oversimplify the complexity and the unintentional aspects of these early genetic experiments.
-
-Solution:
-
-* Contextualizing early agricultural practices within a broader scope of both deliberate and natural selection can provide a more balanced understanding of early genetic manipulation.
-
-</details>
-
 ## Mendel & The Dawn & Evolution of Genetics
 
 So it is that, while humanity has _in some way_ been aware of living organisms' hereditary repositories, as we know from the continual expansion of this knowledge over ten millennia, it wasn't until the turn of the 20th century, with the rediscovery of Gregor Mendel's 1866 research on pea plants, that our species would enter a new age of biological understanding. For, with Mendel's conclusion that there exist "dominant" and "recessive" pieces of data – what Danish botanist Wilhelm Johannsen would soon after in 1909 term _genes_ (Rolls-Hansen Nils) – within the structure of all biological life, humanity finally possessed the _material_ _unit_, and its location, by which the transfer of biological information could be scientifically understood. &#x20;
@@ -77,67 +59,11 @@ Sources:
 
 </details>
 
-<details>
-
-<summary>Tensions</summary>
-
-Theoretical Tensions and Inconsistencies:
-
-Tensions:
-
-* Mendelian genetics vs. continuous variation: The simplicity of Mendel’s laws contrasts with the complexity of continuous traits, which required further synthesis with evolutionary theory.
-
-Inaccuracies/Misinterpretations:
-
-* Simplification of genetic inheritance: Early interpretations of Mendel’s work often ignored the complexities of polygenic traits and environmental factors.
-
-Solution:
-
-Including discussions on the limitations of Mendelian inheritance can provide a more nuanced view of early genetics.
-
-</details>
-
 ## A Theoretical Side Note on Chromosomal _Time_
 
 While much of this book is focused on what is to come for the _biological machines_, it is just as interested in – per Alfred North Whitehead's notion of the _fluency_ of time – the many _transitioning occasions_ that led biological life to its collective _unfolding-now_, "the origination of the present in conformity with the 'power' of the past" (Whitehead 210). This nuanced framing of "what existed prior to this moment" is not adopted from Whitehead simply for the sake of being pedantic; rather, the classical understanding of "the past" — specifically, its positing a discontinuous demarcation between itself and the observed present, as something cut off from it, some repository discrete and a distance behind it, back there but _not here —_ conflicts with ACEL's temporo-holistic understanding of humanity, as shown in chapter one.&#x20;
 
 For ACEL, time is a continuum-proper: A fluent, transitional, relative "collapse" of multiplicitous _endurings_ or _potentialities_ into a unified, observable, transitive theater – this perpetual "formation" Whitehead calls _concrescence,_ theoretically comparable to the household "moment" (Whitehead 211). In this model, there exists no demarcation, the line in the sand is brushed away with the sweep a foot and immediately the past rushes up to meet and join the _unfolding-now_. In so doing, it regains an equal and utmost importance as that which greets it. Settling within this temporal framework for the current discussion, then, allows the genetic pathway, DNA itself, to an their older brother into their own story (indeed, this "fossil" still very much lives within all life, as will be shown). By situating a chromosomal "past", and of course some unknown "future" within a nondemarcated present, humanity might later navigate its next evolution beyond DNA.
-
-<details>
-
-<summary>Framing</summary>
-
-* Alfred North Whitehead - His process philosophy is central to the discussion of time as a continuum.
-  * Whitehead’s ideas frame the subsection’s argument that time should be viewed as a continuous process, with no clear demarcation between past, present, and future.
-  * &#x20;Whitehead’s process philosophy provides a robust theoretical foundation for rethinking how we conceptualize time in evolutionary processes.
-* Henri Bergson - His concept of "duration" offers another perspective on the fluidity of time, relevant to understanding chromosomal time.
-  * Bergson’s concept of "duration" complements Whitehead by emphasizing the qualitative experience of time, fitting into the discussion on how we perceive evolutionary processes.
-  * Bergson’s ideas enrich the discussion by offering a more experiential perspective on time, which is essential for understanding the fluidity of evolutionary change.
-
-Sources:
-
-1. Whitehead, Alfred North. Process and Reality. 1929.
-2. Bergson, Henri. Time and Free Will: An Essay on the Immediate Data of Consciousness. 1889.
-
-</details>
-
-<details>
-
-<summary>Tensions</summary>
-
-Tensions:
-
-* Process philosophy vs. traditional evolutionary timelines: Whitehead’s fluid concept of time challenges the traditional, segmented timelines often used in evolutionary biology.
-
-Inaccuracies/Misinterpretations:
-
-* Potential abstraction of time: The theoretical nature of this subsection may abstract the concept of time to the point where it becomes difficult to apply to concrete biological processes.
-
-Solution:
-
-Balancing abstract theory with practical examples from evolutionary biology can help ground the discussion.
-
-</details>
 
 ## The RNA World Hypothesis
 
@@ -177,23 +103,17 @@ Sources:
 
 </details>
 
-<details>
+## Before Cells
 
-<summary>Tensions</summary>
+In the dawn of Earth's history, a long, long time before the first breath of consciousness was drawn, there existed a chaotic, turbulently churning, no-man's-land of potential—what has been called "a primordial soup". This broth of seething chemicals and energy was the cradle of life, a boiling cauldron in which the ingredients of life were stirred, swirled, and collided without cessation in an aimless random dance. In an unlikely turn of events, we saw the first glimmers of order emerge from chaos—an ~~awfully long time after, of course~~. It was here, in this formative crucible, that the first steps of life—the leap from randomness to structure, from chaos into delicate architecture—were taken (Deamer et al. 2005).
 
-Tensions:
+### From Chemistry to Biology
 
-* RNA as a precursor vs. alternative hypotheses: While the RNA World Hypothesis is widely supported, it competes with other theories regarding the origins of life, creating scientific debate.
+Speaking scientifically, this "primordial soup" represents the time when chemistry began its transformation into biology (Oparin 1953). Within the swirling chaos of a young Earth, a molecular dance occurred, with random collisions and reactions fueled by heat emanating from the young planet and energy from lightning strikes leading to the creation of increasingly complex organic molecules (Miller & Urey 1959). Amino acids formed and dissolved, constituting, then reconstituting themselves in different ways, until one day—a date that history could never register—the unimaginable happened: the first appearance of the self-reproducing molecules (Orgel 2004).
 
-Inaccuracies/Misinterpretations:
+Through this process, only describable as molecular serendipity, the right combination of molecules all lined up in such a correct way that they were able to replicate (Szostak, Bartel, & Luisi 2001).
 
-* Overemphasis on RNA: The hypothesis may overemphasize RNA’s role, potentially overlooking other important molecular structures that contributed to the origins of life.
-
-Solution:
-
-Acknowledging alternative hypotheses and the complexity of early life can provide a more comprehensive view of the origins of genetic material.
-
-</details>
+Here was the birth of the first biological machine, a self-replicating entity that would be the ancestor to all life. Through it, a new epoch began—one in which matter was going to organize itself with a purpose, and the blind forces of chemistry were going to give way to the directed processes of biology (Lazcano & Miller 1994).
 
 ## Evolution of The First Organisms&#x20;
 
@@ -201,7 +121,15 @@ Taking the above findings into consideration, the classical understanding that l
 
 It is within this theoretical possibility, that of _RNA-as-progenitor_, that life as we know it — i.e. extant biological organisms possessing our familiar genetic pathway — was born on Earth around 3.5 billion years ago. These were single-celled prokaryotes (e.g. cells _without_ a nucleus) that held sole evolutionary domain of Earth for approximately the next 1.5 billion years. While impossibly basic, these structures of biological life during this time were still able to discover, learn from, and adapt to their harsh environments — those who developed resilience to these adversities, survived. From this evolutionary process eventually emerged single-celled eukaryotes (i.e. cells _with_ a nucleus), whom, over the following billion years, learned how to accelerate their evolution if they were to add "noise" to their genetic sequences; these single-celled protists would initiate the beginnings of sexual reproduction, receiving two samples instead of one.&#x20;
 
-Lo and behold that not long after, relatively speaking — e.g. , between 200 and 600 million years ago – these sexually reproducing single-celled protists would eventually evolve into _multicellular_ eukaryotes (Ratcliff et al. 1). On this genetic leap, University of Minnesota Ecology professors William Ratcliff et al. claim that while the timespan leading up to this evolutionary jump from single-cell to multi-cell took billions of years, their research showed that "the first crucial steps in the transition from unicellularity to multicellularity can evolve remarkably quickly under appropriate selective conditions" (Ratcliff et al 5). (In fact, he remarks that this stagnation and quick burst of progress is customary to biological evolution: "The fossil record shows that long periods of stasis are often punctuated by bursts of rapid evolution, presumably due to shifts in selective conditions and dramatic evolutionary responses" (Ratcliff 5).) &#x20;
+Lo and behold that not long after, relatively speaking — e.g. , between 200 and 600 million years ago – these sexually reproducing single-celled protists would eventually evolve into _multicellular_ eukaryotes (Ratcliff et al. 1). On this genetic leap, University of Minnesota Ecology professors William Ratcliff et al. claim that while the timespan leading up to this evolutionary jump from single-cell to multi-cell took billions of years, their research showed that "the first crucial steps in the transition from unicellularity to multicellularity can evolve remarkably quickly under appropriate selective conditions" (Ratcliff et al 5). (In fact, he remarks that this stagnation and quick burst of progress is customary to biological evolution: "The fossil record shows that long periods of stasis are often punctuated by bursts of rapid evolution, presumably due to shifts in selective conditions and dramatic evolutionary responses" (Ratcliff 5).
+
+### Replication Explosion
+
+Once life began, it spread with an unyielding vigor. These early biological machines, under the imperative of the basic drives to survive and reproduce, took off on a path of adaptation and diversification uninterrupted to this very day (Lenton & Watson 2011). The basic simplicity of life gave way first to greater complexity, and then to still others better fitted to use the available resources and niches that existed on young Earth (Margulis 1998).
+
+The angry race of life went on expanding explosively outwards, each organism developing new ways to survive, new ways to manipulate their umwelt, new methods of replication (Gould 1989). Thus, from these single-celled organisms aimlessly floating in the primordial oceans evolved the multicellular beings, and from these, in turn, much more complex beings than themselves—the so-called plants, animals, fungi—each a new avenue of possibilities for existence (Knoll 2003).
+
+In this magnificent dance of evolution, the biological machines of Earth remade the very planet: they changed the atmosphere, sculpted its landscapes, and provided havens for yet more complex life forms (Falkowski 2006). The ceaseless push by these machines for survival and replication resulted in an increasing spiral of intricacy within the web of life, a spiral that would eventually give rise to thinkers, reflectors, and self-conscientious beings (Jablonka & Lamb 2006).
 
 Ratcliff concludes that "The evolution of multicellularity was transformative for life on earth. In addition to larger size, multicellularity increased biological complexity through the formation of new biological structures. For example, multicellular organisms have evolved sophisticated, higher-level functionality via cooperation among component cells with complementary behaviors" (Ratcliff et al. 1). Added to this note should be the substantive move on behalf of the protists' actionable sexual reproduction that initiated that first, and rapid, jump to multicellularity. As the emergence of sexual reproduction begot _noisier_ and _noisier_ multicellular structures, the universe's genetic repository blossomed unceasingly in all directions.&#x20;
 
@@ -228,24 +156,6 @@ Sources:
   * "Systematics and the Origin of Species." Columbia University Press, 1942.
   * The Growth of Biological Thought: Diversity, Evolution, and Inheritance. 1982.
 * Ratcliff, William C., et al. "Experimental Evolution of Multicellularity." Proceedings of the National Academy of Sciences, 2012.
-
-</details>
-
-<details>
-
-<summary>Tensions</summary>
-
-Tensions:
-
-* Multicellularity as an inevitable vs. contingent development: There is ongoing debate about whether the evolution of multicellularity was an inevitable outcome or a contingent event in evolutionary history.
-
-Inaccuracies/Misinterpretations:
-
-* Oversimplification of evolutionary pathways: The transition from single-celled to multicellular life is often presented as a linear progression, which may overlook the complexity and diversity of evolutionary pathways.
-
-Solution:
-
-Including discussions on alternative evolutionary paths and the role of environmental pressures can provide a more nuanced understanding of this transition.
 
 </details>
 
@@ -276,24 +186,6 @@ Sources:
 * Dawkins, Richard. "The Selfish Gene." Oxford University Press, 1976.
 * Dobzhansky, Theodosius. "Genetics and the Origin of Species." Columbia University Press, 1937.
 * Wilson, Edward O. Sociobiology: The New Synthesis. 1975.
-
-</details>
-
-<details>
-
-<summary>Tensions</summary>
-
-Tensions:
-
-* Gene-centric vs. group selection: The tension between Dawkins’ gene-centric view and Wilson’s emphasis on social groups as units of selection highlights ongoing debates in evolutionary theory.
-
-Inaccuracies/Misinterpretations:
-
-* Potential reductionism: Focusing too heavily on the gene-centric view may oversimplify the complex interactions between genetics, environment, and social structures.
-
-Solution:
-
-Balancing the gene-centric perspective with considerations of group selection and environmental influences can provide a more holistic understanding of human genetic inheritance.
 
 </details>
 
@@ -329,20 +221,22 @@ Sources:
 
 </details>
 
-<details>
+### Primordial Soup -> Gene Soup -> Meme Soup&#x20;
 
-<summary>Tensions</summary>
+At one pivotal moment in this great evolutionary dance, something quite remarkable happened—a development that would finally quicken the tempo of change beyond anything hitherto experienced. This was the arrival of memetic evolution—organisms becoming capable of handing down learning and culture from one generation to the next not by genetic transmission, but by learning and communication (Dawkins 1976).
 
-Tensions:
+The advent of memetic evolution ended the bondage of the biological machines to a slow and fortuitous process of genetic change. They could now learn from experience, refine past generations' experiences, and pass such knowledge down to their offspring. For the first time in Earth's history, new ideas, technologies, and ways of relating to the world could suddenly take hold and race around the globe (Boyd & Richerson 1985).
 
-* Genetic vs. memetic evolution: The transition from genetic to memetic evolution represents a fundamental shift in how we understand human development, creating tension between traditional and modern evolutionary theories.
+It was memetic evolution that allowed for the emergence of civilization, language development, and culture formation. It facilitated the development of tools, social structure, and economic growth. Via memetic evolution, biological machines learned to control their immediate environment in increasingly sophisticated ways: towns were built, empires rose, and the physical world was explored (Diamond 1997).
 
-Inaccuracies/Misinterpretations:
+## New Limitations for this Manifestation of Life
 
-* Overemphasis on memetic evolution: While memetic evolution is important, it should not entirely overshadow the ongoing relevance of genetic evolution in human development.
+As these advanced biological machines rose to still greater heights of achievement, they began to suffer a limitation imposed by their own biology. For all their creativity, they were still trapped on Earth, limited and bound by the physical vessels that carried them through life (Ward & Brownlee 2000). They might be able build rockets that could escape their own gravity, launch probes toward other worlds, and even walk on their Moon; however, their bodies would never be adapted to the extreme conditions of the space environment (Kasting 2010).
 
-Solution:
+Space, filled with vacuum, radiation, and extremes of temperature, offered a challenge the human body was never designed to cope with. The biological machine that evolved on Earth was meticulously crafted and honed to live within the atmosphere of the planet; such optimizations became its failures when it ventured beyond (Cockell 2018). A dream to explore the stars—to be a multi-planetary species—seemed out of reach, constrained by the very nature of the machine dreaming it (Hawking 2018). And yet the history of life is one of overcoming limitations. The same blind force that compelled the particles that make up the first self-replicating molecules to glom together and form what we know as life, the same resourceful spirit that lifted civilization into being, now drives an inclination to overcome those very same biological limitations (Sagan 1980). These biological machines that once fumbled in the darkness of ignorance have now turned their star-gazing eyes to methods of extending their reach beyond the confines of Earth (Carruthers 2011).
 
-Integrating discussions on the interplay between genetic and memetic evolution can offer a more balanced perspective on the future of human evolution.
+The history of biological machines is a grand, intricate d~~ance~~ that began in the chaotic swirl of the primordial soup and continued through every twist and turn of evolution [(Gould, 2002)](https://www.hup.harvard.edu/catalog.php?isbn=9780674061613). It has been a ~~dance~~ leading to the emergence of complex organisms, to the development of intelligence, and to the formation of cultures.
 
-</details>
+It's a ~~dance~~ that has taken life from the depths of the oceans to the heights of the mountains, from the surface of the Earth right up to the edge of space (Knoll 2015). Every single step in thi~~s dance~~ forms a landmark in the history of life: a salute to both the power of evolution and the ingenuity of the biological machines that have emerged from it.&#x20;
+
+From the first self-replicating molecules to the advent of memetic evolution, from the rise of civilizations to the exploration of space, each twist and turn in the ~~dance~~ of life has brought new challenges and new opportunities (Margulis & Sagan 2002). And yet, this ~~dance~~ is far from over. For the biological machines which crawled out of the primordial soup are now poised at the cusp of a new era: an era in which they would transcend the limitations of their biology; an era in which they would actually merge with the very technology that they have created; and an era in which they would continue their ~~dance~~ not just on Earth, but across the universe (Kurzweil 2005).
