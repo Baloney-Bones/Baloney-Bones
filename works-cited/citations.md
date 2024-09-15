@@ -9,6 +9,7 @@
 * Aerospace Corporation. "Environmental Impacts of Rocket Launches". https://aerospace.org/environmental-impacts-rocket-launches.
 * Antoni, EJ. “Wokeness Is Slowly Hollowing out the Fed.” _The Heritage Foundation_, www.heritage.org/markets-and-finance/commentary/wokeness-slowly-hollowing-out-the-fed. Accessed 19 July 2024
 * Arendt, Hannah. _Eichmann in Jerusalem: A Report on the Banalty of Evil_. Penguin Books, 1964.
+* Arendt, Hannah. _On Violence_. Harcourt, 1969.
 * Arendt, Hannah. _The Origins of Totalitarianism_. World Publishing Company, 1958.
 * Aristophanes. “It’s Time to Save Literature from the Woke Publishing Industry.” _The Federalist_, 24 Oct. 2022, thefederalist.com/2022/10/25/its-time-to-save-literature-from-the-woke-publishing-industry/. Accessed 09 July 2024.
 * Aristotle. “De Anima (on the Soul) .” _De Anima (On the Soul)_, antilogicalism.com/wp-content/uploads/2016/12/aristotle\_anima\_final.pdf. Accessed 23 Aug. 2024.
@@ -55,6 +56,7 @@
 * Crick, F. H. C. The Origin of the Genetic Code. J. Mol. Biol. 38, 367–379 (1968).
 * Crick, Francis. _What Mad Pursuit: A Personal View of Scientific Discovery_. Basic Books, 1988.
 * Crick, F.H.C., and James D. Watson. “Molecular’ Structure of Nucleic Acids.” _Nature_, Springer Nature Limited, 11 Aug. 2004, www.nature.com/scitable/content/16331/molecularstructureofDNAswatsoncrick.pdf.
+* Darwin, Charles. _On the Origin of Species_. Edited by Charles W. Eliot, P F Collier & Son, 1909.
 * Darwin, Charles. _The Descent of Man and Selection in Relation to Sex_. vol. 1 2, John Murray: Albemarle Street, 1871, _MPG.PuRe Publication Repository_, https://pure.mpg.de/rest/items/item\_2309881\_7/component/file\_2309880/content.
 * Dawkins, Richard. “The Selfish Gene.” _Al-Zaytoonah University of Jordan_, Al-Zaytoonah University, 1 May 2014, www.zuj.edu.jo/download/the-selfish-gene-r-dawkins-1976-ww-pdf/.
 * de Villiers, R. (2022). The Human Brain – Cortex, Lobes, Neural Networks and Problem Solved!. In: de Villiers, R. (eds) The Handbook of Creativity & Innovation in Business. Springer, Singapore. https://doi.org/10.1007/978-981-19-2180-3\_2
@@ -68,10 +70,12 @@
 * Dennett, Daniel C. “The Evolution of Culture.” _The Monist_, vol. 84, no. 3, 2001, pp. 305–24. _JSTOR_, http://www.jstor.org/stable/27903733. Accessed 5 July 2024.
 * Derrida, Jacques. _Of Grammatology_. Johns Hopkins University Press, 1998.
 * Descartes, René. _Meditations on First Philosophy: With Selections from the Objections and Replies_. Translated by Michael Moriarty, Oxford University Press USA - OSO, 2008.
+* Diamond, Jared. _The Third Chimpanzee: The Evolution and Future of the Human Animal_. Harper Collins, 1993.
 * Dobzhansky, Theodosius. _Genetics and the Origin of Species_. Colombia University Press, 1937.
 * Doniger, Wendy , Gold, Ann G. , Dimock, Edward C. , Smith, Brian K. , Basham, Arthur Llewellyn , Narayanan, Vasudha and Buitenen, J.A.B. van. "Hinduism". Encyclopedia Britannica, 2 Jul. 2024, https://www.britannica.com/topic/Hinduism. Accessed 7 July 2024.
 * Doubek, James, et al. “‘Woke Racism’: John McWhorter Argues against What He Calls a Religion of Anti-Racism.” _NPR_, 6 Nov. 2021, www.npr.org/2021/11/05/1052650979/mcwhorters-new-book-woke-racism-attacks-leading-thinkers-on-race. Accessed 11 July 2024.
 * Durkheim, Émile. _The Elementary Forms of Religious Life_. Translated by Karen E. Fields, Free Press, 1995.
+* Dyson, Freeman. _Disturbing the Universe Freeman Dyson_. Pan Books, 1981.
 * Earl, Brian. “The biological function of consciousness.” _Frontiers in Psychology_, vol. 5, 5 Aug. 2014, https://doi.org/10.3389/fpsyg.2014.00697.
 * The Economist. “How Has the Meaning of the Word ‘Woke’ Evolved?” _The Economist_, The Economist Newspaper, 30 July 2021, www.economist.com/the-economist-explains/2021/07/30/how-has-the-meaning-of-the-word-woke-evolved.
 * Eggleston, Ben. “Act utilitarianism,” in The Cambridge Companion to Utilitarianism, edited by Dale E. Miller (Cambridge University Press, 2014), pp. 125–145.
@@ -98,6 +102,7 @@
 * Georgescu-Roegen, Nicholas. _The Entropy Law and the Economic Process_. Harvard University Press, 1981.
 * Gerton, Jennifer L., and R. Scott Hawley. “Homologous chromosome interactions in meiosis: Diversity amidst conservation.” _Nature Reviews Genetics_, vol. 6, no. 6, June 2005, pp. 477–487, https://doi.org/10.1038/nrg1614.
 * Gesteland, Raymond F, Thomas R. Cech, and John F. Atkins, eds. _The RNA World: The Nature of Modern RNA Suggests a Prebiotic RNA World_. 2nd ed., Cold Spring Harbor Laboratory Press, 1999.
+* Gilbert, Walter. “Origin of life: The RNA world.” _Nature_, vol. 319, no. 6055, Feb. 1986, pp. 618–618, https://doi.org/10.1038/319618a0.
 * Girard, René. _Violence and the Sacred_ . Translated by Patrick Gregory, Paperback ed., Johns Hopkins University Press, 1979.
 * Glover, Natasha. “The Banana Conjecture.” _Dessimoz Lab: Computational Evolutionary Biology_, 8 Dec. 2020, lab.dessimoz.org/blog/2020/12/08/human-banana-orthologs.
 * Godoy, Jody, and Luc Cohen. “Bankman-Fried Sentenced to 25 Years for Multi-Billion Dollar FTX Fraud.” _Reuters_, Thomas Reuters, 28 Mar. 2024, www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/.
@@ -108,6 +113,7 @@
 * Hanson, Victor Davis. “Wokeism Is a Cruel and Dangerous Cult.” _The Independent Institute_, 24 Jan. 2022, www.independent.org/news/article.asp?id=13968.
 * Harari, Yuval Noah. _Sapiens: A Brief History of Humankind_. Signal: McClelland & Stewart, 2015.
 * Haraway, Donna Jeanne. _A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century_. University of Minnesota, 2016.
+* Harrison, Albert A. _Spacefaring_. University of California Press, 2001.
 * Hayek, Friedrich A. _The Road to Serfdom_. University of Chicago Press, 1944.
 * “Hearing Wrap Up: Federal Government Use of Artificial Intelligence Poses Promise, Peril.” _Committee on Oversight & Accountability_, Committee on Oversight & Accountability, 15 Sept. 2023, https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/. Accessed 7 July 2024.
 * Hegel, Georg Wilhelm Friedrich. _Phenomenology of Spirit_. Translated by A V Miller, Oxford University Press, 1977.
@@ -149,6 +155,7 @@
 * Lakoff, George, and Mark Johnson. _Metaphors We Live By_. University of Chicago Press, 1980.
 * Lamarck, Jean Baptiste De. _Zoological Philosophy: An Exposition with Regard to the Natural History of Animals_. Translated by Hugh Elliot, MacMillan and Co., Limited, 1914.
 * Lang, Hannah. “Sam Bankman-Fried’s Sudden Turn from White Knight to Washout.” _Reuters_, Thomas Reuters, www.reuters.com/technology/sam-bankman-frieds-sudden-turn-white-knight-washout-2022-11-12/. Accessed 27 Aug. 2024.
+* Lanier, Jaron. _Ten Arguments for Deleting Your Social Media Accounts Right Now_. A Holt Paperback, Henry Holt and Company, 2022.
 * Latour, Bruno. _Reassembling the Social: An Introduction to Actor-Network-Theory_. Oxford University Press, 2005.
 * Lévi-Strauss, Claude. _Structural Anthropology_. Translated by Brooke Grundfest Schoepf and Claire Jacobson, Basic Book, 1963.
 * Lewis, Ralph. “The Evolutionary Origins of Consciousness.” _Psychology Today_, Sussex Publishers, 1 Oct. 2020, www.psychologytoday.com/us/blog/finding-purpose/202010/the-evolutionary-origins-consciousness.
@@ -158,6 +165,7 @@
 * Logsdon, John. "Space Policy: An Introduction." Wiley, 2011.
 * Long, K. F. (2012). Deep Space Propulsion: A Roadmap to Interstellar Flight. Springer.
 * Lovecraft, H. P. “Supernatural Horror in Literature.” _Supernatural Horror in Literature_, 16 Oct. 2014, web.seducoahuila.gob.mx/biblioweb/upload/supernatural\_horror\_in\_literature.pdf. Accessed 08 July 2024.
+* Lovelock, James. _The Ages of Gaia: A Biography of Our Living Earth_. Oxford University Press, 2000.
 * Luhmann, Niklas. _Social Systems_. Translated by Dirk Baecker and John Bednarz, Stanford University Press, 1995.
 * MacColl, Margaux. “‘It’s a Cult’: Inside Effective Accelerationism, the Pro-AI Movement Taking Over Silicon Valley.” _The Information_, 7 Oct. 2023, www.theinformation.com/articles/its-a-cult-inside-effective-accelerationism-the-pro-ai-movement-taking-over-silicon-valley.
 * “Mace Announces Second Hearing on White House Executive Order on AI.” _Committee on Oversight & Accountability_, Committee on Oversight & Accountability, 15 Mar. 2024, https://oversight.house.gov/release/mace-announces-second-hearing-on-white-house-executive-order-on-ai/. Accessed 7 July 2024.
@@ -176,6 +184,7 @@
 * Mayr, Ernst. _Systematics and the Origin of Species: From the Viewpoint of a Zoologist_. Columbia University Press, 1942.
 * McClintock, Barbara. _The Discovery and Characterization of Transposable Elements: The Collected Papers of Barbara McClintock_. Garland Pub, 1987.
 * McGoey, Linsey. “Elite Universities Gave Us Effective Altruism, the Dumbest Idea of the Century.” _Jacobin_, jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism. Accessed 27 Aug. 2024.
+* McKibben, Bill. _Oil and Honey: The Education of an Unlikely Activist_. St. Martin’s Griffin, 2014.
 * McLuhan, Marshall. _Understanding Media: The Extensions of Man_. 2nd ed., Gingko Press, 2013.
 * McMillan, Robert and Deepa Seetharaman. “How Effective Altruism Split Silicon Valley—and Fueled the Blowup at Openai .” _The Wall Street Journal_, www.wsj.com/tech/ai/openai-blowup-effective-altruism-disaster-f46a55e8. Accessed 27 Aug. 2024.
 * Mendel, Gregor. “Experiments on Plant Hybridization.” Natural History Society of Brünn. February 8th, and March 8th, 1865, meetings of the Brünn Natural History Society, 4 Sept. 2024, Brünn, _Electronic Scholarly Publishing Project_, http://www.esp.org/. Accessed 4 Sept. 2024.
@@ -184,6 +193,7 @@
 * Meyers, M. A., & Chawla, K. K. (2009). Mechanical Behavior of Materials. Cambridge University Press.
 * McGinnis, John O. “Why Wokeism Threatens the Rule of Law.” _Law & Liberty_, 25 Nov. 2020, lawliberty.org/why-wokeism-threatens-the-rule-of-law/. Accessed 12 July 2024.
 * Mill, John Stuart. _On Liberty_. PDF, 3rd ed., Longman, Green, Longman, Roberts, & Green, 1864. _Internet Archive_, https://ia801308.us.archive.org/13/items/onliberty00inmill/onliberty00inmill.pdf. Accessed 5 Sept. 2024.
+* Millis, Marc, et al. “Breakthrough Propulsion Study.” _Breakthrough Propulsion Study: Assessing Interstellar Flight Challenges and Prospects_, NASA, June 2018, ntrs.nasa.gov/api/citations/20180006480/downloads/20180006480.pdf.
 * Mintz, Steven. “Does Wokeness Threaten Academic Freedom?” _Inside Higher Ed | Higher Education News, Events and Jobs_, www.insidehighered.com/blogs/higher-ed-gamma/does-wokeness-threaten-academic-freedom. Accessed 09 July 2024.
 * Mises, Ludwig Von. _Human Action_. Ludwig von Mises Institute, 1998.
 * Mizuuchi, Ryo, et al. “Evolutionary transition from a single RNA replicator to a multiple Replicator Network.” _Nature Communications_, vol. 13, no. 1, 18 Mar. 2022, https://doi.org/10.1038/s41467-022-29113-x.
@@ -252,6 +262,7 @@
 * University of Oxford. “8.2% of Our DNA Is ‘Functional.’” _University of Oxford_, 25 July 2015, www.ox.ac.uk/news/2014-07-25-82-our-dna-%E2%80%98functional%E2%80%99.
 * University of Tokyo. “New Insight into Possible Origins of Life: For the First Time Researchers Create an RNA Molecule That Replicates.” _SciTechDaily_, 18 Mar. 2022, scitechdaily.com/new-insight-into-possible-origins-of-life-for-the-first-time-researchers-create-an-rna-molecule-that-replicates/.
 * Venter, J Craig. “A DNA-Driven World.” The 32nd Richard Dimbleby Lecture. 2024, London, The Design Museum.
+* Vernikos, Joan. _G-Connection: Harness Gravity and Reverse Aging_. iUniverse, Inc, 2004.
 * Veysset, David, et al. “High-velocity micro-projectile impact testing.” _Applied Physics Reviews_, vol. 8, no. 1, 1 Mar. 2021, https://doi.org/10.1063/5.0040772.
 * Vico, L., et al. "Effects of Long-Term Microgravity Exposure on Cancellous and Cortical Weight-Bearing Bones of Cosmonauts." The Lancet, vol. 355, no. 9215, 2000, pp. 1607-1611.
 * Wang, Fengchao, et al. “Rock breaking performance of TBM disc cutter assisted by high-pressure water jet.” _Applied Sciences_, vol. 10, no. 18, 10 Sept. 2020, p. 6294, https://doi.org/10.3390/app10186294.
