@@ -249,6 +249,7 @@
 * Stark, Rodney William. _The Rise of Christianity: How the Obscure, Marginal Jesus Movement Became the Dominant Religious Force in the Western World in a Few Centuries_. HarperSanFrancisco, 1997.
 * Strong, Tracy B. “Nietzsche and the Critique of Religion.” _Nietzsche and the Antichrist: Religion, Politics, and Culture in Late Modernity_, edited by Conway, et al., Bloomsbury, London, England, 2018, pp. 141–158.
 * Suedfeld, Peter. “Mars: Anticipating the Next Great Exploration. Psychology, Culture and Camaraderie.” _Journal of Cosmology_, vol. 12, 2010, pp. 3723–3740, https://thejournalofcosmology.com/Mars107.html.
+* Sutherland, John D. “The Origin of Life—Out of the Blue.” _Angewandte Chemie International Edition_, vol. 55, no. 1, 29 Oct. 2015, pp. 104–121, https://doi.org/10.1002/anie.201506585.
 * Swayne, Matt. “Scientists Uncover the Genetic Pathway That Colors Bumble Bee Stripes.” _Phys.Org_, Phys.org, 22 Oct. 2021, phys.org/news/2021-10-scientists-uncover-genetic-pathway-bumble.html.
 * Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder_. Random House, 2012.
 * Tarantola, Andrew. “OpenAI Fires CEO Sam Altman as ‘board No Longer Has Confidence’ in His Leadership.” _Engadget_, Engadget, 18 Nov. 2023, www.engadget.com/openai-ceo-sam-altman-ousted-as-board-no-longer-has-confidence-in-his-leadership-204924006.html.

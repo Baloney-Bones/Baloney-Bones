@@ -1,6 +1,6 @@
 # Extending through the Shedding of Corporeal Flaws
 
-Were ACEL eternally stuck here in the theoretical doldrums where extending our species through both space and time proved an utter impossibility, well, first, it wouldn't be ACEL; second, there would be no use in writing this book.&#x20;
+
 
 At this point in the book&#x20;
 
