@@ -1,4 +1,4 @@
-# Role of Bots in Space Exploration
+# Role of Bots in Space Expl.
 
 One primary objective of the bots in space explorations is to enhance man's understanding of the universe. Such sophisticated machines are associated with several critical tasks, including data collection and analysis. Fitted with advanced sensing gadgets and analytical tools, bots could collect and process massive amounts of data from various objects. Since they can operate in highly inhospitable environments, the robots can pick up information far beyond human capacity.&#x20;
 

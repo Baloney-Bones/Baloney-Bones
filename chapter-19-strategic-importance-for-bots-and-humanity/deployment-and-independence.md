@@ -1,4 +1,4 @@
-# Deployment and Independence
+# Deployment & Independence
 
 The rapid deployment of bots into space is necessary. If it is delayed, regulatory and political constraints -- by those with vested interests -- , might stifle them. Quick exportation ensures that bots can be free and work to their set exploration mandate. Such a deployment should be followed with giant reusable space launch systems (SLS) that are contained in themselves and thus reduce reliance on Earth-based resources. These systems ensure a persistent supply of bots in space, ready to perform their designed tasks.
 

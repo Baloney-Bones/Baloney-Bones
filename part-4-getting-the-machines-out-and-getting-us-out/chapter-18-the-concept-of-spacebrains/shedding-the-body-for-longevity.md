@@ -9,12 +9,9 @@ description: '**work out b/w 5.3 and here**'
 _Longevity_, a household name within our memetic repository, has for millennia been regarded as a virtue of the highest order. Indeed, we see in The Rigveda, the oldest Sanskrit text written between 1500 and 1000 BCE, the desire for and celebration of long life, as Book X Hymn XVIII sings,
 
 > 1. Depart, Death, along the further path, which is your own, different from the one leading to the gods. To you who possess eyes and who listen do I speak: do not harm our offspring nor our heroes.
-
-2. Effacing the footprint of death when you have gone, establishing for yourselves a longer, more extended lifetime, swelling up with offspring and wealth, become cleansed and purified, o you who are worthy of the sacrifice.
-3. These the living have turned aside from the dead. The invocation of the gods has become favorable for us today. We have gone facing forward to dancing, to laughter, establishing for ourselves a longer, more extended lifetime.
-4. I set down this barrier here for the living. Let no one of these later go to this goal. Let them live for a hundred ample autumns. Let them conceal death with a mountain. (Brereton et al. 1400)
-
->
+> 2. ]Effacing the footprint of death when you have gone, establishing for yourselves a longer, more extended lifetime, swelling up with offspring and wealth, become cleansed and purified, o you who are worthy of the sacrifice.
+> 3. These the living have turned aside from the dead. The invocation of the gods has become favorable for us today. We have gone facing forward to dancing, to laughter, establishing for ourselves a longer, more extended lifetime.
+> 4. I set down this barrier here for the living. Let no one of these later go to this goal. Let them live for a hundred ample autumns. Let them conceal death with a mountain. (Brereton et al. 1400)
 
 Even older, the Pyramid of Unis, which dates between 2375 and 2345 BCE, holds on its wall many passages, one of which translates, “Recitation by Nūt: I enfold your beauty within this soul of mine for all life — permanence, dominion, and health for the King — may he live forever!” (Faulkner 3). Clearly, long life has long been at the forefront of our species’ priorities: It is our positive value signifier of existential success, our barometer of victory over the elements; it is any extension of half-life in the face of, in spite of death.
 
@@ -58,7 +55,7 @@ Biocompatibility should not only keep the brain alive, but also ensure an enviro
 
 This vision is more credible when taking into account the recent advances in neural interfacing and biotechnologies. Advanced techniques being developed by companies such as Neuralink have explored the seamless integration of brains into synthetic environments through direct brain-machine interfaces. Bioprinting technologies have proven that it is possible to print synthetic skin and cartilage for medical treatment. Further applying these principles, all of these artificial environments could then be sustained indefinitely, independent of the decaying host organism. Bioprinting foresees the potential synthesis of artificial organs and tissues designed with the intent to cooperate harmoniously with the human brain. Such tissues and organs would be tailor-made to suit one's anatomical physiology, based on one's genotype, to guarantee compatibility and functionality--reducing the risk of transplant rejection.&#x20;
 
-Further than that, the concept of SpaceBrains has implications way beyond longevity.
+Further than that, the concept of SpaceBrains has implications far beyond longevity.
 
 By shedding the physical body, we also shed the limitations that our biological systems have imposed upon us. The possibilities for expanded cognitive potential open themselves to us, as now the brain no longer has to manage and maintain a decaying/aging body. Without these constraints, the brain would devote more resources to processing information, learning, and solving problems--leading to considerable rises in intelligence and creativity.&#x20;
 

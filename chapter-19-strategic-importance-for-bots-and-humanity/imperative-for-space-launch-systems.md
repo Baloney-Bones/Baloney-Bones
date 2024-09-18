@@ -1,4 +1,4 @@
-# Imperative for Space Launch Systems
+# Imper. for Spc. Launch Sys's
 
 The ACCEL Tunnel represents a quantum leap in the future regarding space exploration; hosts the most radical functions such as rapid deployment, autonomous operations, and complete realization of knowledge from humanity.&#x20;
 

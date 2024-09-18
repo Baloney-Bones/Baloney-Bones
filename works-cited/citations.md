@@ -152,6 +152,7 @@
 * Ireland, John D. _The UDĀNA: Inspired Utterances of the Buddha_. Buddhist Publication Society, 1997.
 * Jablonka, Eva, and Marion J. Lamb. Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life. MIT Press, 2006.
 * Jacobson, Stanley, et al. _Neuroanatomy for the Neuroscientist_, 2018, https://doi.org/10.1007/978-3-319-60187-8.
+* Joyce, Gerald F. and Szostak, Jack W. “Protocells and RNA self-replication.” _Cold Spring Harbor Perspectives in Biology_, vol. 10, no. 9, Sept. 2018, https://doi.org/10.1101/cshperspect.a034801.
 * Jung, C. G. _The Collected Works of C. G. Jung: Vol. 9 Pt. II, AION: Researches into the Phenomenology of the Self._ Edited by Herbert Read et al. Translated by Richard F. C. Hull, 2nd ed., vol. 9 20, Princeton University Press, 1959.
 * Jung, C. G. _The Collected Works of C. G. Jung: Vol. 9. Pt. I. The Archetypes and the Collective Unconscious_. Edited by William McGuire et al. Translated by Richard F. C. Hull and Gerhard Adler, 2nd ed., vol. 9 20, Princeton University Press, 1969.
 * Jung, C. G., et al. _Man and His Symbols_. Edited by Marie-Luise Von Franz and Jonathan Freeman, Doubleday, 1964.
@@ -280,7 +281,6 @@
 * Suedfeld, Peter. “Mars: Anticipating the Next Great Exploration. Psychology, Culture and Camaraderie.” _Journal of Cosmology_, vol. 12, 2010, pp. 3723–3740, https://thejournalofcosmology.com/Mars107.html.
 * Sutherland, John D. “The Origin of Life—Out of the Blue.” _Angewandte Chemie International Edition_, vol. 55, no. 1, 29 Oct. 2015, pp. 104–121, https://doi.org/10.1002/anie.201506585.
 * Swayne, Matt. “Scientists Uncover the Genetic Pathway That Colors Bumble Bee Stripes.” _Phys.Org_, Phys.org, 22 Oct. 2021, phys.org/news/2021-10-scientists-uncover-genetic-pathway-bumble.html.
-* Szostak, Jack W., and Gerald F. Joyce. “Protocells and RNA self-replication.” _Cold Spring Harbor Perspectives in Biology_, vol. 10, no. 9, Sept. 2018, https://doi.org/10.1101/cshperspect.a034801.
 * Szostak, Jack W., David P. Bartel, and Pier Luigi Luisi. "Synthesizing Life." Nature, vol. 409, no. 6818, 2001, pp. 387-390.
 * Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder_. Random House, 2012.
 * Tarantola, Andrew. “OpenAI Fires CEO Sam Altman as ‘board No Longer Has Confidence’ in His Leadership.” _Engadget_, Engadget, 18 Nov. 2023, www.engadget.com/openai-ceo-sam-altman-ousted-as-board-no-longer-has-confidence-in-his-leadership-204924006.html.

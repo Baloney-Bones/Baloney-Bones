@@ -69,6 +69,8 @@ and so it is no surprise that it suggests to push our frame even further — to 
 
 ——we must consider and embrace revolutionary premise: shedding the physical body. What may have long been relegated to the realm of science fiction fantasy is now being put forward as an necessity to major life extension. Isolate the brain from its biological confinements and put it in a controlled environment, and we could improve upon its resilience and how it functions.
 
+***
+
 Any attempt at life extension is drastically limited by the human biological body, which is vulnerable and subject to decline. The human body will always be a potential victim of disease, physical injuries, and the natural process of aging—against most of which current medicine has insufficient defense. However, assuming an optimal and stable environment, the human brain might be able to function through extended time frames. This idea appears to be a precondition if future options regarding human longevity are considered at all.
 
 Several critical medical breakthroughs would need to take place to realize the SpaceBrains project. Biocompatible materials and safe surgical methods will have to be developed for replacing biological with synthetic supporting mechanisms. First, a method should be developed for surgically removing the brain and lapping it inside a self-contained silicon pod that sustains life. The pod should be able to supply the brain with all its required nutrition, including synthesized glucose, salts, and oxygen, as appropriate, to keep the organ functional. In such a case, the energy needs required by these pods will be provided with reliable and sustainable sources, such as solar panels.

@@ -1,4 +1,4 @@
-# Explosive-Based and Rail Gun Systems
+# Explos.-Bas., Rail Gun Systems
 
 Much like rocket-based systems, explosive-based launch systems, whose mechanics rely on the controlled explosion of propellants to provide thrust to their payload, also come attendant with challenges. Mainly, the problem is how to contain and usefully employ the high pressures and temperatures produced in an explosion.&#x20;
 
