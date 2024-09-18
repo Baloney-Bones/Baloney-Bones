@@ -12,25 +12,26 @@
 * Arendt, Hannah. _On Violence_. Harcourt, 1969.
 * Arendt, Hannah. _The Origins of Totalitarianism_. World Publishing Company, 1958.
 * Aristophanes. “It’s Time to Save Literature from the Woke Publishing Industry.” _The Federalist_, 24 Oct. 2022, thefederalist.com/2022/10/25/its-time-to-save-literature-from-the-woke-publishing-industry/. Accessed 09 July 2024.
-* Aristotle. “De Anima (on the Soul) .” _De Anima (On the Soul)_, antilogicalism.com/wp-content/uploads/2016/12/aristotle\_anima\_final.pdf. Accessed 23 Aug. 2024.
+* Aristotle. _De Anima_. Translated by R. D. Hicks, Cambridge University Press, 1907.
+* Aristotle. _Generation of Animals_. Edited by T. E. Page. Translated by A. L. Peck, Harvard University Press, 1942.
 * Aristotle. _Nicomachean Ethics_. Translated by W. D. Ross, Batoche Books, 1999.
 * Arnold, Bill T. _Genesis_. New Cambridge Bible Commentary, Cambridge University Press, 2009.
 * Asad, Talal. _Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam_. Johns Hopkins Univ. Press, 1993.
 * Al Awam, Ibn Mohammed Ibn Ahmed Ibn. Kitab Al- Filaha (Book of Agriculture). India, Repro Books Limited, 2017.
 * Barron , Robert. “The Philosophical Roots of Wokeism.” _Acton Institute_, 8 Jan. 2024, www.acton.org/religion-liberty/volume-34-number-1/philosophical-roots-wokeism. Accessed 09 July 2024.
-* Bartosch, Jo. “Beware Trans Ideas in Sheep’s Clothing.” _Spiked Beware Trans Ideas in Sheeps Clothing Comments_, spiked, 20 Nov. 2020, www.spiked-online.com/2020/11/19/beware-trans-ideas-in-sheeps-clothing/.
+* Bartosch, Jo. “Beware Trans Ideas in Sheep’s Clothing.” _Spiked_, 20 Nov. 2020, www.spiked-online.com/2020/11/19/beware-trans-ideas-in-sheeps-clothing/.
 * Bateson, G. _Steps to an Ecology of Mind._ New York: Ballantine Books, 1972.
 * Bateson, William. _Mendel’s Principles of Heredity_. Cambridge University Press, 1909.
 * Bateson, W. _Methods and Scope of Genetics_. Cambridge University Press, 1908.
 * Battelle Technology Partnership Practice. “Economic Impact of the Human Genome Project.” _Battelle Memorial Institute_ , May 2011, Accessed Aug. 2024.
 * Baudrillard, Jean. _Simulacra and Simulation_. Translated by Sheila Faria Glaser, University of Michigan Press, 1994.
-* Beckett, Andy. “Accelerationism: How a Fringe Philosophy Predicted the Future We Live In.” _The Guardian_, Guardian News and Media, 11 May 2017, www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in.
+* Beckett, Andy. “Accelerationism: How a Fringe Philosophy Predicted the Future We Live In.” _The Guardian_, 11 May 2017, www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in.
 * Berger, Peter L. _The Sacred Canopy: Elements of a Sociological Theory of Religion_. Open Road Media, 2011.
 * Berger, Peter L., and Thomas Luckmann. _The Social Construction of Reality: A Treatise in the Sociology of Knowledge_. Penguin Books, 1991.
 * Bergson, Henri. _Creative Evolution_. Translated by Arthur Mitchell, MacMillan and Co., Limited, 1911.
 * Bergson, Henri. _Time and Free Will: An Essay on the Immediate Data of Consciousness_. Translated by F. L. Pogson, Allen & Unwin Ltd., 1950.
-* Berlatsky, Noah. “Effective Altruism Is Neither Effective nor Altruistic.” _Effective Altruism Is Neither Effective Nor Altruistic_, Everything Is Horrible, 9 May 2024, www.everythingishorrible.net/p/effective-altruism-is-neither-effective.https://www.everythingishorrible.net/p/effective-altruism-is-neither-effective.
-* Blackmore, Susan J. _The Meme Machine_. Oxford University Press, 2000.
+* Berlatsky, Noah. “Effective Altruism Is Neither Effective nor Altruistic.” _Everything Is Horrible_, 9 May 2024, www.everythingishorrible.net/p/effective-altruism-is-neither-effective.
+* Blackmore, Susan. The Meme Machine. Oxford University Press, 1999.
 * Bloch, Ernst. _The Principle of Hope_. Translated by Neville Plaice et al., vol. 1, MIT Press, 1986.
 * Bloch, Ernst. _The Principle of Hope_. Translated by Neville Plaice et al., vol. 2, MIT Press, 1986.
 * Bloch, Ernst. _The Principle of Hope_. Translated by Neville Plaice et al., vol. 2, MIT Press, 1986.
@@ -39,27 +40,34 @@
 * Bourdieu, Pierre. _Distinction: A Social Critique of the Judgement of Taste_. Translated by R. Nice, Harvard University Press, 1984.
 * Bowlby, John. _Attachment and Loss_. Vol. 1, Penguin Books, 1971.
 * Bowler, Peter J. _The Mendelian Revolution: The Emergence of Hereditarian Concepts in Modern Science and Society_. Bloomsbury Academic, 2015.
-* Bowman, Abigail. “Space Launch System.” Edited by Lee Mohon, _NASA_, NASA, 11 July 2024, www.nasa.gov/reference/space-launch-system/.
+* Bowman, Abigail. “Space Launch System.” Edited by Lee Mohon, _NASA_, 11 July 2024, www.nasa.gov/reference/space-launch-system/.
+* Boyd, Robert, and Peter J. Richerson. Culture and the Evolutionary Process. University of Chicago Press, 1985.
 * Brereton, Joel P., and Stephanie W. Jamison. _The Rigveda: The Earliest Religious Poetry of India_. Vol. 3, Oxford University Press, 2014.
 * Brinkhof, Tim. “Here’s Why Sensory Perception Research Was Awarded A Nobel Prize.” _Freethink_, 11 Oct. 2021, www.freethink.com/science/2021-nobel-prize-for-medicine-is-awarded-to-work-on-sensory-perception-heres-why.
-* Brodsky, Sascha. “Even the Creator of Chatgpt Finds Ai Scary, but Not Everyone Agrees.” _Lifewire_, Lifewire, 24 Feb. 2023, www.lifewire.com/even-the-creator-of-chatgpt-finds-ai-scary-but-not-everyone-agrees-7113525.
-* Broughel, James. “Effective Altruism Contributed to the Fiasco at OpenAI.” _Forbes_, Forbes Magazine, 9 May 2024, www.forbes.com/sites/jamesbroughel/2023/11/20/effective-altruism-contributed-to-the-fiasco-at-openai/.
+* Brodsky, Sascha. “Even the Creator of Chatgpt Finds Ai Scary, but Not Everyone Agrees.” _Lifewire_, 24 Feb. 2023, www.lifewire.com/even-the-creator-of-chatgpt-finds-ai-scary-but-not-everyone-agrees-7113525.
+* Broughel, James. “Effective Altruism Contributed to the Fiasco at OpenAI.” _Forbes_, 9 May 2024, www.forbes.com/sites/jamesbroughel/2023/11/20/effective-altruism-contributed-to-the-fiasco-at-openai/.
 * Camus, Albert. _The Rebel: An Essay on Man in Revolt_. Translated by Anthony Bower, Vintage International, 1991.
 * Camus, A. (1988). _The Stranger_. New York: Alfred A. Knopf, Inc.
 * Cancellieri, E., Bel Hadj Brahim, H., Ben Nasr, J. _et al._ A late Middle Pleistocene Middle Stone Age sequence identified at Wadi Lazalim in southern Tunisia. _Sci Rep_ 12, 3996 (2022). https://doi.org/10.1038/s41598-022-07816-x.
 * Cannon, Walter B. _The Wisdom of the Body_. 1st ed., Norton & Norton, 1932.
+* Carruthers, Peter. The Opacity of Mind: An Integrative Theory of Self-Knowledge. Oxford University Press, 2011.
 * The Center for Effective Altruism. “Effective Altruism Is about Doing Good Better.” _Effective Altruism_, Centre for Effective Altruism, www.effectivealtruism.org/. Accessed 4 Sept. 2024.
+* Chalmers, David J. The Conscious Mind: In Search of a Fundamental Theory. Oxford University Press, 1996.
 * Cheng, D. K. (2015). Field and Wave Electromagnetics. Pearson.
 * Church, George M., and Ed Regis. _Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves_. Basic Books, 2012.
+* Cockell, Charles S. Astrobiology: Understanding Life in the Universe. Wiley, 2018.
 * Columella and Harrison B. Ash. _On Agriculture_. Columella, Lucius Junius Moderatus. Harvard University Press, 1941. 3 vols.
 * Cosmides, Leda, and John Tooby. “Cognitive Adaptations for Social Change.” _The Adapted Mind: Evolutionary Psychology and the Generation of Culture_, Oxford University Press, New York, NY, 1992, pp. 163–228.
 * Crick, F. H. C. The Origin of the Genetic Code. J. Mol. Biol. 38, 367–379 (1968).
 * Crick, Francis. _What Mad Pursuit: A Personal View of Scientific Discovery_. Basic Books, 1988.
-* Crick, F.H.C., and James D. Watson. “Molecular’ Structure of Nucleic Acids.” _Nature_, Springer Nature Limited, 11 Aug. 2004, www.nature.com/scitable/content/16331/molecularstructureofDNAswatsoncrick.pdf.
+* Crick, F.H.C., and James D. Watson. “Molecular Structure of Nucleic Acids.” _Nature_, 11 Aug. 2004, www.nature.com/scitable/content/16331/molecularstructureofDNAswatsoncrick.pdf.
+* Cucinotta, F. A., et al. "Space Radiation and Cataracts in Astronauts." Radiation Research, vol. 156, no. 5, 2001, pp. 460-466.
 * Darwin, Charles. _On the Origin of Species_. Edited by Charles W. Eliot, P F Collier & Son, 1909.
-* Darwin, Charles. _The Descent of Man and Selection in Relation to Sex_. vol. 1 2, John Murray: Albemarle Street, 1871, _MPG.PuRe Publication Repository_, https://pure.mpg.de/rest/items/item\_2309881\_7/component/file\_2309880/content.
-* Dawkins, Richard. “The Selfish Gene.” _Al-Zaytoonah University of Jordan_, Al-Zaytoonah University, 1 May 2014, www.zuj.edu.jo/download/the-selfish-gene-r-dawkins-1976-ww-pdf/.
+* Darwin, Charles. _The Descent of Man and Selection in Relation to Sex_. vol. 1 2, John Murray: Albemarle Street, 1871.
+* Darwin, Erasmus. _Zoonomia; or, the Laws of Organic Life: Vol. 1_. J. Johnson, 1794.
+* Dawkins, Richard. The Selfish Gene. Oxford University Press, 1976.
 * de Villiers, R. (2022). The Human Brain – Cortex, Lobes, Neural Networks and Problem Solved!. In: de Villiers, R. (eds) The Handbook of Creativity & Innovation in Business. Springer, Singapore. https://doi.org/10.1007/978-981-19-2180-3\_2
+* Deamer, David, and J. P. Dworkin. "Chemistry and Physics of Primitive Membranes." Astrobiology, vol. 5, no. 4, 2005, pp. 499-514.
 * Deacon, Terrence William. _The Symbolic Species: The Co-Evolution of Language and the Brain_. W. W. Norton & Company, 1997.
 * Deleuze, Gilles, et al. _Anti-Oedipus: Capitalism and Schizophrenia_. Translated by Mark Seem and Robert Hurley, University of Minnesota Press, 1983.
 * Deleuze, Gilles. _Spinoza: Practical Philosophy_. Translated by Robert Hurley, City Lights Books, 1988.
@@ -70,6 +78,7 @@
 * Dennett, Daniel C. “The Evolution of Culture.” _The Monist_, vol. 84, no. 3, 2001, pp. 305–24. _JSTOR_, http://www.jstor.org/stable/27903733. Accessed 5 July 2024.
 * Derrida, Jacques. _Of Grammatology_. Johns Hopkins University Press, 1998.
 * Descartes, René. _Meditations on First Philosophy: With Selections from the Objections and Replies_. Translated by Michael Moriarty, Oxford University Press USA - OSO, 2008.
+* Diamond, Jared. Guns, Germs, and Steel: The Fates of Human Societies. W. W. Norton & Company, 1997.
 * Diamond, Jared. _The Third Chimpanzee: The Evolution and Future of the Human Animal_. Harper Collins, 1993.
 * Dobzhansky, Theodosius. _Genetics and the Origin of Species_. Colombia University Press, 1937.
 * Doniger, Wendy , Gold, Ann G. , Dimock, Edward C. , Smith, Brian K. , Basham, Arthur Llewellyn , Narayanan, Vasudha and Buitenen, J.A.B. van. "Hinduism". Encyclopedia Britannica, 2 Jul. 2024, https://www.britannica.com/topic/Hinduism. Accessed 7 July 2024.
@@ -84,7 +93,7 @@
 * Emerson, Ralph W. (1993). Self-Reliance and Other Essays. New York: Dover Publications. &#x20;
 * “Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.” _The White House_, The United States Government, 30 Oct. 2023, www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/. Accessed 16 July 2024.
 * Faulkner, R. O. (1969). The Ancient Egyptian Pyramid Texts. Oxford: Clarendon Press.
-* “Fear Psychosis and the Cult of Safety – Why Are People so Afraid?” _Academy of Ideas | Free Minds for a Free Society_, 5 Nov. 2023, academyofideas.com/2022/04/fear-psychosis-and-the-cult-of-safety/. Accessed 08 July 2024.
+* “Fear Psychosis and the Cult of Safety – Why Are People so Afraid?” _Academy of Ideas_, 5 Nov. 2023, academyofideas.com/2022/04/fear-psychosis-and-the-cult-of-safety/. Accessed 08 July 2024.
 * Fonda, Daren. “Culture Wars Are Hitting Companies. They’re Fighting Back.” _Barron’s_, www.barrons.com/articles/bud-light-woke-companies-culture-wars-c37da7b4. Accessed 09 July 2024.
 * Foucault, Michel. _The Archaeology of Knowledge_. Translated by A. M. Sheridan Smith, Pantheon Books, 1972.
 * Foucault, Michel. _Discipline and Punish: The Birth of the Prison_. Translated by Alan Sheridan, Random House, 1995.
@@ -94,7 +103,7 @@
 * Foucault, Michel. _The History of Sexuality: The Use of Pleasure_. Translated by Robert Hurley, vol. 2, Vintage Books, 1990.
 * Foucault, Michel. _Security, Territory, Population: Lectures at the Collège de France, 1977-1978_. Edited by Michel Senellart et al. Translated by Graham Burchell, Palgrave Macmillan, 2004.
 * Fridman, Lex. “#407 – Guillaume Verdon: Beff Jezos, E/ACC Movement, Physics, Computation & AGI.” _Apple Podcasts_, Apple Inc., 29 Dec. 2023, podcasts.apple.com/au/podcast/407-guillaume-verdon-beff-jezos-e-acc-movement-physics/id1434243584?i=1000640047523.
-* Friedrich, Casper David, and Cody Delistraty. “Wanderer above the Sea of Fog.” _The Paris Review_, 27 Aug. 2018, Hamburger Kunsthalle, Hamburg, https://www.theparisreview.org/blog/2018/08/27/the-art-and-politics-of-wanderlust/. Accessed 7 Aug. 2024.
+* Friedrich, Casper David, and Cody Delistraty. “Wanderer above the Sea of Fog.” _The Paris Review_, 27 Aug. 2018, Kunsthalle, Hamburg, https://www.theparisreview.org/blog/2018/08/27/the-art-and-politics-of-wanderlust/. Accessed 7 Aug. 2024.
 * Freud, Sigmund. _The Future of an Illusion_. Ed. & trans. by James Strachey, W. W. Norton & Company, Inc., 1969.
 * Funk, Max. “Wokeism – the New Religion of the West.” _Converge Media_, 20 Feb. 2021, www.convergemedia.org/wokeism-the-new-religion-of-the-west/. Accessed 09 July 2024.
 * Furedi, Frank. _How Fear Works: Culture of Fear in the Twenty-First Century_. Bloomsbury Continuum, 2018.
@@ -105,15 +114,20 @@
 * Gilbert, Walter. “Origin of life: The RNA world.” _Nature_, vol. 319, no. 6055, Feb. 1986, pp. 618–618, https://doi.org/10.1038/319618a0.
 * Girard, René. _Violence and the Sacred_ . Translated by Patrick Gregory, Paperback ed., Johns Hopkins University Press, 1979.
 * Glover, Natasha. “The Banana Conjecture.” _Dessimoz Lab: Computational Evolutionary Biology_, 8 Dec. 2020, lab.dessimoz.org/blog/2020/12/08/human-banana-orthologs.
-* Godoy, Jody, and Luc Cohen. “Bankman-Fried Sentenced to 25 Years for Multi-Billion Dollar FTX Fraud.” _Reuters_, Thomas Reuters, 28 Mar. 2024, www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/.
+* Godoy, Jody, and Luc Cohen. “Bankman-Fried Sentenced to 25 Years for Multi-Billion Dollar FTX Fraud.” _Reuters_, 28 Mar. 2024, www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/.
+* Gould, Stephen Jay. Wonderful Life: The Burgess Shale and the Nature of History. W. W. Norton & Company, 1989.
 * Gramsci, Antonio. _Selections from the Prison Notebooks of Antonio Gramsci_. Edited by Quintin Hoare. Translated by Quintin Hoare and Geoffrey Nowell Smith, International Publishers, 1971.
+* Gregory, Andrew. _Anaximander: A Re-Assessment_. Bloomsbury Academic, 2017.
 * Griffiths, D. J. (2017). Introduction to Electrodynamics. Cambridge University Press.
 * Habermas, Jurgen. _The Structural Transformation of the Public Sphere: An Enquiry into a Category of Bourgeois Society_. Translated by Frederick Lawrence and Thomas Burger, The M.I.T. Press, 1991.
 * Halliday, D., Resnick, R., & Walker, J. (2013). Fundamentals of Physics. Wiley.
 * Hanson, Victor Davis. “Wokeism Is a Cruel and Dangerous Cult.” _The Independent Institute_, 24 Jan. 2022, www.independent.org/news/article.asp?id=13968.
 * Harari, Yuval Noah. _Sapiens: A Brief History of Humankind_. Signal: McClelland & Stewart, 2015.
+* Harari, Yuval Noah. Sapiens: A Brief History of Humankind. Harper, 2015.
 * Haraway, Donna Jeanne. _A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century_. University of Minnesota, 2016.
 * Harrison, Albert A. _Spacefaring_. University of California Press, 2001.
+* Hawkey, A. "The Human Body in Space: Distinguishing Fact from Fiction." Advances in Physiology Education, vol. 27, no. 3, 2003, pp. 176-181.
+* Hawking, Stephen. Brief Answers to the Big Questions. Bantam Books, 2018.
 * Hayek, Friedrich A. _The Road to Serfdom_. University of Chicago Press, 1944.
 * “Hearing Wrap Up: Federal Government Use of Artificial Intelligence Poses Promise, Peril.” _Committee on Oversight & Accountability_, Committee on Oversight & Accountability, 15 Sept. 2023, https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/. Accessed 7 July 2024.
 * Hegel, Georg Wilhelm Friedrich. _Phenomenology of Spirit_. Translated by A V Miller, Oxford University Press, 1977.
@@ -122,6 +136,7 @@
 * Herbert, Frank. _Dune Chronicles: Dune_. Vol. 1, Ace Books, 1965.
 * Herman, Edward S., and Noam Chomsky. _Manufacturing Consent: The Political Economy of the Mass Media_. The Bodley Head, 2008.
 * Higgs, Paul G., and Niles Lehman. “The RNA world: Molecular Cooperation at the Origins of Life.” _Nature Reviews Genetics_, vol. 16, no. 1, 11 Nov. 2014, pp. 7–17, https://doi.org/10.1038/nrg3841.
+* Hofstadter, Douglas R. Gödel, Escher, Bach: An Eternal Golden Braid. Basic Books, 1979.
 * Holbraad, M., Pedersen, M. and Viveiros de Castro, E. (2014). The Politics of Ontology: Anthropological Positions. _Cultural Anthropology Online_, \[online] p.1. Available at: http://culanth.org/fieldsights/462-the-politics-of-ontology-anthropological-positions.
 * Holzer, T. L., & Pampeyan, E. H. (1981). "Geological Considerations for High-Altitude Launch Sites." Geological Society of America Bulletin, 92(4), 193-204.
 * Hoppe, Hans-Hermann, and Juan Fernando Carpio. “Our Obsession with Consumption — While Ignoring Saving and Investment — Is a Big Problem.” _Mises Wire_, Mises Institute, 13 June 2018, Accessed 7 July 2024.
@@ -135,17 +150,21 @@
 * Ingold, Tim. _Lines: A Brief History_. Routledge, 2007.
 * Ingold. _The Perception of the Environment: Essays on Livelihood, Dwelling and Skill_. Routledege, 2011.
 * Ireland, John D. _The UDĀNA: Inspired Utterances of the Buddha_. Buddhist Publication Society, 1997.
+* Jablonka, Eva, and Marion J. Lamb. Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life. MIT Press, 2006.
 * Jacobson, Stanley, et al. _Neuroanatomy for the Neuroscientist_, 2018, https://doi.org/10.1007/978-3-319-60187-8.
 * Jung, C. G. _The Collected Works of C. G. Jung: Vol. 9 Pt. II, AION: Researches into the Phenomenology of the Self._ Edited by Herbert Read et al. Translated by Richard F. C. Hull, 2nd ed., vol. 9 20, Princeton University Press, 1959.
 * Jung, C. G. _The Collected Works of C. G. Jung: Vol. 9. Pt. I. The Archetypes and the Collective Unconscious_. Edited by William McGuire et al. Translated by Richard F. C. Hull and Gerhard Adler, 2nd ed., vol. 9 20, Princeton University Press, 1969.
 * Jung, C. G., et al. _Man and His Symbols_. Edited by Marie-Luise Von Franz and Jonathan Freeman, Doubleday, 1964.
-* Kaewkongkaew, K., Phien-Wej, N, (2015). Prediction of rock mass along tunnels by geostatistics&#x20;
+* Kaewkongkaew, K., Phien-wej, N. & Kham-ai, D. Prediction of rock mass along tunnels by geostatistics. KSCE J Civ Eng 19, 81–90 (2015). https://doi.org/10.1007/s12205-014-0505-3.
+* Kahneman, Daniel. Thinking, Fast and Slow. Farrar, Straus and Giroux, 2011.
 * Kao, Emilie. “Woke Gender.” _The Heritage Foundation_, www.heritage.org/gender/commentary/woke-gender. Accessed 09 July 2024.
+* Kasting, James F. How to Find a Habitable Planet. Princeton University Press, 2010.
 * Kasulis, T., Ames, R. and Dissanayake, W. (1993). _Self as body in Asian theory and practice_ Albany: State University of New York Press.
 * Kauffman, Stuart A. _Investigations_. Oxford University Press, 2000.
 * Kennedy, Hugh. “The feeding of the five hundred thousand: Cities and Agriculture in early Islamic mesopotamia.” _Iraq_, vol. 73, 2011, pp. 177–199, https://doi.org/10.1017/s0021088900000152.
 * Kierkegaard, Søren. _Fear and Trembling_. Translated by Alastair Hannay, Penguin Books, 1986.
 * Knight, Will. “Why Elon Musk Had to Open Source Grok, His Answer to Chatgpt.” _Wired_, Conde Nast, 11 Mar. 2024, www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/.
+* Knoll, Andrew H. _Life on a Young Planet: The First Three Billion Years of Evolution on Earth._ Princeton University Press, 2003.
 * Kojève, Alexandre, and Raymond Queneau. _Introduction to the Reading of Hegel_. Edited by Allan Bloom. Translated by James H. Nichols, Cornell University Press, 1980.
 * Komjathy, L. (2007). _Cultivating perfection_ Leiden: Brill.
 * Krantz-Kent, Rachel. “Television, Capturing America’s Attention at Prime Time and Beyond.” _U.S. Bureau of Labor Statistics_, United States Department of Labor, Sept. 2018, www.bls.gov/opub/btn/volume-7/television-capturing-americas-attention.htm.
@@ -157,6 +176,8 @@
 * Lang, Hannah. “Sam Bankman-Fried’s Sudden Turn from White Knight to Washout.” _Reuters_, Thomas Reuters, www.reuters.com/technology/sam-bankman-frieds-sudden-turn-white-knight-washout-2022-11-12/. Accessed 27 Aug. 2024.
 * Lanier, Jaron. _Ten Arguments for Deleting Your Social Media Accounts Right Now_. A Holt Paperback, Henry Holt and Company, 2022.
 * Latour, Bruno. _Reassembling the Social: An Introduction to Actor-Network-Theory_. Oxford University Press, 2005.
+* Leach, John. "Why People ‘Freeze’ in Life-Threatening Situations: Implications for Resilience Training." NATO Science for Peace and Security Series E: Human and Societal Dynamics, vol. 111, 2004, pp. 19-23.
+* Lenton, Timothy M., and Andrew Watson. Revolutions That Made the Earth. Oxford University Press, 2011.
 * Lévi-Strauss, Claude. _Structural Anthropology_. Translated by Brooke Grundfest Schoepf and Claire Jacobson, Basic Book, 1963.
 * Lewis, Ralph. “The Evolutionary Origins of Consciousness.” _Psychology Today_, Sussex Publishers, 1 Oct. 2020, www.psychologytoday.com/us/blog/finding-purpose/202010/the-evolutionary-origins-consciousness.
 * Li, T., Cai, M., & Cai, M. (2007). A review of mining-induced seismicity in China. International Journal of Rock Mechanics and Mining Sciences, 44(8).
@@ -165,6 +186,7 @@
 * Logsdon, John. "Space Policy: An Introduction." Wiley, 2011.
 * Long, K. F. (2012). Deep Space Propulsion: A Roadmap to Interstellar Flight. Springer.
 * Lovecraft, H. P. “Supernatural Horror in Literature.” _Supernatural Horror in Literature_, 16 Oct. 2014, web.seducoahuila.gob.mx/biblioweb/upload/supernatural\_horror\_in\_literature.pdf. Accessed 08 July 2024.
+* Lovell, James, and Jeffrey Kluger. Apollo 13. HarperCollins, 2006.
 * Lovelock, James. _The Ages of Gaia: A Biography of Our Living Earth_. Oxford University Press, 2000.
 * Luhmann, Niklas. _Social Systems_. Translated by Dirk Baecker and John Bednarz, Stanford University Press, 1995.
 * MacColl, Margaux. “‘It’s a Cult’: Inside Effective Accelerationism, the Pro-AI Movement Taking Over Silicon Valley.” _The Information_, 7 Oct. 2023, www.theinformation.com/articles/its-a-cult-inside-effective-accelerationism-the-pro-ai-movement-taking-over-silicon-valley.
@@ -172,6 +194,8 @@
 * MacIntyre, Alasdair. _After Virtue: A Study in Moral Theory_. 3rd ed., University of Notre Dame Press, 2007.
 * Marcuse, Herbert. _One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society_. 2nd ed., Routledge, 2002.
 * Margulis, Lynn. _Symbiosis in Cell Evolution: Life and Its Environment on the Early Earth_. W.H. Freeman, 1981.
+* Margulis, Lynn, and Dorion Sagan. Acquiring Genomes: A Theory of the Origins of Species. Basic Books, 2002.
+* Margulis, Lynn. Symbiotic Planet: A New Look at Evolution. Basic Books, 1998.
 * Mark, Joshua J. "Burial in Ancient Mesopotamia." _World History Encyclopedia_, 2014, pp. 44-45.
 * Mark, Joshua J. “Hinduism.” _World History Encyclopedia_, World History Encyclopedia, 8 June 2020, www.worldhistory.org/hinduism/.
 * Marks, Jonathan. “Studyguide for the Alternative Introduction to Biological Anthropology.” _Internet Archive_, Cram101, 13 Aug. 2013, archive.org/details/studyguideforalt0000cram/page/99/mode/2up. Accessed 23 July 2024.
@@ -193,6 +217,8 @@
 * Meyers, M. A., & Chawla, K. K. (2009). Mechanical Behavior of Materials. Cambridge University Press.
 * McGinnis, John O. “Why Wokeism Threatens the Rule of Law.” _Law & Liberty_, 25 Nov. 2020, lawliberty.org/why-wokeism-threatens-the-rule-of-law/. Accessed 12 July 2024.
 * Mill, John Stuart. _On Liberty_. PDF, 3rd ed., Longman, Green, Longman, Roberts, & Green, 1864. _Internet Archive_, https://ia801308.us.archive.org/13/items/onliberty00inmill/onliberty00inmill.pdf. Accessed 5 Sept. 2024.
+* Miller, Stanley L., and Harold C. Urey. "Organic Compound Synthesis on the Primitive Earth." Science, vol. 130, no. 3370, 1959, pp. 245-251.
+* Miller, Stanley Lloyd, and Leslie E. Orgel. _The Origins of Life on the Earth_. Prentice-Hall, Inc. , 1974.
 * Millis, Marc, et al. “Breakthrough Propulsion Study.” _Breakthrough Propulsion Study: Assessing Interstellar Flight Challenges and Prospects_, NASA, June 2018, ntrs.nasa.gov/api/citations/20180006480/downloads/20180006480.pdf.
 * Mintz, Steven. “Does Wokeness Threaten Academic Freedom?” _Inside Higher Ed | Higher Education News, Events and Jobs_, www.insidehighered.com/blogs/higher-ed-gamma/does-wokeness-threaten-academic-freedom. Accessed 09 July 2024.
 * Mises, Ludwig Von. _Human Action_. Ludwig von Mises Institute, 1998.
@@ -211,6 +237,8 @@
 * Nietzsche, Friedrich. _The Will to Power_ . Edited by Walter Arnold Kaufmann. Translated by Reginald John Hollingdale and Walter Arnold Kaufmann, Vintage Books, 1968.
 * Nietzsche, Friedrich Wilhelm. _Thus Spake Zarathustra_. Translated by Thomas Common, Modern Library, 1960.
 * Noys, B.. (2010). The Persistence of the Negative. The Persistence of the Negative.
+* Oparin, A. I. The Origin of Life on Earth. Dover Publications, 1953.
+* Orgel, Leslie E. "Prebiotic Chemistry and the Origin of the RNA World." Critical Reviews in Biochemistry and Molecular Biology, vol. 39, no. 2, 2004, pp. 99-123.
 * Orgel, Leslie E. “The Origin of Life on Earth.” _Scientific American_, Oct. 1994, pp. 76–83.
 * Orwell, George. _1984_. Penguin, 2008.
 * Ostrom, Elinor. _Governing the Commons: The Evolution of Institutions for Collective Action_. Cambridge University Press, 1990.
@@ -236,6 +264,7 @@
 * Sartre, Jean-Paul. _Being and Nothingness: An Essay on Phenomenological Ontology._ Washington Square Press, 1953.
 * Sartre, Jean-Paul. _Existentialism Is a Humanism_. Edited by John Kulka. Translated by Carol Macomber, Yale University Press, 2007.
 * Schmitz, Matthew. “The Woke and the Un-Woke.” _Tablet Magazine_, 25 Sept. 2020, www.tabletmag.com/sections/news/articles/woke-religion-america. Accessed 09 July 2024.
+* Schrum, J. P., et al. “The origins of Cellular Life.” _Cold Spring Harbor Perspectives in Biology_, vol. 2, no. 9, 19 May 2010, https://doi.org/10.1101/cshperspect.a002212.
 * Sen, Gautam. “How the Woke Are Impacting Politics and Foreign Policy.” _Globalorder_, 16 Jan. 2023, www.globalorder.live/post/how-the-woke-are-impacting-politics-and-foreign-policy. Accessed 11 July 2024.
 * Shapiro, M.L., Riceberg, J.S., Seip-Cammack, K., Guise, K.G. (2014). Functional Interactions of Prefrontal Cortex and the Hippocampus in Learning and Memory. In: Derdikman, D., Knierim, J. (eds) Space, Time and Memory in the Hippocampal Formation. Springer, Vienna. https://doi.org/10.1007/978-3-7091-1292-2\_19
 * Shepherd, Artis. “Fear Is the Mind Killer: America’s Dangerous Obsession with ‘Safety.’” _Mises Institute_, 17 July 2024, mises.org/mises-wire/fear-mind-killer-americas-dangerous-obsession-safety. Accessed 19 July 2024.
@@ -251,6 +280,8 @@
 * Suedfeld, Peter. “Mars: Anticipating the Next Great Exploration. Psychology, Culture and Camaraderie.” _Journal of Cosmology_, vol. 12, 2010, pp. 3723–3740, https://thejournalofcosmology.com/Mars107.html.
 * Sutherland, John D. “The Origin of Life—Out of the Blue.” _Angewandte Chemie International Edition_, vol. 55, no. 1, 29 Oct. 2015, pp. 104–121, https://doi.org/10.1002/anie.201506585.
 * Swayne, Matt. “Scientists Uncover the Genetic Pathway That Colors Bumble Bee Stripes.” _Phys.Org_, Phys.org, 22 Oct. 2021, phys.org/news/2021-10-scientists-uncover-genetic-pathway-bumble.html.
+* Szostak, Jack W., and Gerald F. Joyce. “Protocells and RNA self-replication.” _Cold Spring Harbor Perspectives in Biology_, vol. 10, no. 9, Sept. 2018, https://doi.org/10.1101/cshperspect.a034801.
+* Szostak, Jack W., David P. Bartel, and Pier Luigi Luisi. "Synthesizing Life." Nature, vol. 409, no. 6818, 2001, pp. 387-390.
 * Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder_. Random House, 2012.
 * Tarantola, Andrew. “OpenAI Fires CEO Sam Altman as ‘board No Longer Has Confidence’ in His Leadership.” _Engadget_, Engadget, 18 Nov. 2023, www.engadget.com/openai-ceo-sam-altman-ousted-as-board-no-longer-has-confidence-in-his-leadership-204924006.html.
 * Templeton AR. Has human evolution stopped? Rambam Maimonides Med J. 2010 Jul 2;1(1):e0006. doi: 10.5041/RMMJ.10006. PMID: 23908778; PMCID: PMC3721656.
@@ -266,8 +297,10 @@
 * Vernikos, Joan. _G-Connection: Harness Gravity and Reverse Aging_. iUniverse, Inc, 2004.
 * Veysset, David, et al. “High-velocity micro-projectile impact testing.” _Applied Physics Reviews_, vol. 8, no. 1, 1 Mar. 2021, https://doi.org/10.1063/5.0040772.
 * Vico, L., et al. "Effects of Long-Term Microgravity Exposure on Cancellous and Cortical Weight-Bearing Bones of Cosmonauts." The Lancet, vol. 355, no. 9215, 2000, pp. 1607-1611.
+* Von Humboldt, Alexander. _Cosmos: A Sketch of the Physical Description of the Universe. Vol. 1_. Translated by E. C. Otté, Harper & Brothers, 1856.
 * Wang, Fengchao, et al. “Rock breaking performance of TBM disc cutter assisted by high-pressure water jet.” _Applied Sciences_, vol. 10, no. 18, 10 Sept. 2020, p. 6294, https://doi.org/10.3390/app10186294.
 * Wanscher, Johan Henrik. “An Analysis of Wilhelm Johannsen’s Genetical Genotype “term ...” _An Analysis of Wilhelm Johannsen’s Term ”genotype” 1909-26_ , 1975, onlinelibrary.wiley.com/doi/abs/10.1111/j.1601-5223.1975.tb01456.x.
+* Ward, Peter D., and Donald Brownlee. Rare Earth: Why Complex Life Is Uncommon in the Universe. Springer, 2000.
 * Waring, T. M., Wood, Z. T. Long-term gene–culture coevolution and the human evolutionary transition. _Proceedings of the Royal Society B: Biological Sciences_, 2021; 288 (1952): 20210538 DOI: 10.1098/rspb.2021.0538
 * Watson, J. D., and F. H. Crick. “Molecular structure of Nucleic Acids: A structure for deoxyribose nucleic acid.” _Nature_, vol. 171, no. 4356, 25 Apr. 1953, pp. 737–738, https://doi.org/10.1038/171737a0.
 * Weber, Max. _The Protestant Ethic and the Spirit of Capitalism_. Edited by Anthony Giddens. Translated by Talcott Parsons, Routledge, 2005.
@@ -294,29 +327,17 @@
 * Zohary, Daniel, and Maria Hopf. _Domestication of Plants in the Old World_. Oxford University Press, 2001.
 * Zuboff, Shoshana. _The Age of Surveillance Capitalism: The Fight for Human Future at the New Frontier of Power_. 1st ed., PublicAffairs, 2019.
 * Zubrin, Robert. "The Case for Mars: The Plan to Settle the Red Planet and Why We Must." Free Press, 1996.
-* **Miller, Stanley L., and Harold C. Urey.** "Organic Compound Synthesis on the Primitive Earth." _Science_, vol. 130, no. 3370, 1959, pp. 245-251.
-* **Deamer, David, and J. P. Dworkin.** "Chemistry and Physics of Primitive Membranes." _Astrobiology_, vol. 5, no. 4, 2005, pp. 499-514.
-* **Oparin, A. I.** _The Origin of Life on Earth_. Dover Publications, 1953.
-* **Orgel, Leslie E.** "Prebiotic Chemistry and the Origin of the RNA World." _Critical Reviews in Biochemistry and Molecular Biology_, vol. 39, no. 2, 2004, pp. 99-123.
-* **Szostak, Jack W., David P. Bartel, and Pier Luigi Luisi.** "Synthesizing Life." _Nature_, vol. 409, no. 6818, 2001, pp. 387-390.
+
+### End of Alphabetized \*used\*&#x20;
+
+***
+
+
+
+*
+*
 * **Lazcano, Antonio, and Stanley L. Miller.** "How Long Did It Take for Life to Begin and Evolve to Cyanobacteria?" _Journal of Molecular Evolution_, vol. 39, no. 6, 1994, pp. 546-554.
-* **Lenton, Timothy M., and Andrew Watson.** _Revolutions That Made the Earth_. Oxford University Press, 2011.
-* **Margulis, Lynn.** _Symbiotic Planet: A New Look at Evolution_. Basic Books, 1998.
-* **Gould, Stephen Jay.** _Wonderful Life: The Burgess Shale and the Nature of History_. W. W. Norton & Company, 1989.
-* **Knoll, Andrew H.** _Life on a Young Planet: The First Three Billion Years of Evolution on Earth_. Princeton University Press, 2003.
 * **Falkowski, Paul G.** "Traces of Life." _Science_, vol. 311, no. 5760, 2006, pp. 1030-1034.
-* **Jablonka, Eva, and Marion J. Lamb.** _Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life_. MIT Press, 2006.
-* **Dawkins, Richard.** _The Selfish Gene_. Oxford University Press, 1976.
-* **Boyd, Robert, and Peter J. Richerson.** _Culture and the Evolutionary Process_. University of Chicago Press, 1985.
-* **Diamond, Jared.** _Guns, Germs, and Steel: The Fates of Human Societies_. W. W. Norton & Company, 1997.
-* **Ward, Peter D., and Donald Brownlee.** _Rare Earth: Why Complex Life Is Uncommon in the Universe_. Springer, 2000.
-* **Kasting, James F.** _How to Find a Habitable Planet_. Princeton University Press, 2010.
-* **Cockell, Charles S.** _Astrobiology: Understanding Life in the Universe_. Wiley, 2018.
-* **Hawking, Stephen.** _Brief Answers to the Big Questions_. Bantam Books, 2018.
-* **Sagan, Carl.** _Cosmos_. Random House, 1980.
-* **Carruthers, Peter.** _The Opacity of Mind: An Integrative Theory of Self-Knowledge_. Oxford University Press, 2011.
-* **Margulis, Lynn, and Dorion Sagan.** _Acquiring Genomes: A Theory of the Origins of Species_. Basic Books, 2002.
-* **Kurzweil, Ray.** _The Singularity Is Near: When Humans Transcend Biology_. Viking, 2005.
 * "Advances in Tunnel and Underground Construction," MDPI "
 * Tunnels and Underground Excavations - Tunneling Techniques," Britannica&#x20;
 * https://www.mdpi.com/journal/buildings/special\_issues/Tunnel\_Construction&#x20;
@@ -324,42 +345,25 @@
 * Artificial intelligence in tunnel construction: A comprehensive review. (2021). ScienceDirect.&#x20;
 * https://mine.nridigital.com/mine\_dec23/tunnelling-machinery-drilling-technology&#x20;
 * https://www.mdpi.com/journal/applsci/special\_issues/25QOTNROL7&#x20;
-* **Gould, Stephen Jay.** _Wonderful Life: The Burgess Shale and the Nature of History_. W. W. Norton & Company, 1989.
-* **Hawkey, A.** "The Human Body in Space: Distinguishing Fact from Fiction." _Advances in Physiology Education_, vol. 27, no. 3, 2003, pp. 176-181.
-* **Vico, L., et al.** "Effects of Long-Term Microgravity Exposure on Cancellous and Cortical Weight-Bearing Bones of Cosmonauts." _The Lancet_, vol. 355, no. 9215, 2000, pp. 1607-1611.
-* **Cucinotta, F. A., et al.** "Space Radiation and Cataracts in Astronauts." _Radiation Research_, vol. 156, no. 5, 2001, pp. 460-466.
+*
 * **Sandal, Gro Mjeldheim, et al.** "Psychological Responses during Simulation of a 520-Day Space Mission." _Aviation, Space, and Environmental Medicine_, vol. 82, no. 2, 2011, pp. 135-142.
 * **Suedfeld, Peter, et al.** "The Role of Stress in Mars 500: Research and Observations from a 520-Day Simulated Space Mission." _Frontiers in Psychology_, 27 Nov. 2009, www.frontiersin.org/articles/10.3389/fpsyg.2017.00795/full.
-* **Kahneman, Daniel.** _Thinking, Fast and Slow_. Farrar, Straus and Giroux, 2011.
-* **Leach, John.** "Why People ‘Freeze’ in Life-Threatening Situations: Implications for Resilience Training." _NATO Science for Peace and Security Series E: Human and Societal Dynamics_, vol. 111, 2004, pp. 19-23.
-* **Lovell, James, and Jeffrey Kluger.** _Apollo 13_. HarperCollins, 2006.
 * **Shklovskii, I. S., and Carl Sagan.** _Intelligent Life in the Universe_. Holden-Day, 1966.
 * **Spudis, Paul D.** "Our Technologies Are Inadequate for Deep Space Exploration." _Scientific American_, 2016.
 * **NASA.** "Mars Science Laboratory: Curiosity Rover." 2020, mars.nasa.gov/msl/mission/overview/.
 * **Sagan, Carl.** _The Demon-Haunted World: Science as a Candle in the Dark_. Random House, 1996.
 * [https://sadil.ws/bitstream/handle/123456789/329/B22.pdf?sequence=1\&isAllowed=y](https://sadil.ws/bitstream/handle/123456789/329/B22.pdf?sequence=1\&isAllowed=y)
-* **Chalmers, David J.** _The Conscious Mind: In Search of a Fundamental Theory_. Oxford University Press, 1996.
-* **Hofstadter, Douglas R.** _Gödel, Escher, Bach: An Eternal Golden Braid_. Basic Books, 1979.
-* **Harari, Yuval Noah.** _Sapiens: A Brief History of Humankind_. Harper, 2015.
 * **Russell, Stuart J., and Peter Norvig.** _Artificial Intelligence: A Modern Approach_. Prentice Hall, 2010.
 * **Tegmark, Max.** _Life 3.0: Being Human in the Age of Artificial Intelligence_. Knopf, 2017.
 * **Moravec, Hans.** _Robot: Mere Machine to Transcendent Mind_. Oxford University Press, 1999.
-* **Kurzweil, Ray.** _The Singularity Is Near: When Humans Transcend Biology_. Viking, 2005.
 * **Einstein, Albert.** _Ideas and Opinions_. Crown Publishers, 1955.
 * **Boden, Margaret A.** _Mind as Machine: A Historyof Cognitive Science_. Oxford University Press, 2006.
-* **Blackmore, Susan.** _The Meme Machine_. Oxford University Press, 1999.
-* **Dennett, Daniel C.** _Consciousness Explained_. Little, Brown and Company, 1991.
 * Gamble C. _Origins and Revolutions: Human Identity in Earliest Prehistory_. Cambridge University Press; 2013.
 * Tattersall I. _Masters of the Planet: The Search for Our Human Origins_. St. Martin's Press; 2012.
 * Bowler PJ. _The Eclipse of Darwinism: Anti-Darwinian Evolution Theories in the Decades around 1900_. Johns Hopkins University Press; 1989.
 * Ruse M. _Monad to Man: The Concept of Progress in Evolutionary Biology_. Harvard University Press; 1996.
 * Gould SJ. _Ontogeny and Phylogeny_. Harvard University Press; 1977.
-* Mayr E. _The Growth of Biological Thought: Diversity, Evolution, and Inheritance_. Harvard University Press; 1982.
-* Dennett DC. _Darwin's Dangerous Idea: Evolution and the Meanings of Life_. Simon & Schuster; 1995.
 * Richards RJ. _The Tragic Sense of Life: Ernst Haeckel and the Struggle over Evolutionary Thought_. University of Chicago Press; 2008.
-* Dawkins R. _The Selfish Gene_. 30th anniversary ed. Oxford University Press; 2006.
-* Jablonka E, Lamb MJ. _Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life_. MIT Press; 2005.
-* Bergson H. _Creative Evolution_. Macmillan; 1911.
 
 
 

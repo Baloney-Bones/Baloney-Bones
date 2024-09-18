@@ -1,2 +1,0 @@
-# Purpose-Driven Exploration
-
