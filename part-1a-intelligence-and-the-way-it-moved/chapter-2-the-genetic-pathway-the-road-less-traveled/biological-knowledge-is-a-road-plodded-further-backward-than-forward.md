@@ -1,4 +1,4 @@
-# The Long Road to Our Biology; its Origins
+# Biological Knowledge is a Road Plodded Further Backward than Forward
 
 ## The Evolution of Our Intuitive Sense of _Heredity_
 
@@ -189,13 +189,5 @@ Unlike the 4 billion year old prokaryote, the one species that can read these wo
 While we give thanks to them, we are no longer unicellular microscopic bugs. We are powerful, communicative agents. And while this species still depends on its genetic pathway to transfer biological material, the repository that deploys data along these lines has plateaued in evolutionary significance. Its dominance has been supplanted by a far more malleable, faster, more efficient pathway for our primary means of moving our intelligence between bodies.&#x20;
 
 It is born of the way we communicate with one another: For ten thousand years and more, _Homo Sapien Sapiens_ have communicated through body language, vocalization, technologies; this has largely been taken for granted, until recently. Much work has been done already in smoothing this transition from prioritizing the genetic pathway to that of the memetic pathway—the efforts of George Church, Ray Kurzweil, and John Maynard Smith will be looked to in the coming pages to assist our genetic-to-memetic metamorphic acceleration. In our success we might hope to give the same gift that RNA gave us.&#x20;
-
-### Primordial Soup -> Gene Soup -> Meme Soup&#x20;
-
-At one pivotal moment in this great evolutionary dance, something quite remarkable happened—a development that would finally quicken the tempo of change beyond anything hitherto experienced. This was the arrival of memetic evolution—organisms becoming capable of handing down learning and culture from one generation to the next not by genetic transmission, but by learning and communication (Dawkins 1976).
-
-The advent of memetic evolution ended the bondage of the biological machines to a slow and fortuitous process of genetic change. They could now learn from experience, refine past generations' experiences, and pass such knowledge down to their offspring. For the first time in Earth's history, new ideas, technologies, and ways of relating to the world could suddenly take hold and race around the globe (Boyd & Richerson 1985).
-
-It was memetic evolution that allowed for the emergence of civilization, language development, and culture formation. It facilitated the development of tools, social structure, and economic growth. Via memetic evolution, biological machines learned to control their immediate environment in increasingly sophisticated ways: towns were built, empires rose, and the physical world was explored (Diamond 1997).
 
 [^1]: 
