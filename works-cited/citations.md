@@ -20,9 +20,9 @@
 * Al Awam, Ibn Mohammed Ibn Ahmed Ibn. Kitab Al- Filaha (Book of Agriculture). India, Repro Books Limited, 2017.
 * Barron , Robert. “The Philosophical Roots of Wokeism.” _Acton Institute_, 8 Jan. 2024, www.acton.org/religion-liberty/volume-34-number-1/philosophical-roots-wokeism. Accessed 09 July 2024.
 * Bartosch, Jo. “Beware Trans Ideas in Sheep’s Clothing.” _Spiked_, 20 Nov. 2020, www.spiked-online.com/2020/11/19/beware-trans-ideas-in-sheeps-clothing/.
-* Bateson, G. _Steps to an Ecology of Mind._ New York: Ballantine Books, 1972.
+* Bateson, Gregory. _Steps to an Ecology of Mind._ New York: Ballantine Books, 1972.
 * Bateson, William. _Mendel’s Principles of Heredity_. Cambridge University Press, 1909.
-* Bateson, W. _Methods and Scope of Genetics_. Cambridge University Press, 1908.
+* Bateson, William. _Methods and Scope of Genetics_. Cambridge University Press, 1908.
 * Battelle Technology Partnership Practice. “Economic Impact of the Human Genome Project.” _Battelle Memorial Institute_ , May 2011, Accessed Aug. 2024.
 * Baudrillard, Jean. _Simulacra and Simulation_. Translated by Sheila Faria Glaser, University of Michigan Press, 1994.
 * Beckett, Andy. “Accelerationism: How a Fringe Philosophy Predicted the Future We Live In.” _The Guardian_, 11 May 2017, www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in.
@@ -48,7 +48,7 @@
 * Broughel, James. “Effective Altruism Contributed to the Fiasco at OpenAI.” _Forbes_, 9 May 2024, www.forbes.com/sites/jamesbroughel/2023/11/20/effective-altruism-contributed-to-the-fiasco-at-openai/.
 * Camus, Albert. _The Rebel: An Essay on Man in Revolt_. Translated by Anthony Bower, Vintage International, 1991.
 * Camus, A. (1988). _The Stranger_. New York: Alfred A. Knopf, Inc.
-* Cancellieri, E., Bel Hadj Brahim, H., Ben Nasr, J. _et al._ A late Middle Pleistocene Middle Stone Age sequence identified at Wadi Lazalim in southern Tunisia. _Sci Rep_ 12, 3996 (2022). https://doi.org/10.1038/s41598-022-07816-x.
+* Cancellieri, E., et al. A late Middle Pleistocene Middle Stone Age sequence identified at Wadi Lazalim in southern Tunisia. _Sci Rep_ 12, 3996 (2022). https://doi.org/10.1038/s41598-022-07816-x.
 * Cannon, Walter B. _The Wisdom of the Body_. 1st ed., Norton & Norton, 1932.
 * Carruthers, Peter. The Opacity of Mind: An Integrative Theory of Self-Knowledge. Oxford University Press, 2011.
 * The Center for Effective Altruism. “Effective Altruism Is about Doing Good Better.” _Effective Altruism_, Centre for Effective Altruism, www.effectivealtruism.org/. Accessed 4 Sept. 2024.
@@ -59,8 +59,7 @@
 * Columella and Harrison B. Ash. _On Agriculture_. Columella, Lucius Junius Moderatus. Harvard University Press, 1941. 3 vols.
 * Cosmides, Leda, and John Tooby. “Cognitive Adaptations for Social Change.” _The Adapted Mind: Evolutionary Psychology and the Generation of Culture_, Oxford University Press, New York, NY, 1992, pp. 163–228.
 * Crick, F. H. C. The Origin of the Genetic Code. J. Mol. Biol. 38, 367–379 (1968).
-* Crick, Francis. _What Mad Pursuit: A Personal View of Scientific Discovery_. Basic Books, 1988.
-* Crick, F.H.C., and James D. Watson. “Molecular Structure of Nucleic Acids.” _Nature_, 11 Aug. 2004, www.nature.com/scitable/content/16331/molecularstructureofDNAswatsoncrick.pdf.
+* Crick, Francis. _What Mad Pursuit: A Personal View of Scientific Discovery_. Basic Books, 1988
 * Cucinotta, F. A., et al. "Space Radiation and Cataracts in Astronauts." Radiation Research, vol. 156, no. 5, 2001, pp. 460-466.
 * Darwin, Charles. _On the Origin of Species_. Edited by Charles W. Eliot, P F Collier & Son, 1909.
 * Darwin, Charles. _The Descent of Man and Selection in Relation to Sex_. vol. 1 2, John Murray: Albemarle Street, 1871.
@@ -71,7 +70,7 @@
 * Deacon, Terrence William. _The Symbolic Species: The Co-Evolution of Language and the Brain_. W. W. Norton & Company, 1997.
 * Deleuze, Gilles, et al. _Anti-Oedipus: Capitalism and Schizophrenia_. Translated by Mark Seem and Robert Hurley, University of Minnesota Press, 1983.
 * Deleuze, Gilles. _Spinoza: Practical Philosophy_. Translated by Robert Hurley, City Lights Books, 1988.
-* Deleuze, Gilles, and Fľix Guattari. _A Þthousand Plateaus: Capitalism and Schizophrenia_. Translated by Brian Massumi, University of Minnesota Press, 1987.
+* Deleuze, Gilles, and Felix Guattari. _A Thousand Plateaus: Capitalism and Schizophrenia_. Translated by Brian Massumi, University of Minnesota Press, 1987.
 * Dennett, Daniel C. _Breaking the Spell: Religion as a Natural Phenomenon_. Penguin Books, 2006.
 * Dennett, Daniel C. _Consciousness Explained_. Little, Brown and Company, 1991.
 * Dennett, Daniel C. _Darwin’s Dangerous Idea: Evolution and the Meaning of Life_. Penguin Books, 1996.
@@ -81,7 +80,7 @@
 * Diamond, Jared. Guns, Germs, and Steel: The Fates of Human Societies. W. W. Norton & Company, 1997.
 * Diamond, Jared. _The Third Chimpanzee: The Evolution and Future of the Human Animal_. Harper Collins, 1993.
 * Dobzhansky, Theodosius. _Genetics and the Origin of Species_. Colombia University Press, 1937.
-* Doniger, Wendy , Gold, Ann G. , Dimock, Edward C. , Smith, Brian K. , Basham, Arthur Llewellyn , Narayanan, Vasudha and Buitenen, J.A.B. van. "Hinduism". Encyclopedia Britannica, 2 Jul. 2024, https://www.britannica.com/topic/Hinduism. Accessed 7 July 2024.
+* Doniger, Wendy, et al. "Hinduism". Encyclopedia Britannica, 2 Jul. 2024, https://www.britannica.com/topic/Hinduism. Accessed 7 July 2024.
 * Doubek, James, et al. “‘Woke Racism’: John McWhorter Argues against What He Calls a Religion of Anti-Racism.” _NPR_, 6 Nov. 2021, www.npr.org/2021/11/05/1052650979/mcwhorters-new-book-woke-racism-attacks-leading-thinkers-on-race. Accessed 11 July 2024.
 * Durkheim, Émile. _The Elementary Forms of Religious Life_. Translated by Karen E. Fields, Free Press, 1995.
 * Dyson, Freeman. _Disturbing the Universe Freeman Dyson_. Pan Books, 1981.
@@ -90,9 +89,9 @@
 * Eggleston, Ben. “Act utilitarianism,” in The Cambridge Companion to Utilitarianism, edited by Dale E. Miller (Cambridge University Press, 2014), pp. 125–145.
 * Eliade, Mircea. _The Sacred and the Profane: The Nature of Religion_. Harcout, 1987.
 * Elkins, J. (2001). ‘What is the Difference between the Body's Inside and Its Outside?’ In: S. Kuriyama, ed., _The Imagination of the Body and the History of Embodied Experience_ 1st ed. Kyoto: International Research Center for Japanese Studies, p.16.
-* Emerson, Ralph W. (1993). Self-Reliance and Other Essays. New York: Dover Publications. &#x20;
+* Emerson, Ralph W. Self-Reliance and Other Essays. New York: Dover Publications, 1993. &#x20;
 * “Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.” _The White House_, The United States Government, 30 Oct. 2023, www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/. Accessed 16 July 2024.
-* Faulkner, R. O. (1969). The Ancient Egyptian Pyramid Texts. Oxford: Clarendon Press.
+* Faulkner, R. O. The Ancient Egyptian Pyramid Texts. Oxford: Clarendon Press, 1969.
 * “Fear Psychosis and the Cult of Safety – Why Are People so Afraid?” _Academy of Ideas_, 5 Nov. 2023, academyofideas.com/2022/04/fear-psychosis-and-the-cult-of-safety/. Accessed 08 July 2024.
 * Fonda, Daren. “Culture Wars Are Hitting Companies. They’re Fighting Back.” _Barron’s_, www.barrons.com/articles/bud-light-woke-companies-culture-wars-c37da7b4. Accessed 09 July 2024.
 * Foucault, Michel. _The Archaeology of Knowledge_. Translated by A. M. Sheridan Smith, Pantheon Books, 1972.
@@ -118,7 +117,7 @@
 * Gould, Stephen Jay. Wonderful Life: The Burgess Shale and the Nature of History. W. W. Norton & Company, 1989.
 * Gramsci, Antonio. _Selections from the Prison Notebooks of Antonio Gramsci_. Edited by Quintin Hoare. Translated by Quintin Hoare and Geoffrey Nowell Smith, International Publishers, 1971.
 * Gregory, Andrew. _Anaximander: A Re-Assessment_. Bloomsbury Academic, 2017.
-* Griffiths, D. J. (2017). Introduction to Electrodynamics. Cambridge University Press.
+* Griffiths, D. J. Introduction to Electrodynamics. Cambridge University Press, 2017.
 * Habermas, Jurgen. _The Structural Transformation of the Public Sphere: An Enquiry into a Category of Bourgeois Society_. Translated by Frederick Lawrence and Thomas Burger, The M.I.T. Press, 1991.
 * Halliday, D., Resnick, R., & Walker, J. (2013). Fundamentals of Physics. Wiley.
 * Hanson, Victor Davis. “Wokeism Is a Cruel and Dangerous Cult.” _The Independent Institute_, 24 Jan. 2022, www.independent.org/news/article.asp?id=13968.
@@ -152,11 +151,11 @@
 * Ireland, John D. _The UDĀNA: Inspired Utterances of the Buddha_. Buddhist Publication Society, 1997.
 * Jablonka, Eva, and Marion J. Lamb. Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life. MIT Press, 2006.
 * Jacobson, Stanley, et al. _Neuroanatomy for the Neuroscientist_, 2018, https://doi.org/10.1007/978-3-319-60187-8.
-* Joyce, Gerald F. and Szostak, Jack W. “Protocells and RNA self-replication.” _Cold Spring Harbor Perspectives in Biology_, vol. 10, no. 9, Sept. 2018, https://doi.org/10.1101/cshperspect.a034801.
+* Joyce, Gerald F. and Jack W. Szostak. “Protocells and RNA self-replication.” _Cold Spring Harbor Perspectives in Biology_, vol. 10, no. 9, Sept. 2018, https://doi.org/10.1101/cshperspect.a034801.
 * Jung, C. G. _The Collected Works of C. G. Jung: Vol. 9 Pt. II, AION: Researches into the Phenomenology of the Self._ Edited by Herbert Read et al. Translated by Richard F. C. Hull, 2nd ed., vol. 9 20, Princeton University Press, 1959.
 * Jung, C. G. _The Collected Works of C. G. Jung: Vol. 9. Pt. I. The Archetypes and the Collective Unconscious_. Edited by William McGuire et al. Translated by Richard F. C. Hull and Gerhard Adler, 2nd ed., vol. 9 20, Princeton University Press, 1969.
 * Jung, C. G., et al. _Man and His Symbols_. Edited by Marie-Luise Von Franz and Jonathan Freeman, Doubleday, 1964.
-* Kaewkongkaew, K., Phien-wej, N. & Kham-ai, D. Prediction of rock mass along tunnels by geostatistics. KSCE J Civ Eng 19, 81–90 (2015). https://doi.org/10.1007/s12205-014-0505-3.
+* Kaewkongkaew, K., et al. Prediction of rock mass along tunnels by geostatistics. KSCE J Civ Eng 19, 81–90 (2015). https://doi.org/10.1007/s12205-014-0505-3.
 * Kahneman, Daniel. Thinking, Fast and Slow. Farrar, Straus and Giroux, 2011.
 * Kao, Emilie. “Woke Gender.” _The Heritage Foundation_, www.heritage.org/gender/commentary/woke-gender. Accessed 09 July 2024.
 * Kasting, James F. How to Find a Habitable Planet. Princeton University Press, 2010.
@@ -167,9 +166,9 @@
 * Knight, Will. “Why Elon Musk Had to Open Source Grok, His Answer to Chatgpt.” _Wired_, Conde Nast, 11 Mar. 2024, www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/.
 * Knoll, Andrew H. _Life on a Young Planet: The First Three Billion Years of Evolution on Earth._ Princeton University Press, 2003.
 * Kojève, Alexandre, and Raymond Queneau. _Introduction to the Reading of Hegel_. Edited by Allan Bloom. Translated by James H. Nichols, Cornell University Press, 1980.
-* Komjathy, L. (2007). _Cultivating perfection_ Leiden: Brill.
+* Komjathy, L. _Cultivating perfection_ Leiden: Brill, 2007.
 * Krantz-Kent, Rachel. “Television, Capturing America’s Attention at Prime Time and Beyond.” _U.S. Bureau of Labor Statistics_, United States Department of Labor, Sept. 2018, www.bls.gov/opub/btn/volume-7/television-capturing-americas-attention.htm.
-* Kuriyama, S. (1999). _The expressiveness of the body and the divergence of Greek and Chinese medicine_. New York: Zone Books.
+* Kuriyama, S. _The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine_. New York: Zone Books, 1999.
 * Kuriyama, S. (2001). ‘The Imagination of the Body and the History of Embodied Experience: The Case of Chinese Views of the Viscera’ In: S. Kuriyama, ed., _The Imagination of the Body and the History of Embodied Experience_ 1st ed. Kyoto: International Research Center for Japanese Studies, pp. 16-29.
 * Kurzweil, Ray. _The Singularity Is Near: When Humans Transcend Biology_. Viking Penguin, 2005.
 * Lakoff, George, and Mark Johnson. _Metaphors We Live By_. University of Chicago Press, 1980.
@@ -177,6 +176,7 @@
 * Lang, Hannah. “Sam Bankman-Fried’s Sudden Turn from White Knight to Washout.” _Reuters_, Thomas Reuters, www.reuters.com/technology/sam-bankman-frieds-sudden-turn-white-knight-washout-2022-11-12/. Accessed 27 Aug. 2024.
 * Lanier, Jaron. _Ten Arguments for Deleting Your Social Media Accounts Right Now_. A Holt Paperback, Henry Holt and Company, 2022.
 * Latour, Bruno. _Reassembling the Social: An Introduction to Actor-Network-Theory_. Oxford University Press, 2005.
+* Lazcano, Antonio, and Stanley L. Miller. "How Long Did It Take for Life to Begin and Evolve to Cyanobacteria?" Journal of Molecular Evolution, vol. 39, no. 6, 1994, pp. 546-554.
 * Leach, John. "Why People ‘Freeze’ in Life-Threatening Situations: Implications for Resilience Training." NATO Science for Peace and Security Series E: Human and Societal Dynamics, vol. 111, 2004, pp. 19-23.
 * Lenton, Timothy M., and Andrew Watson. Revolutions That Made the Earth. Oxford University Press, 2011.
 * Lévi-Strauss, Claude. _Structural Anthropology_. Translated by Brooke Grundfest Schoepf and Claire Jacobson, Basic Book, 1963.
@@ -185,7 +185,7 @@
 * Lindsay, James. “No, the Woke Won’t Debate You. Here’s Why.” _New Discourses_, 25 Apr. 2021, newdiscourses.com/2020/07/woke-wont-debate-you-heres-why/. Accessed 11 July 2024.
 * Lindsay, James. “The Rise of the Woke Cultural Revolution.” _New Discourses_, 14 Apr. 2021, newdiscourses.com/2021/04/rise-woke-cultural-revolution/. Accessed 11 July 2024.
 * Logsdon, John. "Space Policy: An Introduction." Wiley, 2011.
-* Long, K. F. (2012). Deep Space Propulsion: A Roadmap to Interstellar Flight. Springer.
+* Long, K. F. Deep Space Propulsion: A Roadmap to Interstellar Flight. Springer, 2012.
 * Lovecraft, H. P. “Supernatural Horror in Literature.” _Supernatural Horror in Literature_, 16 Oct. 2014, web.seducoahuila.gob.mx/biblioweb/upload/supernatural\_horror\_in\_literature.pdf. Accessed 08 July 2024.
 * Lovell, James, and Jeffrey Kluger. Apollo 13. HarperCollins, 2006.
 * Lovelock, James. _The Ages of Gaia: A Biography of Our Living Earth_. Oxford University Press, 2000.
@@ -214,8 +214,8 @@
 * McMillan, Robert and Deepa Seetharaman. “How Effective Altruism Split Silicon Valley—and Fueled the Blowup at Openai .” _The Wall Street Journal_, www.wsj.com/tech/ai/openai-blowup-effective-altruism-disaster-f46a55e8. Accessed 27 Aug. 2024.
 * Mendel, Gregor. “Experiments on Plant Hybridization.” Natural History Society of Brünn. February 8th, and March 8th, 1865, meetings of the Brünn Natural History Society, 4 Sept. 2024, Brünn, _Electronic Scholarly Publishing Project_, http://www.esp.org/. Accessed 4 Sept. 2024.
 * Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Colin Smith, Routledge, 2005.
-* Mesoudi, A. (2011). _Cultural evolution: How Darwinian theory can explain human culture and synthesize the social sciences._ Chicago, IL: University of Chicago Press.&#x20;
-* Meyers, M. A., & Chawla, K. K. (2009). Mechanical Behavior of Materials. Cambridge University Press.
+* Mesoudi, A. _Cultural evolution: How Darwinian theory can explain human culture and synthesize the social sciences._ Chicago: University of Chicago Press, 2011.&#x20;
+* Meyers, Marc A., and Krishan K. Chawla. Mechanical Behavior of Materials. Cambridge University Press, 2009.
 * McGinnis, John O. “Why Wokeism Threatens the Rule of Law.” _Law & Liberty_, 25 Nov. 2020, lawliberty.org/why-wokeism-threatens-the-rule-of-law/. Accessed 12 July 2024.
 * Mill, John Stuart. _On Liberty_. PDF, 3rd ed., Longman, Green, Longman, Roberts, & Green, 1864. _Internet Archive_, https://ia801308.us.archive.org/13/items/onliberty00inmill/onliberty00inmill.pdf. Accessed 5 Sept. 2024.
 * Miller, Stanley L., and Harold C. Urey. "Organic Compound Synthesis on the Primitive Earth." Science, vol. 130, no. 3370, 1959, pp. 245-251.
@@ -224,7 +224,7 @@
 * Mintz, Steven. “Does Wokeness Threaten Academic Freedom?” _Inside Higher Ed | Higher Education News, Events and Jobs_, www.insidehighered.com/blogs/higher-ed-gamma/does-wokeness-threaten-academic-freedom. Accessed 09 July 2024.
 * Mises, Ludwig Von. _Human Action_. Ludwig von Mises Institute, 1998.
 * Mizuuchi, Ryo, et al. “Evolutionary transition from a single RNA replicator to a multiple Replicator Network.” _Nature Communications_, vol. 13, no. 1, 18 Mar. 2022, https://doi.org/10.1038/s41467-022-29113-x.
-* Moon, F. C. (2008). Superconducting Levitation: Applications to Bearings and Magnetic Transportation. Wiley-VCH.
+* Moon, F. C. Superconducting Levitation: Applications to Bearings and Magnetic Transportation. Wiley-VCH, 2008.
 * Moran, Dermot. (2012). Husserl’s Crisis of the European Sciences and Transcendental Phenomenology. An Introduction. 10.1017/CBO9781139025935.
 * Morgan, Thomas Hunt. _The Mechanism of Mendelian Heredity_. Revised ed., Henry Holt and Company, 1915.
 * Mudrik, Liad. “Consciousness: What It Is, Where It Comes from - and Whether Machines Can Have It.” _Nature News_, Nature Publishing Group, 30 Oct. 2023, www.nature.com/articles/d41586-023-03335-5.
@@ -246,12 +246,12 @@
 * Papastavrou, Nikolaos, et al. “RNA-catalyzed evolution of catalytic RNA.” _Proceedings of the National Academy of Sciences_, vol. 121, no. 11, 4 Mar. 2024, https://doi.org/10.1073/pnas.2321592121.
 * Parker, Jade. “Accelerationism in America: Threat Perceptions.” _GNET_, 4 Feb. 2020, gnet-research.org/2020/02/04/accelerationism-in-america-threat-perceptions/.
 * Parker Pearson, Michael. "The Oxford Handbook of the Archaeology of Death and Burial." Oxford University Press, 2013, pp. 28-29.
-* Pelligra, Vittorio, and Pier Luigi Sacco. “Searching for meaning in a post-scarcity society. implications for creativity and job design.” _Frontiers in Psychology_, vol. 14, 12 Sept. 2023, https://doi.org/10.3389/fpsyg.2023.1198424.
+* Pelligra, Vittorio, and Pier L. Sacco. “Searching for meaning in a post-scarcity society. implications for creativity and job design.” _Frontiers in Psychology_, vol. 14, 12 Sept. 2023, https://doi.org/10.3389/fpsyg.2023.1198424.
 * Penrose, Roger. _The Road to Reality: A Complete Guide to the Physical Universe_. Jonathan Cape, 2004.
 * Peterson, Jordan B. _12 Rules for Life: An Antidote to Chaos_. Allen Lane, 2018.
 * Pinkard, Terry. _Hegel’s Phenomenology: The Sociality of Reason_. Cambridge University Press, 2014.
 * Pippin, Robert B. _Hegel’s Idealism: The Satisfactions of Self-Consciousness_. Cambridge University Press, 1989.
-* Poojar , Niranjan  B. “The Origin and Evolution of Wokeism: Unveiling Its Theoretical Foundations and Implications for Bharat - SamvadaWorld.” _Samvada World_, 15 Apr. 2024, samvadaworld.com/national/the-origin-and-evolution-of-wokeism-unveiling-its-theoretical-foundations-and-implications-for-bharat/.
+* Poojar , Niranjan  B. “The Origin and Evolution of Wokeism: Unveiling Its Theoretical Foundations and Implications for Bharat” _Samvada World_, 15 Apr. 2024, samvadaworld.com/national/the-origin-and-evolution-of-wokeism-unveiling-its-theoretical-foundations-and-implications-for-bharat/.
 * Provine, William B. “Ernst Mayr.” _Genetics_, vol. 167, no. 3, 1 July 2004, pp. 1041–1046, https://doi.org/10.1093/genetics/167.3.1041.
 * Ratcliff, William  C., et al. “Experimental Evolution of Multicellularity.” Edited by Richard E. Lenski. _PNAS_, vol. 109, no. 5, 31 Jan. 2012, pp. 1595–1600, https://doi.org/https://doi.org/10.1073/pnas.1115323109.
 * Reiff, Nathan. “The Collapse of FTX: What Went Wrong with the Crypto Exchange?” _Investopedia_, Investopedia, 6 June 2024, www.investopedia.com/what-went-wrong-with-ftx-6828447.
@@ -267,7 +267,7 @@
 * Schmitz, Matthew. “The Woke and the Un-Woke.” _Tablet Magazine_, 25 Sept. 2020, www.tabletmag.com/sections/news/articles/woke-religion-america. Accessed 09 July 2024.
 * Schrum, J. P., et al. “The origins of Cellular Life.” _Cold Spring Harbor Perspectives in Biology_, vol. 2, no. 9, 19 May 2010, https://doi.org/10.1101/cshperspect.a002212.
 * Sen, Gautam. “How the Woke Are Impacting Politics and Foreign Policy.” _Globalorder_, 16 Jan. 2023, www.globalorder.live/post/how-the-woke-are-impacting-politics-and-foreign-policy. Accessed 11 July 2024.
-* Shapiro, M.L., Riceberg, J.S., Seip-Cammack, K., Guise, K.G. (2014). Functional Interactions of Prefrontal Cortex and the Hippocampus in Learning and Memory. In: Derdikman, D., Knierim, J. (eds) Space, Time and Memory in the Hippocampal Formation. Springer, Vienna. https://doi.org/10.1007/978-3-7091-1292-2\_19
+* Shapiro, M.L., et al. (2014). Functional Interactions of Prefrontal Cortex and the Hippocampus in Learning and Memory. In: Derdikman, D., Knierim, J. (eds) Space, Time and Memory in the Hippocampal Formation. Springer, Vienna. https://doi.org/10.1007/978-3-7091-1292-2\_19
 * Shepherd, Artis. “Fear Is the Mind Killer: America’s Dangerous Obsession with ‘Safety.’” _Mises Institute_, 17 July 2024, mises.org/mises-wire/fear-mind-killer-americas-dangerous-obsession-safety. Accessed 19 July 2024.
 * Sloterdijk, Peter. _You Must Change Your Life_. Translated by Wieland Hoban, John Wiley & Sons, 2014.
 * Smolla, Marco, et al. (2021) Underappreciated features of cultural evolution. Phil. Trans. R. Soc. B 376: 20200259. https://doi.org/10.1098/rstb.2020.0259
@@ -284,6 +284,7 @@
 * Szostak, Jack W., David P. Bartel, and Pier Luigi Luisi. "Synthesizing Life." Nature, vol. 409, no. 6818, 2001, pp. 387-390.
 * Taleb, Nassim Nicholas. _Antifragile: Things That Gain from Disorder_. Random House, 2012.
 * Tarantola, Andrew. “OpenAI Fires CEO Sam Altman as ‘board No Longer Has Confidence’ in His Leadership.” _Engadget_, Engadget, 18 Nov. 2023, www.engadget.com/openai-ceo-sam-altman-ousted-as-board-no-longer-has-confidence-in-his-leadership-204924006.html.
+* Taylor, Edwin F. and John A. Wheeler. (1966). Spacetime Physics: Introduction to Special Relativity. W.H. Freeman and Company.
 * Templeton AR. Has human evolution stopped? Rambam Maimonides Med J. 2010 Jul 2;1(1):e0006. doi: 10.5041/RMMJ.10006. PMID: 23908778; PMCID: PMC3721656.
 * Thoraval, Yannick. “Education: Opinion.” _The Sydney Morning Herald_, 23 Mar. 2023, www.smh.com.au/education/i-m-a-university-lecturer-and-wokeism-is-stifling-free-debate-in-my-classroom-20230316-p5csor.html. Accessed 9 July 2024.
 * Thoraval, Yannick. “Wokeim Stifles Debate at Universities.” _The Sydney Morning Herald_, 24 Mar. 2023, www.smh.com.au/education/i-m-a-university-lecturer-and-wokeism-is-stifling-free-debate-in-my-classroom-20230316-p5csor.html. Accessed 12 July 2024.
@@ -301,12 +302,11 @@
 * Wang, Fengchao, et al. “Rock breaking performance of TBM disc cutter assisted by high-pressure water jet.” _Applied Sciences_, vol. 10, no. 18, 10 Sept. 2020, p. 6294, https://doi.org/10.3390/app10186294.
 * Wanscher, Johan Henrik. “An Analysis of Wilhelm Johannsen’s Genetical Genotype “term ...” _An Analysis of Wilhelm Johannsen’s Term ”genotype” 1909-26_ , 1975, onlinelibrary.wiley.com/doi/abs/10.1111/j.1601-5223.1975.tb01456.x.
 * Ward, Peter D., and Donald Brownlee. Rare Earth: Why Complex Life Is Uncommon in the Universe. Springer, 2000.
-* Waring, T. M., Wood, Z. T. Long-term gene–culture coevolution and the human evolutionary transition. _Proceedings of the Royal Society B: Biological Sciences_, 2021; 288 (1952): 20210538 DOI: 10.1098/rspb.2021.0538
+* Waring, Timothy M., and Zachary T. Wood. Long-term gene–culture coevolution and the human evolutionary transition. _Proceedings of the Royal Society B: Biological Sciences_, 2021; 288 (1952): 20210538 DOI: 10.1098/rspb.2021.0538
 * Watson, J. D., and F. H. Crick. “Molecular structure of Nucleic Acids: A structure for deoxyribose nucleic acid.” _Nature_, vol. 171, no. 4356, 25 Apr. 1953, pp. 737–738, https://doi.org/10.1038/171737a0.
 * Weber, Max. _The Protestant Ethic and the Spirit of Capitalism_. Edited by Anthony Giddens. Translated by Talcott Parsons, Routledge, 2005.
 * Weissenberger, John. “Wokism: A Symptom of ‘Late-Stage Capitalism’?” _C2C Journal_, 17 Nov. 2023, c2cjournal.ca/2023/10/wokism-a-symptom-of-late-stage-capitalism/. Accessed 09 July 2024.
 * West, Darrell. “Senate Hearing Highlights AI Harms and Need for Tougher Regulation.” _Brookings_, 27 June 2023, www.brookings.edu/articles/senate-hearing-highlights-ai-harms-and-need-for-tougher-regulation/.
-* Wheeler, J. A., & Taylor, E. F. (1966). Spacetime Physics: Introduction to Special Relativity. W.H. Freeman and Company.
 * Whitehead, Alfred North. “The Concept of Nature: The Tarner Lectures, Delivered in Trinity College, November 1919.” _The Project Gutenberg eBook of The Concept of Nature, by A. N. Whitehead._, 8 Aug. 2024, www.gutenberg.org/cache/epub/18835/pg18835-images.html.
 * Whitehead, Alfred North. _Process and Reality: A Essay in Cosmology_. Edited by David Ray Griffin and Donald Wynne Sherburne, The Free Press, 1978.
 * Whitehead, Alfred North, and Bertrand Russell. _Principia Mathematica_. 2nd ed., vol. 1, Cambridge University Press, 1963.
@@ -336,7 +336,7 @@
 
 *
 *
-* **Lazcano, Antonio, and Stanley L. Miller.** "How Long Did It Take for Life to Begin and Evolve to Cyanobacteria?" _Journal of Molecular Evolution_, vol. 39, no. 6, 1994, pp. 546-554.
+*
 * **Falkowski, Paul G.** "Traces of Life." _Science_, vol. 311, no. 5760, 2006, pp. 1030-1034.
 * "Advances in Tunnel and Underground Construction," MDPI "
 * Tunnels and Underground Excavations - Tunneling Techniques," Britannica&#x20;
