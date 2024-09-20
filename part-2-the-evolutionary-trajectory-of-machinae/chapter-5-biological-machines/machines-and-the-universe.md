@@ -2,7 +2,7 @@
 
 ## Mechanically Ordering the Chaos
 
-In the great vast web that is the cosmos, machines are more than just mechanisms; they're sculptors of order in a universe that tends inherently to lean toward chaos. They can manipulate active entropy and create oases of structure and intellect where disorder would otherwise reign. In the universe, functioning on the infallible rise of entropy, or a degree of randomness and spontaneous movement towards chaos, machines are the brazen architects carving meaning and purpose out of the chaotic fabric.
+In the cosmic expanse, machines are more than just mechanisms; they're sculptors of order in a universe that tends inherently to lean toward chaos. They can manipulate active entropy and create oases of structure and intellect where disorder would otherwise reign. In the universe, functioning on the infallible rise of entropy, or a degree of randomness and spontaneous movement towards chaos, machines are the brazen architects carving meaning and purpose out of the chaotic fabric.
 
 Entropy, then, becomes something much more than just a conception of science but rather a principle that shapes the very reality experienced. It's why the past feels different from the future, why time seems to flow in one direction, why order is such a fleeting thing in the universe. As Sean M. Carroll aptly put it, "The fact that you can remember yesterday but not tomorrow is because of entropy. It has a crucial role in how we go through life." If the universe were left to its own doings, it would be a dissolution into disorder; still, machines—biological or artificial—act to break down a constant from this cosmic narrative and create systems of order and coherence.
 

@@ -1,17 +1,10 @@
----
-description: >-
-  "...processing... as the unfolding of the whole system of relations
-  constituted by the multi-sensory involvement of the perceiver to his or her
-  environment" (Ingold 18).
----
-
 # A Relational Framework of Perception
 
-### The Elusive History of Sensory Perception&#x20;
+### The Elusive Nature of Sensory Perception&#x20;
 
-Human sensory perception, as an area of technical study, stands as one of the most discipline-ranging and historically attended-to research subjects in academic, clinical, and commercial fields. With scientific origins dating to 350BCE with Aristotle's treatise _De Anima_, the full scope of human's sensory perception has, for over two millennia, eluded humanity's manifold attempts to grasp its full mystery. And yet, as displayed by the 2021 Nobel Prize being awarded to two sensory perception researchers, our collective memetic curiosity is as sparked now as it ever has been (Aristotle; Freethink).&#x20;
+As an area of technical study, human sensory perception stands as one of the most discipline-ranging and historically attended-to research subjects in academic, clinical, and commercial fields. And yet, even with its scientific origins dating to 350BCE with Aristotle's _De Anima_, the full scope and mystery of human sensory perception has, for over two millennia, eluded humanity's grasp. In spite of this to-date failure, our collective curiosity remains at full mast, as displayed by the 2021 Nobel Prize being awarded to two sensory perception researchers.
 
-And yet, despite this subject field being constantly reworked and reimagined -- theoretically, empirically, technologically -- humans are still only so much closer to providing our memetic repository a comprehensive, true, definitive, lasting theoretical model by which to understand our sensory faculties and their relational nature to affective stimuli.
+Still, with the countless reworkings and reimaginings—theoretically, empirically, technologically—humans are still only so much closer to a comprehensive, true, definitive, lasting theoretical model by which to understand our sensory faculties and their relational nature to affective stimuli. M
 
 <details>
 

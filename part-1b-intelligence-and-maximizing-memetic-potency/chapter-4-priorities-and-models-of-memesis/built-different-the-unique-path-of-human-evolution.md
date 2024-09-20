@@ -8,7 +8,7 @@ But as the process of evolution itself, science is constantly changing. As our l
 
 For Darwin, evolution was a process of adaptation, not progress (Dennett, 1995).
 
-Now, why does this matter? While orthogenesis as a scientific theory may be long buried, its philosophical attractiveness remains—or even brings up new considerations regarding the evolution of Homo sapiens (Bowler, 1989). It thus plays to a deeper human need: to hold onto the view that there is purpose in our evolution—that we are not merely lost adrift in some non-purposive sea of space and time, moving in any particular direction (Leroi, 2014).
+Now, why does this matter? While orthogenesis as a scientific theory may be long buried, its philosophical attractiveness remains—or even brings up new considerations regarding the evolution of _Homo sapien sapiens_ (Bowler, 1989). It thus plays to a deeper human need: to hold onto the view that there is purpose in our evolution—that we are not merely lost adrift in some non-purposive sea of space and time, moving in any particular direction (Leroi, 2014).
 
 Beauty and simplicity are bundled together in the fact that Darwin's theory puts no burden on organisms evolving with a view to the future; instead, their adaptation is driven by present-day challenges. Natural selection and genetic drift have molded this adaptation of life on Earth over billions of years (Futuyma & Kirkpatrick, 2017). Yet, even with all its power, evolution is blind—it has no direction intrinsic to itself, no foresight, no ultimate goal.
 
@@ -32,6 +32,6 @@ First and foremost, the ACEL movement is not only about understanding the past b
 
 We are no longer the shackled drivers of blind evolution. We have broken free, and in breaking free, we have opened up the possibility of a new kind of evolution—one driven not by survival but by creativity, intelligence, and purpose (Dennett, 1995).&#x20;
 
-We are built different. Humans are dissimilar from other organisms. We have evolved not just biologically, but memetically (Dawkins, 2006). In our evolution, we took control of our trajectory, shaping a future through knowledge, culture, and technology. We're not just adapting to our environment; we're shaping it, bending it to our will, and creating a future that's uniquely our own (Jablonka & Lamb, 2005).
+We are built different. Humans are dissimilar from other organisms. We have evolved not just biologically, but memetically (Dawkins, 2006). In our evolution, we took control of our trajectory, shaping a future through knowledge, culture, and technology. We're not just adapting to our environment; we're shaping it, bending it to our will, and creating a future that's uniquely our own (Jablonka & Lamb, 2005). decision
 
 This is the essence of ACEL: We are not passive participants in the unfolding of evolution; we take part as active, creative agents, crafting our future with intention and foresight. We are not just another species driving the chariot of evolution; we are the first species to take the reins towards encoding our DNA with a determination that is supposed to break loose from the fetters of biology and forge our way toward an intentional future (Dennett, 1995).
