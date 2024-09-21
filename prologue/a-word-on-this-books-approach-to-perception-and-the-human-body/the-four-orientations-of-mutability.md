@@ -1,4 +1,4 @@
-# The Four Orientations of Mutability
+# The Four Corners of Mutability
 
 In the following chapters, this book will, in alignment with its intended trajectory for human evolution, set forth an intrepid and courageous schema for the future of our species. This proposition is framed as a necessary existential "jump" for humankind, one that we hope to survive and continue our evolutionary journey. Below are laid out the _four_ _orientations --_ adopted at the individual and collective level -- for humanity to attend to as we inevitably move closer to the point where we must execute this jump. By "orientations", it is meant theoretical virtue systems by which humans may arrange and align their inner worlds; for, as will be shown, a different world from the familiar is coming -- it is best to be prepared for this unprecedented type of shift.&#x20;
 

@@ -48,7 +48,7 @@ When viewed relationally, then, the sheer complexity of the perceptual mega-aggr
 
 Relationality injects its promise just here: this framework, when _lived_, allows for, encourages even, the training, the directional manipulation of these lines. That is to say, a relational framework of the body reintroduces _agency_ into our habitus. It opens out an existence where clear structural pathways—e.g., relational lines of perception—present ever-ready arenas by which to activate agency. So it is that, with this framework, we arrive to the following: an agent embodied in relational dynamism with the material, spatial environment with which it shares emergent manifestation; a dance shared across affective lines of perception that, in its unfolding, generates information and meaning, which is itself fed back into the web of relations to accelerate the unfolding emergences on their way.
 
-## Sensory Perception
+## A Summary of This Framework's Outline&#x20;
 
 In many ways, the description above of the affective body-environment-relation machine is already how we intuitively understand phenomenological perception: at baseline, perception _cannot_ take place without 1) some assemblage of a perceiving body: a brain and a central nervous system are requisite for the processing of 2) stimuli—itself the second requirement. In other words, to even meet the bare minimum qualifications of the _possibility_ of perception, one must appreciate as _necessary_ both the _content_—the body—and the _context_—its environment—of perception.
 
