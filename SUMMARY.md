@@ -6,10 +6,10 @@
 
 ## Prologue
 
-* [A Word on This Book's Approach to Perception & the Human Body](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/README.md)
-  * [A Relational Framework of Perception](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/a-relational-framework-of-perception.md)
-  * [Changing the View of the Body](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/changing-the-view-of-the-body.md)
-  * [The Four Orientations of Mutability](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/the-four-orientations-of-mutability.md)
+* [Hanging This Book's Theoretical Framework](prologue/hanging-this-books-theoretical-framework/README.md)
+  * [Aligning 'Humanity' On Relational Lines](prologue/hanging-this-books-theoretical-framework/aligning-humanity-on-relational-lines.md)
+  * [Changing the View of the Body](prologue/hanging-this-books-theoretical-framework/changing-the-view-of-the-body.md)
+  * [The Four Corners of Mutability](prologue/hanging-this-books-theoretical-framework/the-four-corners-of-mutability.md)
 
 ## Introduction: ACEL & Its Foundations
 
