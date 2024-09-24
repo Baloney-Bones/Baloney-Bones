@@ -8,7 +8,7 @@
 
 * [Hanging This Book's Theoretical Framework](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/README.md)
   * [Aligning 'Humanity' On Relational Lines](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/a-relational-framework-of-perception.md)
-  * [Changing the View of the Body](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/changing-the-view-of-the-body.md)
+  * [Classical Borders for a New Body](prologue/hanging-this-books-theoretical-framework/classical-borders-for-a-new-body.md)
   * [The Four Corners of Mutability](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/the-four-orientations-of-mutability.md)
 
 ## Introduction: ACEL & Its Foundations

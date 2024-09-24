@@ -7,6 +7,7 @@
 </div>
 
 * Aerospace Corporation. "Environmental Impacts of Rocket Launches". https://aerospace.org/environmental-impacts-rocket-launches.
+* Ames, Roger T., and Wimal Dissanayake. _Self as Body in Asian Theory and Practice_. Edited by Thomas P. Kasulis, State University of New York Press, 1993.
 * Antoni, EJ. “Wokeness Is Slowly Hollowing out the Fed.” _The Heritage Foundation_, www.heritage.org/markets-and-finance/commentary/wokeness-slowly-hollowing-out-the-fed. Accessed 19 July 2024
 * Arendt, Hannah. _Eichmann in Jerusalem: A Report on the Banalty of Evil_. Penguin Books, 1964.
 * Arendt, Hannah. _On Violence_. Harcourt, 1969.
@@ -159,7 +160,6 @@
 * Kahneman, Daniel. Thinking, Fast and Slow. Farrar, Straus and Giroux, 2011.
 * Kao, Emilie. “Woke Gender.” _The Heritage Foundation_, www.heritage.org/gender/commentary/woke-gender. Accessed 09 July 2024.
 * Kasting, James F. How to Find a Habitable Planet. Princeton University Press, 2010.
-* Kasulis, T., Ames, R. and Dissanayake, W. (1993). _Self as body in Asian theory and practice_ Albany: State University of New York Press.
 * Kauffman, Stuart A. _Investigations_. Oxford University Press, 2000.
 * Kennedy, Hugh. “The feeding of the five hundred thousand: Cities and Agriculture in early Islamic mesopotamia.” _Iraq_, vol. 73, 2011, pp. 177–199, https://doi.org/10.1017/s0021088900000152.
 * Kierkegaard, Søren. _Fear and Trembling_. Translated by Alastair Hannay, Penguin Books, 1986.
@@ -256,6 +256,8 @@
 * Ratcliff, William  C., et al. “Experimental Evolution of Multicellularity.” Edited by Richard E. Lenski. _PNAS_, vol. 109, no. 5, 31 Jan. 2012, pp. 1595–1600, https://doi.org/https://doi.org/10.1073/pnas.1115323109.
 * Reiff, Nathan. “The Collapse of FTX: What Went Wrong with the Crypto Exchange?” _Investopedia_, Investopedia, 6 June 2024, www.investopedia.com/what-went-wrong-with-ftx-6828447.
 * Roach, Brian, et al. “Consumption and the Consumer Society.” _A GDAE Teaching Module on Social and Environmental Issues in Economics_, Routledge, www.bu.edu/eci/files/2019/10/Consumption\_and\_Consumer\_Society.pdf. Accessed 19 July 2024.
+* Robinet, Isabelle. ‘Original Contributions of Neidan to Taoism and Chinese Thought’. In: L. Kohn and Y. Sakade, ed., _Taoist Meditation and Longevity Techniques_ 1st ed. Ann Arbor: University of Michigan Press, 1989.
+* Robinet, Isabelle. _Taoism: Growth of a Religion_. Translated by Phyllis Brooks, Stanford University Press, 1997.
 * Roll-Hansen, Nils. “The Genotype Theory of Wilhelm Johannsen and Its Relation to Plant Breeding and the Study of Evolution.” Centaurus 22.3 (1979): 201–235. Web.
 * Roose, Kevin. “The Brilliance and Weirdness of Chatgpt.” _The New York Times_, The New York Times, 5 Dec. 2022, www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html.
 * Ross, James Perren. “Outlasting the Dinosaurs.” _NOVA_, PBS, Dec. 2023.
@@ -264,6 +266,7 @@
 * Said, Edward W. _Culture and Imperialism_. Vintage Books, 1994.
 * Sartre, Jean-Paul. _Being and Nothingness: An Essay on Phenomenological Ontology._ Washington Square Press, 1953.
 * Sartre, Jean-Paul. _Existentialism Is a Humanism_. Edited by John Kulka. Translated by Carol Macomber, Yale University Press, 2007.
+* Schipper, Kristofer. _The Taoist Body Kristofer Schipper._ Translated by Karen C. Duval, University of California Press, 1993.
 * Schmitz, Matthew. “The Woke and the Un-Woke.” _Tablet Magazine_, 25 Sept. 2020, www.tabletmag.com/sections/news/articles/woke-religion-america. Accessed 09 July 2024.
 * Schrum, J. P., et al. “The origins of Cellular Life.” _Cold Spring Harbor Perspectives in Biology_, vol. 2, no. 9, 19 May 2010, https://doi.org/10.1101/cshperspect.a002212.
 * Sen, Gautam. “How the Woke Are Impacting Politics and Foreign Policy.” _Globalorder_, 16 Jan. 2023, www.globalorder.live/post/how-the-woke-are-impacting-politics-and-foreign-policy. Accessed 11 July 2024.
@@ -288,8 +291,8 @@
 * Templeton AR. Has human evolution stopped? Rambam Maimonides Med J. 2010 Jul 2;1(1):e0006. doi: 10.5041/RMMJ.10006. PMID: 23908778; PMCID: PMC3721656.
 * Thoraval, Yannick. “Education: Opinion.” _The Sydney Morning Herald_, 23 Mar. 2023, www.smh.com.au/education/i-m-a-university-lecturer-and-wokeism-is-stifling-free-debate-in-my-classroom-20230316-p5csor.html. Accessed 9 July 2024.
 * Thoraval, Yannick. “Wokeim Stifles Debate at Universities.” _The Sydney Morning Herald_, 24 Mar. 2023, www.smh.com.au/education/i-m-a-university-lecturer-and-wokeism-is-stifling-free-debate-in-my-classroom-20230316-p5csor.html. Accessed 12 July 2024.
-* Twidell, J., & Weir, T. (2015). Renewable Energy Resources. Routledge.
-* Turner, T. (2009). ‘The Crisis of Late Structuralism. Perspectivisim and Animism: Rethinking Culture, Nature, Spirit, and Bodiliness’ _Tipití­:_ Journal of the Society for the Anthropology of Lowland South America 7(1), p.34.
+* Twidell, J., & Weir, T. Renewable Energy Resources. Routledge, 2015.
+* Turner, T. ‘The Crisis of Late Structuralism. Perspectivisim and Animism: Rethinking Culture, Nature, Spirit, and Bodiliness’ _Tipití­:_ Journal of the Society for the Anthropology of Lowland South America 7(1), p.34, 2009.
 * Turner, De Sales, and Helen Cox. “Facilitating Post Traumatic Growth.” _Health and Quality of Life Outcomes_, vol. 2, no. 1, 13 July 2004. _34_, https://doi.org/10.1186/1477-7525-2-34.
 * Tyrrell, Patrick. “What Is Wrong with ‘ESG’ Wokeism.” _The Heritage Foundation_, www.heritage.org/progressivism/commentary/what-wrong-esg-wokeism. Accessed 12 July 2024.
 * University of Oxford. “8.2% of Our DNA Is ‘Functional.’” _University of Oxford_, 25 July 2015, www.ox.ac.uk/news/2014-07-25-82-our-dna-%E2%80%98functional%E2%80%99.
