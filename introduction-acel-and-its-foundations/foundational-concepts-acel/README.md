@@ -1,2 +1,0 @@
-# Foundational Concepts, ACEL
-
