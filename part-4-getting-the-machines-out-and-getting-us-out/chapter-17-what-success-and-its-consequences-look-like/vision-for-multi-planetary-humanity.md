@@ -1,4 +1,4 @@
-# Vision for Multi-Planetary Humanity
+# II. Vision for Multi-Planetary Humanity
 
 With the inevitable realization of the ACEL Tunnel, humanity stands teetering on the brink of a transformation that would redefine life itself. No longer chained near to the base of the Earth, we are poised to step into a future where multiple planets become our new frontier. This is not just expansion at a physical level; it is an expansion at the level of collective consciousness—of who we are and of what on earth we exactly have the potential to become.
 

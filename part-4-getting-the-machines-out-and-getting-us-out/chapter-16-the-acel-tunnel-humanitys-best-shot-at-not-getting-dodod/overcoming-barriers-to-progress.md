@@ -1,4 +1,4 @@
-# Overcoming Barriers to Progress
+# III. Overcoming Barriers to Progress
 
 On the journey toward actualizing a vision—the ACEL Tunnel—to change humanity's relationship with space, innumerable barriers rise up to stand in the way. These barriers are not only of a physical and technical nature but are deep-rooted within our societal structures, cultural mindsets, and even in the very nature of human psychology itself. Of course, meeting these challenges is as much about changing our mindset as it is about technological developments.
 

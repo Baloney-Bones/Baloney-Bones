@@ -10,24 +10,24 @@
 
 ## Part 1A: Intelligence: & the Way It Move_d_
 
-1. ### [The Origins of Human Intelligence](part-1.a.-intelligence-and-the-way-its-moved/chapter-1-the-origins-of-human-intelligence/)&#x20;
-2. ### [The Genetic Pathway: The Road Less Traveled ](part-1.a.-intelligence-and-the-way-its-moved/chapter-2-the-genetic-pathway-the-road-less-traveled/)
+1. ### [The Origins of Human Intelligence](part-1a-intelligence-and-the-way-it-moved/chapter-1-the-origins-of-human-intelligence/)&#x20;
+2. ### [The Genetic Pathway: The Road Less Traveled ](part-1a-intelligence-and-the-way-it-moved/chapter-2-the-genetic-pathway-the-road-less-traveled/)
 
 ***
 
 ## Part 1B: Intelligence: & Maximizing Memetic Potency&#x20;
 
-3. ### [New Dominance in Intelligence Propagation](part-1.b.-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/)
-4. ### [Priorities & Models of Memesis](part-1.b.-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/)
+3. ### [New Dominance in Intelligence Propagation](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/)
+4. ### [Priorities & Models of Memesis](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/)
 
 ***
 
 ## Part 2: The Evolutionary Trajectory of _Machinae_
 
-5. ### [Biological Machines](part-2.-the-evolutionary-trajectory-of-machinae/chapter-5-biological-machines/)
-6. ### [Silicon Machines](part-2.-the-evolutionary-trajectory-of-machinae/chapter-6-silicon-machines/)
-7. ### [Energy Machines](part-2.-the-evolutionary-trajectory-of-machinae/chapter-7-energy-machines/)
-8. ### [The Universal Machine](part-2.-the-evolutionary-trajectory-of-machinae/chapter-8-the-universal-machine/)
+5. ### [Biological Machines](part-2-the-evolutionary-trajectory-of-machinae/chapter-5-biological-machines/)
+6. ### [Silicon Machines](part-2-the-evolutionary-trajectory-of-machinae/chapter-6-silicon-machines/)
+7. ### [Energy Machines](part-2-the-evolutionary-trajectory-of-machinae/chapter-7-energy-machines/)
+8. ### [The Universal Machine](part-2-the-evolutionary-trajectory-of-machinae/chapter-8-the-universal-machine/)
 
 ***
 

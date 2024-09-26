@@ -14,6 +14,8 @@ layout:
 
 # II. The Rise of Accelerant Forks
 
+##
+
 ## AI & the Rise in Popularity of Accelerationism
 
 While kettling Accelerationism-proper into a cohesive framework proves a challenge, less so is locating the root catalyst of its recent rise in popularity, which can be backdropped against the sudden ubiquitous accessibility of AI technology; and with it, the existential paranoia with which it now seems to haunt modern society.
