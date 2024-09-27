@@ -94,7 +94,7 @@
   * [I. Interaction with Silicon Machines](part-4-getting-the-machines-out-and-getting-us-out/chapter-19-a-world-with-spacebrains/interaction-with-silicon-machines.md)
   * [II. Transition to SpaceBrains](part-4-getting-the-machines-out-and-getting-us-out/chapter-19-a-world-with-spacebrains/transition-to-spacebrains.md)
 * [Chapter 20: The Future, According to ACEL](part-4-getting-the-machines-out-and-getting-us-out/chapter-20-the-future-according-to-acel/README.md)
-  * [I. Guardians of Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-20-the-future-according-to-acel/guardians-of-humanity.md)
+  * [I. Guardians of Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-20-the-future-according-to-acel/i.-guardians-of-humanity.md)
   * [II. Potential in Space](part-4-getting-the-machines-out-and-getting-us-out/chapter-20-the-future-according-to-acel/potential-in-space.md)
 
 ## Part  5: Some Final Curveballs
