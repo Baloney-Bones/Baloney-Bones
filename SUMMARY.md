@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Table of Contents](README.md)
-* [Prologue: Hanging this Book's Theoretical Framework](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/a-relational-framework-of-perception.md)
+* [Prologue: A Crash Course in ACEL Priorities](prologue-a-crash-course-in-acel-priorities.md)
 * [II. Classical Borders for a New Body](prologue/hanging-this-books-theoretical-framework/classical-borders-for-a-new-body.md)
 * [III. The Four Corners of Humanity](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/the-four-orientations-of-mutability.md)
-* [Introduction: ACEL & Its Foundations](introduction-acel-and-its-foundations.md)
-* [II. The Rise of Accelerant Forks](ii.-the-rise-of-accelerant-forks.md)
-* [III. The Philosophical Underpinnings of ACEL](iii.-the-philosophical-underpinnings-of-acel.md)
+* [Introduction: ACEL & Its Foundations](introduction-acel-and-its-foundations/foundational-concepts-acel/accelerating-beyond-accelerationism.md)
+* [II. The Rise of Accelerant Forks](introduction-acel-and-its-foundations/foundational-concepts-acel/the-rise-of-accelerant-forks.md)
+* [III. The Philosophical Underpinnings of ACEL](introduction-acel-and-its-foundations/foundational-concepts-acel/the-philosophical-underpinnings-of-acel.md)
 
 ## Part 1.A. Intelligence: & the Way it's Moved
 
@@ -94,7 +94,7 @@
   * [I. Interaction with Silicon Machines](part-4-getting-the-machines-out-and-getting-us-out/chapter-19-a-world-with-spacebrains/interaction-with-silicon-machines.md)
   * [II. Transition to SpaceBrains](part-4-getting-the-machines-out-and-getting-us-out/chapter-19-a-world-with-spacebrains/transition-to-spacebrains.md)
 * [Chapter 20: The Future, According to ACEL](part-4-getting-the-machines-out-and-getting-us-out/chapter-20-the-future-according-to-acel/README.md)
-  * [I. Guardians of Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-20-the-future-according-to-acel/i.-guardians-of-humanity.md)
+  * [I. Guardians of Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-20-the-future-according-to-acel/guardians-of-humanity.md)
   * [II. Potential in Space](part-4-getting-the-machines-out-and-getting-us-out/chapter-20-the-future-according-to-acel/potential-in-space.md)
 
 ## Part  5: Some Final Curveballs
