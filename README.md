@@ -55,11 +55,11 @@
 
 ### Part 5: Some Final Curveballs
 
-20. ### &#x20;[Conundrums](part-5-some-final-curveballs/chapter-20-conundrums.md)
+20. ### &#x20;[Conundrums](part-5-some-final-curveballs/chapter-21-conundrums/)
 
 ***
 
-* ### [Conclusion](conclusion/conclusion.md)
+* ### [Conclusion](conclusion/chapter-22-conclusion.md)
 
 ***
 
