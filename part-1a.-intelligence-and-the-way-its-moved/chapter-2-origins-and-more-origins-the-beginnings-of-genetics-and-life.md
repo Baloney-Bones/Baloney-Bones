@@ -1,8 +1,6 @@
 # Chapter 2: Origins & More Origins: The Beginnings of Genetics & Life
 
-### The Evolution of Our Intuitive Sense of _Heredity_
-
-#### 10,000 Years of Selective Breeding: **First Evidences of **_**Deliberate**_** Biological Transfer**
+### The Evolution of Human Being's Intuitive Sense of _Heredity_
 
 While the term _heredity_ might be unfamiliar to some, that living organisms possess and pass on certain traits to their offspring, is not: According to Daniel Zohary, Late Professor Emeritus at the University of Jerusalem, the human species has held _some intuitive semblance of knowledge_ heredity for at least "10,500-10,100 years" (1). This comes from Zohary's studies of fossilized vegetable seeds, the likes of emmer wheat and other cereals and legumes, e.g., lentils and peas, that were domesticated by "a string of Early Pre-Pottery Neolithic B (PPNB) farming villages that developed in south-west Asia” (1). Evidently, that these ten-millennia-old farming communities _did_ domesticate certain plants for food suggests that they not only knew that it was possible, they also knew _how_ to do so_._
 
