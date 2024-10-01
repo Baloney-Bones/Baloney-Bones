@@ -18,8 +18,6 @@ layout:
 
 # Chapter 3: Memesis: The New Dominant Intelligence
 
-### ACEL's Memetic Formula: Intelligence + Agency = Survival & Evolution
-
 ### Deploying Our Natural Appetite for Knowledge
 
 For all of the evolutionary mechanisms that have shaped and reshaped human biological systems over our species' extant millennia, it is the manifest complexity of the brain — particularly the frontal lobe, the sensory cortex, and the hippocampus (just some of the neural structures determining how our brain seeks out, processes, and retains information) — that has turned humans into exploratory powerhouses (de Villiers; Jacobson et al.).
