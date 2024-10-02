@@ -13,7 +13,7 @@
 
 ### Part 1B: Intelligence: & Maximizing Memetic Potency&#x20;
 
-3. ### [Memesis: The New Dominant Intelligence](part-2.-maximizing-memetic-potency/chapter-3-the-potency-persistence-and-precarity-of-the-new-memetic.md)
+3. ### [Memesis: The New Dominant Intelligence](part-2.-maximizing-memetic-potency/chapter-3-the-dominance-duration-and-delicacy-of-the-new-memetic.md)
 4. ### [Fountainhead & Toolshed: Putting Our Endless Meme Supply to Work](chapter-4-fountainhead-and-toolshed-a-theoretical-inquiry-into-why-intelligence-and-agency.md)
 
 ***

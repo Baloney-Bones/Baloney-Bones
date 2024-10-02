@@ -10,7 +10,7 @@
 
 ## Part 2. Maximizing Memetic Potency
 
-* [Chapter 3: The Potency, Persistence, and Precarity of the New Memetic](part-2.-maximizing-memetic-potency/chapter-3-the-potency-persistence-and-precarity-of-the-new-memetic.md)
+* [Chapter 3: The Dominance, Duration, and Delicacy of the New Memetic](part-2.-maximizing-memetic-potency/chapter-3-the-dominance-duration-and-delicacy-of-the-new-memetic.md)
 
 ***
 
