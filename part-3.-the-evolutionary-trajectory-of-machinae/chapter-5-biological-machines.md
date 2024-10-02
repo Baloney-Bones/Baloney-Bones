@@ -1,8 +1,6 @@
 # Chapter 5: Biological Machines
 
-## Machines & the Universe
-
-## Mechanically Ordering the Chaos
+## Machines & the Universe: Mechanically Ordering the Chaos
 
 In the cosmic expanse, machines are more than just mechanisms; they're sculptors of order in a universe that tends inherently to lean toward chaos. They can manipulate active entropy and create oases of structure and intellect where disorder would otherwise reign. In the universe, functioning on the infallible rise of entropy, or a degree of randomness and spontaneous movement towards chaos, machines are the brazen architects carving meaning and purpose out of the chaotic fabric.
 
