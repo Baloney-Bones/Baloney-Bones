@@ -10,11 +10,11 @@
 
 ## Part 2. Maximizing Memetic Potency
 
-* [Chapter 3: Fountainhead & Toolshed: Putting Our Endless Meme Supply to Work](part-2.-maximizing-memetic-potency/chapter-3-fountainhead-and-toolshed-putting-our-endless-meme-supply-to-work.md)
+* [Chapter 3: Memesis: The New Dominant Intelligence](part-2.-maximizing-memetic-potency/chapter-3-memesis-the-new-dominant-intelligence.md)
 
 ***
 
-* [Chapter 4: Memesis: The New Dominant Intelligence](chapter-4-memesis-the-new-dominant-intelligence.md)
+* [Chapter 4: Fountainhead & Toolshed: A Theoretical Inquiry on Maximizing Intelligence & Agency](chapter-4-fountainhead-and-toolshed-a-theoretical-inquiry-on-maximizing-intelligence-and-agency.md)
 
 ## Part 3. The Evolutionary Trajectory of Machinae
 
