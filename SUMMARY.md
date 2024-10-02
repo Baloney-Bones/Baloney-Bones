@@ -14,7 +14,7 @@
 
 ***
 
-* [Chapter 4: Fountainhead & Toolshed: A Theoretical Inquiry on Maximizing Intelligence & Agency](chapter-4-fountainhead-and-toolshed-a-theoretical-inquiry-on-maximizing-intelligence-and-agency.md)
+* [Chapter 4: Fountainhead & Toolshed: A Theoretical Inquiry on Maximizing Intelligence & Agency](part-2.-maximizing-memetic-potency/chapter-4-fountainhead-and-toolshed-putting-our-endless-meme-supply-to-work.md)
 
 ## Part 3. The Evolutionary Trajectory of Machinae
 
