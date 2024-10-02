@@ -48,11 +48,11 @@ Less than two decades after Dobzhansky's rather bleak appraisal of the state of 
 
 ### Two Origin(s-of-Life) Stories: 'The Primordial Soup Theory' and 'The RNA World Hypothesis'
 
-#### Disclaimer for the Scientific World
+#### **Disclaimer for the Scientific World**
 
 It would be well to state here that ACEL makes no claim to the scientific fact of the following thought-experiments; it merely entertains, out of an authentic care for our evolutionary _yet-to-come_, some theoretical possibilities that might explain our _where-from_.&#x20;
 
-#### A Brief History of 'Origin-of-Life' Studies
+#### **A Brief History of 'Origin-of-Life' Studies**
 
 The interest in the origins of life is anything but a recent phenomenon. Alexander Oparin, progenitor of 'The Primordial Soup' theory (the first to be discussed below) said of this, "History shows that the problem of the emergence of life has fascinated the human mind from time immemorial. There has been no religious or philosophic system and no great thinker that has not devoted serious attention to this problem" (Oparin ix). He is not wrong: in fact, this question predates even Aristotle (who, of course, also broached this subject in his _Generation of Animals_). The Greek philosopher Anaximander, of the 6th c. BCE, appears to be the first to posit a theory on this subject of origins, which, according to historian Andrew Gregory, was inspired by water-to-land metamorphosis of the Caddis fly (Gregory rejects the common reading of Anaximander suggesting we evolved from "fish-people" (Gregory 29). While Aristotle offered his own thoughts on evolution and origins some 200 years later (he rejected gradualism and advocated for spontaneous generation), public interest in and inquiry into this topic died off for the next two millennia; no anomaly, this massive gap in studies of not just _origin_ theories, but all scientific inquiry, is attributable to Christianity, whose challengers—especially those providing  alternative explanations to life outside of divine origins—were considered heretical, and dealt with as such.&#x20;
 
@@ -66,7 +66,7 @@ These inspired scientists have each, both independently and jointly, sought to f
 
 ### The 'Primordial Soup' Theory
 
-#### Setting the Scene
+**Setting the Scene**
 
 Visually, the ‘primordial soup’ presents as thus: in the incipient period of Earth's formation, long before organisms or cells came to manifest in its cosmic reality, there existed a reducing (i.e. nonoxidized) atmosphere; a gaseous oceanic chaos; a turbulent, amorphous churning of substances. These, according to Miller and Urey, the creators and deployers of their famous 1953 Miller-Urey Experiment— an empirical, small-scale testing of Oparin's 'primordial soup', which found the theory plausible—consisted of  "... hydrogen, methane, nitrogen, and ammonia; smaller amounts of carbon dioxide and carbon monoxide; and possibly small amounts of other substances such as higher hydrocarbons, hydrogen sulfide, and phosphine" (Miller and Urey 245). They note these "were probably not present in equilibrium concentrations, but compounds which are thermodynamically very unstable in this highly reducing atmosphere" (245). This vaporous cloud, which took the simultaneous form of both atmosphere and ocean, was in constant, chemical activation due to ultraviolet light, incessant electrical storms "electric discharges, such as lightning and corona charges from pointed objects", and, to a lesser degree, volcanos and radiation (247-8).&#x20;
 
@@ -80,7 +80,7 @@ Such was the "primordial soup", the environment that, according to Oparin, gave 
 
 ### The 'RNA World Hypothesis'
 
-#### The Double (Functioning) Agent
+**The Double (Functioning) Agent**
 
 Leading away from the macroscopic view of 'The Primordial Soup Theory', this second origins story, focusing as it does on a molecular _agent_, a mechanistic catalyst from which DNA possibly generated, requires first a brief look into DNA's microscopic dependencies that suggest it had a structural template off of which to take form.&#x20;
 
@@ -92,7 +92,7 @@ But surely, _something_ had to wiggle DNA into existence at some point. Schrum n
 
 This is where RNA becomes of great interest: Under certain conditions, a particular type of RNA molecule, the ribozyme, is in fact capable of carrying out all three of DNA's life-sustaining functions: information storage, self-replication, and catalysis; but more than this, it is able to do this entirely independently of any external proteins whatsoever_._ That is to say, in conducive settings, this type of RNA, one that meets all of Schrum's criteria, needs no outside "food" to perform these tasks; it is a complete system with dual-functionality (three if you count storage).&#x20;
 
-#### More DNA-ey than DNA
+**More DNA-ey than DNA**
 
 Needless to say, these biologists found striking parallels in this molecule that so resembled the operational features of DNA; it was even more DNA-like than DNA itself, for it could perform all the functions of DNA entirely without the proteins that DNA required, that did not exist in primitive Earth. Such is why "The general notion of an 'RNA world' is that, in the early development of life on the Earth, genetic continuity was assured by the replication of RNA, and RNA molecules were the chief agents of catalytic function" (Joyce and Szostak 1). Indeed, once they discovered "that RNA could behave in a Darwinian manner in the absence of cells," and that it "has both a genotype and a phenotype," these scientists began to see this structure as a "plausible precursor to a much more complex system" (Higgs and Lehman 1). Walter Gilbert stated back in 1986, the same year he coined 'The RNA World':
 
@@ -102,7 +102,7 @@ Experiments pertaining to this hypothesis continue still today: Just in 2022, "R
 
 Now the leading origin-of-life theory, the 'RNA World Hypothesis' might confidently claim "that there was a period of time in primitive Earth’s history—about 4 billion years ago—when the primary living substance was RNA or something chemically similar... \[that it] carried out most of the information processing and metabolic transformations needed for biology to emerge from chemistry" (Higgs and Lehman 1). Truly, if these ribozymes should be found to wield these same agencies within the true conditions that defined early Earth, then it is highly likely that RNA did in fact serve as the material, infrastructural template from which biological life was birthed.&#x20;
 
-#### Synthesizing The Two: The RNA Agent in Early Earth's Soup?
+### Synthesizing The Two: The RNA Agent in Early Earth's Soup?
 
 To this last point, it is in fact quite possible that 'The Primordial Soup Theory' and 'The RNA World Hypothesis' are no more than two early explorations, of varying scales and foci, of the same picture. That is to say, they might well belong to one broader origins theory that has yet to see its shape fully defined. That they share a strong root premise that life originated from prebiotic substances; that DNA itself was not always the the champion of life's story; indeed, that life was born of, or came from, not-life—is highly suggestive of compatibility. Schrum's encapsulation of both betrays further linkage:
 
@@ -142,7 +142,7 @@ On this initial genetic leap from from single-cell to multi-cell organisms, whic
 
 Much is owed to these tiny multicellular organisms that seemed to intentionally combine genetic intelligences in order add more and more genetic flavor, and thereby resilience, to the collective genetic repository. In so doing, they would accelerate the amount of mutations that would not just _emerge_, but _persist_, even _prosper_. It could not have been otherwise, that multicellular organisms emerged and persisted without these protists "wiggling" genetic diversity into existence. Certainly still, an innumerable amount of organisms had to have emerged without prospering due to a lack of sufficient genetic diversity. This is a necessary aspect of accelerating mutations; not all will stand the test of time. Yet, with each alteration of the genetic sequence, whether it turns out "sticky" or not, reveals to the collective repository what attributes _do_ in fact produce resilient offspring and which do not. In this way, the fabric of our collective genetic repository grows exponentially stronger with every mutation (Gerton and Hawley 485). &#x20;
 
-### The Longview of Humanity's Genetic Repository&#x20;
+#### The Longview of Humanity's Genetic Repository&#x20;
 
 This exponential compounding of evolutionary mutations would continue unfolding in the continuous process of a billion and more years worth of time, only to eventually arrive to the genetic marvel of the _Homo sapien_. And so it was, from RNA; to prokaryotes; to single-celled protists; to multicellular eukaryotes; and everything in between those microscopic smooth operators, all the way up to _Homo sapien,_ this species–and its consciousness–owes a great deal.&#x20;
 
@@ -150,10 +150,10 @@ While they had no means by which to know or understand, how these structurally s
 
 Such is the spirit that buzzes through the collective _unfolding-now_, and has since that first RNA strand begot DNA. Four billion years of genetic life is heard in the cicada song, in a conversation between friends. Specifically for humankind, we are young, just over ten millennia in this entangled, ever-unfolding web of biological machines that has succeeded in surviving, in making chromosomal-potent, adaptive evolutionary choices through overlapping, collapsing intensities, ensuring their own survival and efforting their species to continue its process. Such is why this planet still today is burgeoning with adaptive and adapting biological life. In each continuous _fluency_ of time there exist countless unconscious genetic leaps being made by organisms the world over to continue their existing; and humanity seems now presented one the cards which seemingly no other biological machine has yet been dealt.
 
-### The First to Take the Exit off the Genetic Beltway
+#### The First to Take the Exit off the Genetic Beltway
 
 Unlike the 4 billion year old prokaryote, the one species that can read these words is self-aware of its conscious, observable emergence through the _unfolding-now_. This gift we are given endows us with both an opportunity and a responsibility, for it is _only_ this conscious-of-self species that is able to usher in, just as RNA did for DNA, the next great leap in data transference between _machinae_.&#x20;
 
-While we give thanks to them, we are no longer unicellular microscopic bugs. We are powerful, communicative agents. And while this species obviously still depends on its genetic pathway to transfer biological material, the repository that deploys data along its lines has plateaued in alterable significance—we have mastered genetic evolution. While continuing to use that which we've mastered, its dominance has been supplanted by a far more malleable, faster, more efficient pathway for our primary means of moving our intelligence between bodies.&#x20;
+While we give thanks to them, we are no longer unicellular microscopic bugs. We are powerful, communicative agents. And while this species obviously still depends on its genetic pathway to transfer biological material, the repository that deploys data along its lines has plateaued in alterable significance—we have in many ways mastered genetic evolution. While continuing to employ this line as it is functionally necessary, its dominance has been supplanted by a far more malleable, faster, more efficient pathway for our primary means of moving our intelligence between bodies.&#x20;
 
-It is born of the way we communicate with one another: For ten thousand years and more, _Homo sapien_ have communicated through body language, vocalization, technologies; this has largely been taken for granted, until recently. By making these efforts, as others have done, we might help to smoothe this transition from prioritizing the genetic pathway to that of the memetic pathway. In our success we might hope to give the same gift that RNA gave us.&#x20;
+It is born of the way we communicate with one another: For at least twenty millennia, _Homo sapiens_ have communicated through body language, vocalization, technologies; this has largely been taken for granted, until recently. Only in the last century, and more keenly in the last few decades, have we turned a collective gaze to the potential lying latent within in this mode of information transference. ACEL, for its part, intends to help in the catalysis of this shift away from our focus on the genetic pathway, to optimizing the untapped world of our species' memetic pathway. In our success, we might hope to give the same gift to some new iteration of agency, just as those ribozymes did for us.&#x20;
