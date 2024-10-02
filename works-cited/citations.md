@@ -6,6 +6,7 @@
 
 </div>
 
+* “5 Hazards of Human Spaceflight.” _NASA_, NASA, 1 Aug. 2024, www.nasa.gov/hrp/hazards/.
 * Aerospace Corporation. "Environmental Impacts of Rocket Launches". https://aerospace.org/environmental-impacts-rocket-launches.
 * Ames, Roger T., and Wimal Dissanayake. _Self as Body in Asian Theory and Practice_. Edited by Thomas P. Kasulis, State University of New York Press, 1993.
 * Antoni, EJ. “Wokeness Is Slowly Hollowing out the Fed.” _The Heritage Foundation_, www.heritage.org/markets-and-finance/commentary/wokeness-slowly-hollowing-out-the-fed. Accessed 19 July 2024
@@ -43,6 +44,7 @@
 * Bowler, Peter J. _The Mendelian Revolution: The Emergence of Hereditarian Concepts in Modern Science and Society_. Bloomsbury Academic, 2015.
 * Bowman, Abigail. “Space Launch System.” Edited by Lee Mohon, _NASA_, 11 July 2024, www.nasa.gov/reference/space-launch-system/.
 * Boyd, Robert, and Peter J. Richerson. Culture and the Evolutionary Process. University of Chicago Press, 1985.
+* Brain, Marshall, and Sarah Gleim. “What If an Asteroid Hit Earth?” _HowStuffWorks Science_, HowStuffWorks, 9 Dec. 2022, science.howstuffworks.com/nature/natural-disasters/asteroid-hits-earth.htm.
 * Brereton, Joel P., and Stephanie W. Jamison. _The Rigveda: The Earliest Religious Poetry of India_. Vol. 3, Oxford University Press, 2014.
 * Brinkhof, Tim. “Here’s Why Sensory Perception Research Was Awarded A Nobel Prize.” _Freethink_, 11 Oct. 2021, www.freethink.com/science/2021-nobel-prize-for-medicine-is-awarded-to-work-on-sensory-perception-heres-why.
 * Brodsky, Sascha. “Even the Creator of Chatgpt Finds Ai Scary, but Not Everyone Agrees.” _Lifewire_, 24 Feb. 2023, www.lifewire.com/even-the-creator-of-chatgpt-finds-ai-scary-but-not-everyone-agrees-7113525.
@@ -111,12 +113,14 @@
 * Georgescu-Roegen, Nicholas. _The Entropy Law and the Economic Process_. Harvard University Press, 1981.
 * Gerton, Jennifer L., and R. Scott Hawley. “Homologous chromosome interactions in meiosis: Diversity amidst conservation.” _Nature Reviews Genetics_, vol. 6, no. 6, June 2005, pp. 477–487, https://doi.org/10.1038/nrg1614.
 * Gesteland, Raymond F, Thomas R. Cech, and John F. Atkins, eds. _The RNA World: The Nature of Modern RNA Suggests a Prebiotic RNA World_. 2nd ed., Cold Spring Harbor Laboratory Press, 1999.
+* Ghose, Tia, and Brandon Specktor. “NASA’s Parker Solar Probe Smashes Record for Fastest Man-Made Object.” _LiveScience_, Purch, 14 Oct. 2023, www.livescience.com/space/nasas-parker-solar-probe-smashes-record-for-fastest-man-made-object.
 * Gilbert, Walter. “Origin of life: The RNA world.” _Nature_, vol. 319, no. 6055, Feb. 1986, pp. 618–618, https://doi.org/10.1038/319618a0.
 * Girard, René. _Violence and the Sacred_ . Translated by Patrick Gregory, Paperback ed., Johns Hopkins University Press, 1979.
 * Glover, Natasha. “The Banana Conjecture.” _Dessimoz Lab: Computational Evolutionary Biology_, 8 Dec. 2020, lab.dessimoz.org/blog/2020/12/08/human-banana-orthologs.
 * Godoy, Jody, and Luc Cohen. “Bankman-Fried Sentenced to 25 Years for Multi-Billion Dollar FTX Fraud.” _Reuters_, 28 Mar. 2024, www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/.
 * Gould, Stephen Jay. Wonderful Life: The Burgess Shale and the Nature of History. W. W. Norton & Company, 1989.
 * Gramsci, Antonio. _Selections from the Prison Notebooks of Antonio Gramsci_. Edited by Quintin Hoare. Translated by Quintin Hoare and Geoffrey Nowell Smith, International Publishers, 1971.
+* Gregersen, Erik. "How Do We Know How Far Away the Stars Are? ". Encyclopedia Britannica, 15 Aug. 2016, https://www.britannica.com/story/how-do-we-know-how-far-away-the-stars-are. Accessed 2 October 2024.
 * Gregory, Andrew. _Anaximander: A Re-Assessment_. Bloomsbury Academic, 2017.
 * Griffiths, D. J. Introduction to Electrodynamics. Cambridge University Press, 2017.
 * Habermas, Jurgen. _The Structural Transformation of the Public Sphere: An Enquiry into a Category of Bourgeois Society_. Translated by Frederick Lawrence and Thomas Burger, The M.I.T. Press, 1991.
@@ -186,6 +190,7 @@
 * Lindsay, James. “The Rise of the Woke Cultural Revolution.” _New Discourses_, 14 Apr. 2021, newdiscourses.com/2021/04/rise-woke-cultural-revolution/. Accessed 11 July 2024.
 * Logsdon, John. "Space Policy: An Introduction." Wiley, 2011.
 * Long, K. F. Deep Space Propulsion: A Roadmap to Interstellar Flight. Springer, 2012.
+* Lotzof, Kerry. “How Did the Moon Form?” _Natural History Museum_, www.nhm.ac.uk/discover/how-did-the-moon-form.html. Accessed 2 Oct. 2024.
 * Lovecraft, H. P. “Supernatural Horror in Literature.” _Supernatural Horror in Literature_, 16 Oct. 2014, web.seducoahuila.gob.mx/biblioweb/upload/supernatural\_horror\_in\_literature.pdf. Accessed 08 July 2024.
 * Lovell, James, and Jeffrey Kluger. Apollo 13. HarperCollins, 2006.
 * Lovelock, James. _The Ages of Gaia: A Biography of Our Living Earth_. Oxford University Press, 2000.
@@ -208,6 +213,7 @@
 * Mayr, Ernst. _The Growth of Biological Thought: Diversity, Evolution, and Inheritance_. Belknap Press of Harvard University Press, 1982.
 * Mayr, Ernst. _Systematics and the Origin of Species: From the Viewpoint of a Zoologist_. Columbia University Press, 1942.
 * McClintock, Barbara. _The Discovery and Characterization of Transposable Elements: The Collected Papers of Barbara McClintock_. Garland Pub, 1987.
+* McClure, Bruce. “The Andromeda Galaxy: All You Need To Know.” _EarthSky_, 5 Sept. 2024, earthsky.org/clusters-nebulae-galaxies/andromeda-galaxy-closest-spiral-to-milky-way/.
 * McGoey, Linsey. “Elite Universities Gave Us Effective Altruism, the Dumbest Idea of the Century.” _Jacobin_, jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism. Accessed 27 Aug. 2024.
 * McKibben, Bill. _Oil and Honey: The Education of an Unlikely Activist_. St. Martin’s Griffin, 2014.
 * McLuhan, Marshall. _Understanding Media: The Extensions of Man_. 2nd ed., Gingko Press, 2013.
