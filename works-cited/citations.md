@@ -315,6 +315,7 @@
 * Watson, J. D., and F. H. Crick. “Molecular structure of Nucleic Acids: A structure for deoxyribose nucleic acid.” _Nature_, vol. 171, no. 4356, 25 Apr. 1953, pp. 737–738, https://doi.org/10.1038/171737a0.
 * Weber, Max. _The Protestant Ethic and the Spirit of Capitalism_. Edited by Anthony Giddens. Translated by Talcott Parsons, Routledge, 2005.
 * Weissenberger, John. “Wokism: A Symptom of ‘Late-Stage Capitalism’?” _C2C Journal_, 17 Nov. 2023, c2cjournal.ca/2023/10/wokism-a-symptom-of-late-stage-capitalism/. Accessed 09 July 2024.
+* Wells, H. G. _The Invisible Man_. Signet Classic, 2002.
 * West, Darrell. “Senate Hearing Highlights AI Harms and Need for Tougher Regulation.” _Brookings_, 27 June 2023, www.brookings.edu/articles/senate-hearing-highlights-ai-harms-and-need-for-tougher-regulation/.
 * Whitehead, Alfred North. “The Concept of Nature: The Tarner Lectures, Delivered in Trinity College, November 1919.” _The Project Gutenberg eBook of The Concept of Nature, by A. N. Whitehead._, 8 Aug. 2024, www.gutenberg.org/cache/epub/18835/pg18835-images.html.
 * Whitehead, Alfred North. _Process and Reality: A Essay in Cosmology_. Edited by David Ray Griffin and Donald Wynne Sherburne, The Free Press, 1978.
