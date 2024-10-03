@@ -232,6 +232,7 @@
 * Mizuuchi, Ryo, et al. “Evolutionary transition from a single RNA replicator to a multiple Replicator Network.” _Nature Communications_, vol. 13, no. 1, 18 Mar. 2022, https://doi.org/10.1038/s41467-022-29113-x.
 * Moon, F. C. Superconducting Levitation: Applications to Bearings and Magnetic Transportation. Wiley-VCH, 2008.
 * Moran, Dermot. (2012). Husserl’s Crisis of the European Sciences and Transcendental Phenomenology. An Introduction. 10.1017/CBO9781139025935.
+* Moravec, Hans P. _Robot: Mere Machine to Transcendent Mind_. Oxford University Press, 2000.
 * Morgan, Thomas Hunt. _The Mechanism of Mendelian Heredity_. Revised ed., Henry Holt and Company, 1915.
 * Mudrik, Liad. “Consciousness: What It Is, Where It Comes from - and Whether Machines Can Have It.” _Nature News_, Nature Publishing Group, 30 Oct. 2023, www.nature.com/articles/d41586-023-03335-5.
 * Musk, Elon. "Making Humans a Multiplanetary Species." New Space, 2017.
@@ -267,6 +268,7 @@
 * Roll-Hansen, Nils. “The Genotype Theory of Wilhelm Johannsen and Its Relation to Plant Breeding and the Study of Evolution.” Centaurus 22.3 (1979): 201–235. Web.
 * Roose, Kevin. “The Brilliance and Weirdness of Chatgpt.” _The New York Times_, The New York Times, 5 Dec. 2022, www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html.
 * Ross, James Perren. “Outlasting the Dinosaurs.” _NOVA_, PBS, Dec. 2023.
+* Russell, Stuart J. _Human Compatible: Artificial Intelligence and the Problem of Control_. Penguin Books, 2020.
 * Sabatini, Jesse J., and Karl D. Oyler. “Recent Advances in the Synthesis of High Explosive Materials.” _MDPI_, Multidisciplinary Digital Publishing Institute, 29 Dec. 2015, www.mdpi.com/122904.
 * Sagan, Carl. _Cosmos_. Random House, 1980.
 * Said, Edward W. _Culture and Imperialism_. Vintage Books, 1994.

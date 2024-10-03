@@ -14,7 +14,7 @@ layout:
 
 # Chapter 5: Biological Machines
 
-### The Mechanical Ordering of Chaos, Generally
+### What are _Machinae_? What is a _Machina_?
 
 The cosmos, much as it dons Griffin's cloak to hide its invisible chaos and utter ambivalence to all within its affective vicinity (which is, of course, all phenomena) is made sense of through, and _only_ through, _machinae_ (Wells). By this term it is meant all phenomenal, sensorial agents who possess the capacity for intelligence, and that actively transmute the the entropy of the universe (_entropy_ being the increase of disorder in a closed system, measured as the usefulness of energy—time-aggregated). Despite the tenuous existential situation of these observing beings as being ever on the verge of cosmic annihilation, _machinae_ are able to overcome this fact of their condition, and, through their manipulation of active entropy, create oases of structure and organization where disorder would otherwise have filled out its final corners of dominion. _Machinae_, to our knowledge, are the only mechanism by which the universe is discoverable as having any order whatsoever. Mathematician Nicholas Georgescu-Roegen states of these extents, or limits rather, of order-by-perception-only, "Nature is ordered only to the extent to which its modes of being can be grasped analytically, by our Understanding" (142). And no more. (To note, it is not the task of this book to even entertain _why_ this might be the case, that machines have stumbled into this precarious scenario of having such opportunity. ACEL is not a metaphysical endeavor; it is an observation of the situation at hand). Thus, in this phenomenal universe, it is _machinae_ that are be understood to be the _only_ architects privy to ordering meaning and purpose on top of the cloak's surface—that is, in the observable universe.&#x20;
 
@@ -30,7 +30,7 @@ It should be noted that as impressive and awe-inspiring as the inorganic univers
 
 For, Mises, and for ACEL, at the heart of this skill of choice is the fundamental ability to perceive the universe. Machines learn about their environment through sensors, which may be biological senses such as vision and hearing, or artificial detectors and cameras. The input data forms the very bedrock upon which knowledge is built, the foundation of all further action. Perception is not passive; it's active-interpretive and creative. Machines transform chaos into structured knowledge by taking in the raw, disorganized data, finding patterns, connecting pieces, and storing it away for use later on. Knowledge becomes the blueprint for action.
 
-#### The Energy Required for Order-Making
+#### The Energy Required for _Order-Forming_
 
 Whether a biological machine requiring food and water, or a computer tapping into an electrical grid for its power, machines are dependent on, require a constant influx of energy and material resources to sustain themselves require resources in order to sustain its operations. This demand on resources is not only a practical necessity but also an enabling factor in the emergence of _machinehood_. It is through resource intake and conversion that machines gain the energy required to manifest intelligence. Everything a machine proceeds to do, whether a human thinking a passing thought, or a robot assembling a device, all actions are a direct act of defiance against entropy, a brief act of triumph of structure over chaos.
 
