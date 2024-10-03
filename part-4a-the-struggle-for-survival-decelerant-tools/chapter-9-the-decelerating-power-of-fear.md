@@ -122,7 +122,7 @@ Truly, where once Wokeism snarled its teeth in isolated incidents, now our large
 
 For the minds of future generations are sensitive to specific inputs. They deserve the light of their consciousness to be activated, to be given the opportunity to contribute creatively to our collective memesis. Perhaps inadvertently and well-intentioned, the Western education system has allowed the woke enemy to walk through its doors; and it now sits in its own remiss no longer a proper guidance system for our youth. The system itself requires self-judgement, efficient corrective action, even its own forgiveness to cast out the parasitic ideology it has let consume it. There is still time to teach the young minds and embed them with all the necessary knowledge and skills to create powerful memes, to spread them as fast as possible, to double down on those that flourish. The creative spirit needs cultivating, as do critical thought and problem-solving skills; for our children, we must attend to this structural problem.&#x20;
 
-### Path Forward: Open, Free, Memetic Output, Always
+### Path Forward: Open Free Memetic Output, Always
 
 One more time we return to our scene-setting memetic-foundation-as-floor: Such is the case then that two primary contenders sit bubbling in the volcanic intensities within our cracking ground. First, the decelerant propagation of a woke, anti-human Religion of the State that threatens not just our species' output but our entire memetic self-awareness, that dilutes us all into a dull, gray, fear-based paralysis. The other: An accelerated promise of advancement, liberty in thought and curiosity, maximization of intelligence, prioritization of our youth's potential, which is far beyond our own.&#x20;
 
