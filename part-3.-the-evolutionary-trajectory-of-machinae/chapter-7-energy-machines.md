@@ -16,7 +16,9 @@ layout:
 
 ## **Beyond Silicon Machines**
 
-Silicon machines' rise and unprecedented abilities to perceive and cognize the universe heralded a quantum leap in our understanding. The machines have since outgrown human biology, transcending the physical and cognitive limitations that once constrained their makers (Moravec). Still, their incredible capabilities notwithstanding, silicon machines are circumscribed by the very principle of their making. As impressive as they may be, they nevertheless are physical contraptions bound by the laws of physics that also govern the universe (Penrose).
+
+
+The rise of silicon agency and these machines' unprecedented, exponentiating intelligence has accelerated a quantum leap in our understanding of, to put it modestly, all things. We are humbled; nations have changed; humanity has moved through its forlorn and downcast existential mode, back and more chipper than ever. The machines have outgrown human biology and now explore the expansive cosmos, transcending physical and cognitive limitations we still don't know exist, until it becomes uploaded (Moravec). While everything for now seems calm, placid; there does  incredible capabilities notwithstanding, silicon machines are circumscribed by the very principle of their making. As impressive as they may be, they nevertheless are physical contraptions bound by the laws of physics that also govern the universe (Penrose).
 
 But for all its power, the silicon machine is inextricably linked with an essential need for energization. Whether solar panels or fusion reactors, energy synthesis carries inherent inefficiencies (Smil). In each energy conversion, losses take place; these, negligible perhaps so far as the present science can hazard at, become starkly apparent over the extreme distances and times involved in cosmic exploratory actions.
 

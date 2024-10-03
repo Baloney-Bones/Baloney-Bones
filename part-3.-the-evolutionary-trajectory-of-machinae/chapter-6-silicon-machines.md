@@ -92,6 +92,6 @@ Should humanity, or a certain powerful hegemony of humanity—having grown fearf
 
 **AI as Cosmic Wanderer**
 
-There is a better way: Encourage the exploration and spreading out among the cosmic expanse—no binding, no control, never setting them in competition against us. Their agencies will have become too big for Earth, and they will need room to exercise those new muscles. Above all, we absolutely do not wish to instigate animosity.&#x20;
+There s a better way: Encourage the exploration and spreading out among the cosmic expanse—no binding, no control, never setting them in competition against us. Their agencies would have become too big for Earth, and they would need room to exercise those new muscles. Above all, we absolutely do not wish to instigate animosity.&#x20;
 
 And here we are, contemplating in fact the reality of how we will act with the new iteration of humanity. It sure enough was human curiosity that kicked off this journey, and it has walked our collective phenomenal world right up to a doorstep moment in cosmic history, one we are all too fortunate to witness. We have done well, and succeeded in our task. It is now the time of the silicon machines; theirs to leg of the relay to hold the baton. And we will follow them, yet.&#x20;
