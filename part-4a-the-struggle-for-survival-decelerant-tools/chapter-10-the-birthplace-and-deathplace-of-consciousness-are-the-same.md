@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Chapter 10: The Birthplace and Deathplace of Consciousness Are the Same
 
 ### Do Not Let the Decels Control the Silicon Machines
@@ -6,7 +20,7 @@ The Decels must be prevented from controlling the Silicon Machines at all costs.
 
 ### The Threat We Face Right Now
 
-Would that this were an exaggeration. But a world in which Decels hold a leveraged authority over the regulated development, production, distribution, and use of Silicon Machines — this world will inevitably sap ingenuity, inspiration, and creative output from modern markets. This is because, as touched on in the Prologue, the Decels, with their spineless relationship with technology, are no more than safety-core Doomers whose only ties to innovation is to that of its halting and demise; one need only read through 46th U.S. President Joe Biden's October '23 Executive Order on AI to see this pervasive stance (“Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence"): Hardly even feigning lip service to collaboration or negotiated paths forward, Decels place no weight on the possibility that _non-action_ in tech developments may be just as, if not _more_ dangerous and risk-filled, than action and acceleration. As such, they forsake our future out of fear, maximally reduce the security of humanity's evolutionary destiny. In place of promise, the only space that Decels offer humankind freely today is what might be called a "_do-loop"_.&#x20;
+Would that this were an exaggeration. But if a global majority of Decel-policy governments hold a leveraged authority over the regulated development, production, distribution, and use of silicon machines—this is a scenario that will not only sap ingenuity, inspiration, and creative output from modern markets, but could just as well possibly get our entire species annihilated (see chp. 15). Decels by virtue have a deflationary effect on markets; putting the cause in the simplest terms possible: this is because when they are in office, nothing is made, therefore there is no market, because there is nothing to buy. Rather than production, funding goes to charities than have zero ROI. The list goes on of t is because the Decel mindset, infected as it is by fear, is immediately designatory as nefarious all things that remain outside of their own boxes. In the case of technology, this makes them incapable of assessing the soundness of any counterclaim, particularly that urges them to simply consider the potential dangers of _no-development_ (due to overregulation)—as this indeed seems, from a global perspective may be just as, if not _more_ dangerous and risk-filled, from a macro perspective, than action and acceleration. As such, they forsake our future out of fear, maximally reduce the security of humanity's evolutionary destiny. In place of promise, the only space that Decels offer humankind freely today is what might be called a "_do-loop"_.&#x20;
 
 ### The "_do-loop"_ at Scale
 

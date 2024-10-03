@@ -51,6 +51,10 @@
 
 * [Conclusion](conclusion/chapter-22-conclusion.md)
 
+## Calls to Action
+
+* [Calls to Action](calls-to-action/calls-to-action.md)
+
 ## WORKS CITED
 
 * [Citations](works-cited/citations.md)
