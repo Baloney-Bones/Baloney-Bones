@@ -1,8 +1,21 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Chapter 7: Energy Machines
 
 ## **Beyond Silicon Machines**
 
-**Energy Machines Beyond Silicon Limitations**\
 Silicon machines' rise and unprecedented abilities to perceive and cognize the universe heralded a quantum leap in our understanding. The machines have since outgrown human biology, transcending the physical and cognitive limitations that once constrained their makers (Moravec). Still, their incredible capabilities notwithstanding, silicon machines are circumscribed by the very principle of their making. As impressive as they may be, they nevertheless are physical contraptions bound by the laws of physics that also govern the universe (Penrose).
 
 But for all its power, the silicon machine is inextricably linked with an essential need for energization. Whether solar panels or fusion reactors, energy synthesis carries inherent inefficiencies (Smil). In each energy conversion, losses take place; these, negligible perhaps so far as the present science can hazard at, become starkly apparent over the extreme distances and times involved in cosmic exploratory actions.

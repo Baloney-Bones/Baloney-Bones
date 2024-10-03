@@ -1,10 +1,22 @@
-# Chapter 9: The Decelerating Power of Fear
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain. " - (Frank Herbert)
+# Chapter 9: The Decelerating Power of Fear
 
 ### Utilties of Early Human Fear
 
-For ACEL, there is but one abstract enemy standing in the way of its evolutionary goal: fear. Fear is a primal force; and one of the classical experts on fear, American writer H.P. Lovecraft, agrees, writing in his 1927 essay, _Supernatural Horror in Literature_, "The oldest and strongest emotion of mankind is fear," (Lovecraft 1). Indeed, by the hand of fear, even the most ambitious can have their intensity-in-promise derailed, annihilated.&#x20;
+For ACEL, there is but one abstract enemy standing in the way of what we just saw in the last chapter, one abstract obstacle blocking our road to that final evolutionary goal: Fear. That primal force; of it, one of the classical experts on fear, American writer H.P. Lovecraft, says, writing in his 1927 essay, _Supernatural Horror in Literature_, "The oldest and strongest emotion of mankind is fear," (Lovecraft 1). Indeed, by the hand of fear, even the most ambitious can have their intensity-in-promise derailed, annihilated.&#x20;
 
 To be sure, in an historical sense, fear has carried with it an absolute utility to human life and evolutionary continuity. We owe much of our species' historical survival to our "fight-or-flight" response, a concept coined by American physiologist Walter Bradford Cannon. In his 1932 medical theory publication, _The Wisdom of the Body_, Cannon asserts that physical and psychological crises trigger a hypothalamic reaction that activates the sympathetic nervous system, causing adrenaline to be released into the bloodstream; the subsequent increase in heart rate and other temporary physiological shifts prepare the body for quick action ([Cannon](https://www.scribd.com/document/468080928/The-Wisdom-of-the-Body)). In other words, Cannon claims then when our bodies engage with threatening stimuli, our mental computer executes an auto-function and informs us of how to best survive said threat.&#x20;
 
