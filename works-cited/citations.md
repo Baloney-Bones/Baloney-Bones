@@ -262,7 +262,7 @@
 * Provine, William B. “Ernst Mayr.” _Genetics_, vol. 167, no. 3, 1 July 2004, pp. 1041–1046, https://doi.org/10.1093/genetics/167.3.1041.
 * Ratcliff, William  C., et al. “Experimental Evolution of Multicellularity.” Edited by Richard E. Lenski. _PNAS_, vol. 109, no. 5, 31 Jan. 2012, pp. 1595–1600, https://doi.org/https://doi.org/10.1073/pnas.1115323109.
 * Reiff, Nathan. “The Collapse of FTX: What Went Wrong with the Crypto Exchange?” _Investopedia_, Investopedia, 6 June 2024, www.investopedia.com/what-went-wrong-with-ftx-6828447.
-* Roach, Brian, et al. “Consumption and the Consumer Society.” _A GDAE Teaching Module on Social and Environmental Issues in Economics_, Routledge, www.bu.edu/eci/files/2019/10/Consumption\_and\_Consumer\_Society.pdf. Accessed 19 July 2024.
+* Roach, Brian, Neva Goodwin, and Julie Nelson. “Consumption and the Consumer Society.” _A GDAE Teaching Module on Social and Environmental Issues in Economics_, Routledge, www.bu.edu/eci/files/2019/10/Consumption\_and\_Consumer\_Society.pdf. Accessed 19 July 2024.
 * Robinet, Isabelle. ‘Original Contributions of Neidan to Taoism and Chinese Thought’. In: L. Kohn and Y. Sakade, ed., _Taoist Meditation and Longevity Techniques_ 1st ed. Ann Arbor: University of Michigan Press, 1989.
 * Robinet, Isabelle. _Taoism: Growth of a Religion_. Translated by Phyllis Brooks, Stanford University Press, 1997.
 * Roll-Hansen, Nils. “The Genotype Theory of Wilhelm Johannsen and Its Relation to Plant Breeding and the Study of Evolution.” Centaurus 22.3 (1979): 201–235. Web.
