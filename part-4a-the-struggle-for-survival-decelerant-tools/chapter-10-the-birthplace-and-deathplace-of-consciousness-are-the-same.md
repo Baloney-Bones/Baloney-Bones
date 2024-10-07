@@ -76,7 +76,9 @@ Preserving our agency will be the only way to avoid becoming lifeless automatons
 
 It becomes, by voluntary self-assignment, the role of ACEL here to counter counterproductive trends. The Acels, champions of learning, pushing forward, and the agency that inheres in all things, make it their task to ensure, if for only the sake of our youth to be afforded open memetic opportunities, that progress goes ahead with the torch laid.
 
-As such, ACEL will, in the latter half of Part 4 of this book, establish and deploy actionable frameworks of societal strength. Such frameworks will be propagated, in opposition to Decel knowledge gate-keeping, with maximum transparency and public participation; an open-source memetic repository will ensure the vision’s ethos is materialized. This open and free sharing of ideas will drive innovation, understanding, and further discussion—in turn, accelerating itself.
+As such, ACEL will, in Part 5 of this book, establish and deploy actionable frameworks of societal strength. Such frameworks will be propagated, in opposition to Decel knowledge gate-keeping, with maximum transparency and public participation; an open-source memetic repository will ensure the vision’s ethos is materialized. This open and free sharing of ideas will drive innovation, understanding, and further discussion—in turn, accelerating itself.
+
+### With ACEL, Humanity Wins Back its Consciousness
 
 And so, after all, it is clear: The ACEL mindset and framework will prosper and triumph and overcome: This is because, as opposed to the destined-to-fail decelerant memetic thieves, ACEL opens us to a culture of openness: creation, output, propagation, speed. We ask, has any stagnant organism ever dominated a faster, more agile one, one that posses more cunning, more intuition? In this way, ACEL will out-play, out-maneuver and out-create any and all current and future decelerant ideological threats, for these are all but fixated on consumption, wealth, fear, stagnation, paralysis, comfort. And we know that stagnation equals death, and acceleration equals life.
 

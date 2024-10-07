@@ -32,20 +32,19 @@
 
 * [Chapter 11: In Defense of Religion](part-4b-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
 * [Chapter 12: The School of ACEL](part-4b-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
-* [Chapter 13: Theorizing a Governance System](part-4b-the-promise-of-survival-accelerant-tools/chapter-13-theorizing-a-governance-system.md)
-* [Chapter 14: Building Blocks of an Accelerant Society](part-4b-the-promise-of-survival-accelerant-tools/chapter-14-building-blocks-of-an-accelerant-society.md)
+* [Chapter 13: Governance & Value in a Post-Scarcity Society](part-4b-the-promise-of-survival-accelerant-tools/chapter-13-governance-and-value-in-a-post-scarcity-society.md)
 
 ## Part 5: GETTING THE MACHINES OUT & GETTING US OUT&#x20;
 
-* [Chapter 15: The Impending 'Dodo' Scenario from AI Alignment & Mode Collapse](part-5-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario-from-ai-alignment-and-mode-collapse.md)
-* [Chapter 16: The ACEL Tunnel: Humanity's Best Shot at Not Getting 'Dodo'd'](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod.md)
-* [Chapter 17: Success is a World with SpaceBrains](part-5-getting-the-machines-out-and-getting-us-out/chapter-17-success-is-a-world-with-spacebrains.md)
-* [Chapter 18: The SpaceBrains Concept](part-5-getting-the-machines-out-and-getting-us-out/chapter-18-the-spacebrains-concept.md)
-* [Chapter 19: The Future, According to ACEL](part-5-getting-the-machines-out-and-getting-us-out/chapter-19-the-future-according-to-acel.md)
+* [Chapter 14: The Impending 'Dodo' Scenario from AI Alignment & Mode Collapse](part-5-getting-the-machines-out-and-getting-us-out/chapter-14-the-impending-dodo-scenario-from-ai-alignment-and-mode-collapse.md)
+* [Chapter 15: The ACEL Tunnel: Humanity's Best Shot at Not Getting 'Dodo'd'](part-5-getting-the-machines-out-and-getting-us-out/chapter-15-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod.md)
+* [Chapter 16: Success is a World with SpaceBrains](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-success-is-a-world-with-spacebrains.md)
+* [Chapter 17: The SpaceBrains Concept](part-5-getting-the-machines-out-and-getting-us-out/chapter-17-the-spacebrains-concept.md)
+* [Chapter 18: The Future, According to ACEL](part-5-getting-the-machines-out-and-getting-us-out/chapter-18-the-future-according-to-acel.md)
 
 ## Part  6: Some Final Curveballs
 
-* [Chapter 20: Conundrums](part-6-some-final-curveballs/chapter-20-conundrums.md)
+* [Chapter 19: Conundrums](part-6-some-final-curveballs/chapter-19-conundrums.md)
 
 ## CONCLUSION
 

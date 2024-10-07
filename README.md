@@ -38,8 +38,8 @@
 
 11. ### [In Defense of Religion](part-4b-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
 12. ### [The School of ACEL](part-4b-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
-13. ### [Theorizing a Governance System](part-4b-the-promise-of-survival-accelerant-tools/chapter-13-theorizing-a-governance-system.md)
-14. ### [Building Blocks of an ACEL-Approved Society](part-4b-the-promise-of-survival-accelerant-tools/chapter-14-building-blocks-of-an-accelerant-society.md)
+13. ### [Theorizing a Governance System](part-4b-the-promise-of-survival-accelerant-tools/chapter-13-governance-and-value-in-a-post-scarcity-society.md)
+14. ### [Building Blocks of an ACEL-Approved Society](broken-reference)
 
 ***
 
@@ -47,15 +47,15 @@
 
 15. ### [The Impending 'Dodo' Scenario from AI Alignment & Mode Collapse](https://app.gitbook.com/o/UlqoFhhe4KjhuaAS0L1x/s/rADt6z1pNFyzPdYSLgbc/)
 16. ### [The ACEL Tunnel: Humanity's Best Shot at Not Getting 'Dodo'd'](https://app.gitbook.com/o/UlqoFhhe4KjhuaAS0L1x/s/rADt6z1pNFyzPdYSLgbc/)
-17. ### [Success is a World with SpaceBrains](part-5-getting-the-machines-out-and-getting-us-out/chapter-17-success-is-a-world-with-spacebrains.md)
-18. ### [The SpaceBrains Concept](part-5-getting-the-machines-out-and-getting-us-out/chapter-18-the-spacebrains-concept.md)
-19. ### [The Future, According to ACEL](part-5-getting-the-machines-out-and-getting-us-out/chapter-19-the-future-according-to-acel.md)
+17. ### [Success is a World with SpaceBrains](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-success-is-a-world-with-spacebrains.md)
+18. ### [The SpaceBrains Concept](part-5-getting-the-machines-out-and-getting-us-out/chapter-17-the-spacebrains-concept.md)
+19. ### [The Future, According to ACEL](part-5-getting-the-machines-out-and-getting-us-out/chapter-18-the-future-according-to-acel.md)
 
 ***
 
 ### Part 5: Some Final Curveballs
 
-20. ### &#x20;[Conundrums](part-6-some-final-curveballs/chapter-20-conundrums.md)
+20. ### &#x20;[Conundrums](part-6-some-final-curveballs/chapter-19-conundrums.md)
 
 ***
 
