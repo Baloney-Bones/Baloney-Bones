@@ -38,8 +38,7 @@
 
 * [Chapter 14: The Impending 'Dodo' Scenario: AI Alignment & Mode Collapse](part-5-getting-the-machines-out-and-getting-us-out/chapter-14-the-impending-dodo-scenario-ai-alignment-and-mode-collapse.md)
 * [Chapter 15: The ACEL Tunnel](part-5-getting-the-machines-out-and-getting-us-out/chapter-15-the-acel-tunnel.md)
-* [Chapter 16: Success is a World with SpaceBrains](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-success-is-a-world-with-spacebrains.md)
-* [Chapter 17: The SpaceBrains Concept](part-5-getting-the-machines-out-and-getting-us-out/chapter-17-the-spacebrains-concept.md)
+* [Chapter 16: The SpaceBrains Concepts: Yearning for Longevity](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-the-spacebrains-concepts-yearning-for-longevity.md)
 * [Chapter 18: The Future, According to ACEL](part-5-getting-the-machines-out-and-getting-us-out/chapter-18-the-future-according-to-acel.md)
 
 ## Part  6: Some Final Curveballs

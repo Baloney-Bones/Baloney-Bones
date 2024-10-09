@@ -47,8 +47,8 @@
 
 15. ### [The Impending 'Dodo' Scenario from AI Alignment & Mode Collapse](https://app.gitbook.com/o/UlqoFhhe4KjhuaAS0L1x/s/rADt6z1pNFyzPdYSLgbc/)
 16. ### [The ACEL Tunnel: Humanity's Best Shot at Not Getting 'Dodo'd'](https://app.gitbook.com/o/UlqoFhhe4KjhuaAS0L1x/s/rADt6z1pNFyzPdYSLgbc/)
-17. ### [Success is a World with SpaceBrains](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-success-is-a-world-with-spacebrains.md)
-18. ### [The SpaceBrains Concept](part-5-getting-the-machines-out-and-getting-us-out/chapter-17-the-spacebrains-concept.md)
+17. ### [Success is a World with SpaceBrains](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-the-spacebrains-concepts-yearning-for-longevity.md)
+18. ### [The SpaceBrains Concept](broken-reference)
 19. ### [The Future, According to ACEL](part-5-getting-the-machines-out-and-getting-us-out/chapter-18-the-future-according-to-acel.md)
 
 ***
