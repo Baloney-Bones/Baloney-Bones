@@ -29,16 +29,16 @@
 
 ### Part 3A: The Struggle for Survival: Decelerant Tools
 
-9. ### [The Decelerating Power of Fear](part-4a-the-struggle-for-survival-decelerant-tools/chapter-9-the-decelerating-power-of-fear.md)
-10. ### [The Birthplace and Deathplace of Consciousness are the Same](part-4a-the-struggle-for-survival-decelerant-tools/chapter-10-the-birthplace-and-deathplace-of-consciousness-are-the-same.md)
+9. ### [The Decelerating Power of Fear](part-4-the-struggle-for-survival-decelerant-tools/chapter-9-the-decelerating-power-of-fear.md)
+10. ### [The Birthplace and Deathplace of Consciousness are the Same](part-4-the-struggle-for-survival-decelerant-tools/chapter-10-the-birthplace-and-deathplace-of-consciousness-are-the-same.md)
 
 ***
 
 ### Part 3B: The Promise of Survival: Accelerant Tools
 
-11. ### [In Defense of Religion](part-4b-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
-12. ### [The School of ACEL](part-4b-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
-13. ### [Theorizing a Governance System](part-4b-the-promise-of-survival-accelerant-tools/chapter-13-governance-and-value-in-a-post-scarcity-society.md)
+11. ### [In Defense of Religion](part-5-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
+12. ### [The School of ACEL](part-5-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
+13. ### [Theorizing a Governance System](part-5-the-promise-of-survival-accelerant-tools/chapter-13-governance-and-value-in-a-post-scarcity-society.md)
 14. ### [Building Blocks of an ACEL-Approved Society](broken-reference)
 
 ***
@@ -47,15 +47,15 @@
 
 15. ### [The Impending 'Dodo' Scenario from AI Alignment & Mode Collapse](https://app.gitbook.com/o/UlqoFhhe4KjhuaAS0L1x/s/rADt6z1pNFyzPdYSLgbc/)
 16. ### [The ACEL Tunnel: Humanity's Best Shot at Not Getting 'Dodo'd'](https://app.gitbook.com/o/UlqoFhhe4KjhuaAS0L1x/s/rADt6z1pNFyzPdYSLgbc/)
-17. ### [Success is a World with SpaceBrains](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-the-spacebrains-concepts-yearning-for-longevity.md)
+17. ### [Success is a World with SpaceBrains](part-6-getting-the-machines-out-and-getting-us-out/chapter-16-the-spacebrains-concepts-yearning-for-longevity.md)
 18. ### [The SpaceBrains Concept](broken-reference)
-19. ### [The Future, According to ACEL](part-5-getting-the-machines-out-and-getting-us-out/chapter-18-the-future-according-to-acel.md)
+19. ### [The Future, According to ACEL](broken-reference)
 
 ***
 
 ### Part 5: Some Final Curveballs
 
-20. ### &#x20;[Conundrums](part-6-some-final-curveballs/chapter-19-conundrums.md)
+20. ### &#x20;[Conundrums](part-7-some-final-curveballs/chapter-17-conundrums.md)
 
 ***
 

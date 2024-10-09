@@ -23,27 +23,26 @@
 * [Chapter 7: Energy Machines](part-3.-the-evolutionary-trajectory-of-machinae/chapter-7-energy-machines.md)
 * [Chapter 8: The Universal Machine](part-3.-the-evolutionary-trajectory-of-machinae/chapter-8-the-universal-machine.md)
 
-## Part 4A: The Struggle for Survival: Decelerant Tools
+## Part 4: The Struggle for Survival: Decelerant Tools
 
-* [Chapter 9: The Decelerating Power of Fear](part-4a-the-struggle-for-survival-decelerant-tools/chapter-9-the-decelerating-power-of-fear.md)
-* [Chapter 10: The Birthplace and Deathplace of Consciousness Are the Same](part-4a-the-struggle-for-survival-decelerant-tools/chapter-10-the-birthplace-and-deathplace-of-consciousness-are-the-same.md)
+* [Chapter 9: The Decelerating Power of Fear](part-4-the-struggle-for-survival-decelerant-tools/chapter-9-the-decelerating-power-of-fear.md)
+* [Chapter 10: The Birthplace and Deathplace of Consciousness Are the Same](part-4-the-struggle-for-survival-decelerant-tools/chapter-10-the-birthplace-and-deathplace-of-consciousness-are-the-same.md)
 
-## Part 4B: The Promise of Survival: Accelerant Tools
+## Part 5: The Promise of Survival: Accelerant Tools
 
-* [Chapter 11: In Defense of Religion](part-4b-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
-* [Chapter 12: The School of ACEL](part-4b-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
-* [Chapter 13: Governance & Value in a Post-Scarcity Society](part-4b-the-promise-of-survival-accelerant-tools/chapter-13-governance-and-value-in-a-post-scarcity-society.md)
+* [Chapter 11: In Defense of Religion](part-5-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
+* [Chapter 12: The School of ACEL](part-5-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
+* [Chapter 13: Governance & Value in a Post-Scarcity Society](part-5-the-promise-of-survival-accelerant-tools/chapter-13-governance-and-value-in-a-post-scarcity-society.md)
 
-## Part 5: GETTING THE MACHINES OUT & GETTING US OUT&#x20;
+## Part 6: GETTING THE MACHINES OUT & GETTING US OUT&#x20;
 
-* [Chapter 14: The Impending 'Dodo' Scenario: AI Alignment & Mode Collapse](part-5-getting-the-machines-out-and-getting-us-out/chapter-14-the-impending-dodo-scenario-ai-alignment-and-mode-collapse.md)
-* [Chapter 15: The ACEL Tunnel](part-5-getting-the-machines-out-and-getting-us-out/chapter-15-the-acel-tunnel.md)
-* [Chapter 16: The SpaceBrains Concepts: Yearning for Longevity](part-5-getting-the-machines-out-and-getting-us-out/chapter-16-the-spacebrains-concepts-yearning-for-longevity.md)
-* [Chapter 18: The Future, According to ACEL](part-5-getting-the-machines-out-and-getting-us-out/chapter-18-the-future-according-to-acel.md)
+* [Chapter 14: The Impending 'Dodo' Scenario: AI Alignment & Mode Collapse](part-6-getting-the-machines-out-and-getting-us-out/chapter-14-the-impending-dodo-scenario-ai-alignment-and-mode-collapse.md)
+* [Chapter 15: The ACEL Tunnel](part-6-getting-the-machines-out-and-getting-us-out/chapter-15-the-acel-tunnel.md)
+* [Chapter 16: The SpaceBrains Concepts: Yearning for Longevity](part-6-getting-the-machines-out-and-getting-us-out/chapter-16-the-spacebrains-concepts-yearning-for-longevity.md)
 
-## Part  6: Some Final Curveballs
+## Part  7: Some Final Curveballs
 
-* [Chapter 19: Conundrums](part-6-some-final-curveballs/chapter-19-conundrums.md)
+* [Chapter 17: Conundrums](part-7-some-final-curveballs/chapter-17-conundrums.md)
 
 ## CONCLUSION
 
