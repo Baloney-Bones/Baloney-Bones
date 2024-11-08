@@ -33,6 +33,7 @@
 * [Chapter 11: In Defense of Religion](part-5-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
 * [Chapter 12: The School of ACEL](part-5-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
 * [Chapter 13: Governance & Value in a Post-Scarcity Society](part-5-the-promise-of-survival-accelerant-tools/chapter-13-governance-and-value-in-a-post-scarcity-society.md)
+* [Governance in a Post-Scarcity Society](part-5-the-promise-of-survival-accelerant-tools/governance-in-a-post-scarcity-society.md)
 
 ## Part 6: GETTING THE MACHINES OUT & GETTING US OUT&#x20;
 
