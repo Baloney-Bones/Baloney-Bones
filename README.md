@@ -42,15 +42,15 @@
 
 ***
 
-14. ### [The Impending 'Dodo Scenario': AI Alignment & Mode Collapse](part-6-getting-the-machines-out-and-getting-us-out/chapter-14-the-impending-dodo-scenario-ai-alignment-and-mode-collapse.md)
+14. ### [The Impending 'Dodo Scenario': AI Alignment & Mode Collapse](part-6-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario-ai-alignment-and-mode-collapse.md)
 15. ### [The ACEL Tunnel](https://app.gitbook.com/o/UlqoFhhe4KjhuaAS0L1x/s/rADt6z1pNFyzPdYSLgbc/)
-16. ### [The SpaceBrains Concept: Yearning for Longevity](part-6-getting-the-machines-out-and-getting-us-out/chapter-16-the-spacebrains-concept.md)&#x20;
+16. ### [The SpaceBrains Concept: Yearning for Longevity](part-6-getting-the-machines-out-and-getting-us-out/chapter-17-the-spacebrains-concept.md)&#x20;
 
 ***
 
 ### Part 7: Some Final Curveballs
 
-20. ### &#x20;[Conundrums](part-7-some-final-curveballs/chapter-17-conundrums.md)
+20. ### &#x20;[Conundrums](part-7-some-final-curveballs/chapter-18-conundrums.md)
 
 ***
 

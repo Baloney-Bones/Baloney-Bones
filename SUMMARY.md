@@ -33,17 +33,18 @@
 * [Chapter 11: In Defense of Religion](part-5-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
 * [Chapter 12: The School of ACEL](part-5-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
 * [Chapter 13: Governance & Value in a Post-Scarcity Society](part-5-the-promise-of-survival-accelerant-tools/chapter-13-governance-and-value-in-a-post-scarcity-society.md)
-* [Governance in a Post-Scarcity Society](part-5-the-promise-of-survival-accelerant-tools/governance-in-a-post-scarcity-society.md)
+* [Chapter 14: Governance in a Post-Scarcity Society](part-5-the-promise-of-survival-accelerant-tools/chapter-14-governance-in-a-post-scarcity-society.md)
 
 ## Part 6: GETTING THE MACHINES OUT & GETTING US OUT&#x20;
 
-* [Chapter 14: The Impending 'Dodo' Scenario: AI Alignment & Mode Collapse](part-6-getting-the-machines-out-and-getting-us-out/chapter-14-the-impending-dodo-scenario-ai-alignment-and-mode-collapse.md)
-* [Chapter 15: The ACEL Tunnel](part-6-getting-the-machines-out-and-getting-us-out/chapter-15-the-acel-tunnel.md)
-* [Chapter 16: The SpaceBrains Concept](part-6-getting-the-machines-out-and-getting-us-out/chapter-16-the-spacebrains-concept.md)
+* [Chapter 15: The Impending 'Dodo' Scenario: AI Alignment & Mode Collapse](part-6-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario-ai-alignment-and-mode-collapse.md)
+* [Chapter 16: The ACEL Tunnel](part-6-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel.md)
+* [Chapter 17: The SpaceBrains Concept](part-6-getting-the-machines-out-and-getting-us-out/chapter-17-the-spacebrains-concept.md)
 
 ## Part  7: Some Final Curveballs
 
-* [Chapter 17: Conundrums](part-7-some-final-curveballs/chapter-17-conundrums.md)
+* [Chapter 18: Conundrums](part-7-some-final-curveballs/chapter-18-conundrums.md)
+* [Chapter 19: How to ACEL](part-7-some-final-curveballs/chapter-19-how-to-acel.md)
 
 ## CONCLUSION
 

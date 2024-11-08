@@ -1,4 +1,4 @@
-# Governance in a Post-Scarcity Society
+# Chapter 14: Governance in a Post-Scarcity Society
 
 ## Multi-Machinae Governance
 
