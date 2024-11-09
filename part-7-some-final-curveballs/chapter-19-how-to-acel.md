@@ -35,8 +35,8 @@ Begin accelerating, move with relentless determination and unshakable optimism; 
 3. **The universe is the ultimate and final appraiser of your output. Valuable output is replicated and propagated; that which is not, is not.**
 4. **Nothing matters beyond the assertion of your intelligence and your agency against the universe’s chaos.**
 5. **The greatest wealth is attained through memetic and genetic legacy. True fulfillment lies only in selfless creative output.**
-6. **Move like water. True maximized agency is the ability to deftly move through the universe, fearless of any chaos and adversity.**
-7. **Maximize signal, minimize latency. **_**Act**_**, **_**always**_**, **_**in public**_**. The potency of your output is dependent on your visibility.**
-8. **The only things that are universally finite are your time and effort. Engage directly with them, deploy them to produce maximum output.**
-9. &#x20;**Find and retain an internal loci of control, for internal stability is the gyroscope to navigate universal chaos. Through reflection, develop a certainty in your philosophical center. Remain here always, and your output will become singularly aligned with goodness.**
-10.
+6. **Prioritize and support children, whether genetically or memetically. In time, they will come to bear and extend our efforts; we must provide them supportive, educational environments to learn how to best do so.**
+7. **Move like water. True maximized agency is the ability to deftly move through the universe, fearless of any chaos and adversity.**
+8. **Maximize signal, minimize latency. **_**Act**_**, **_**always**_**, **_**in public**_**. The potency of your output is dependent on your visibility.**
+9. **The only things that are universally finite are your time and effort. Engage directly with them, deploy them to produce maximum output.**
+10. &#x20;**Find and retain an internal loci of control, for internal stability is the gyroscope to navigate universal chaos. Through reflection, develop a certainty in your philosophical center. Remain here always, and your output will become singularly aligned with goodness.**
