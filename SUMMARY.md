@@ -31,7 +31,7 @@
 ## Part 5: The Promise of Survival: Accelerant Tools
 
 * [Chapter 11: In Defense of Religion](part-5-the-promise-of-survival-accelerant-tools/chapter-11-in-defense-of-religion.md)
-* [Chapter 12: The School of ACEL](part-5-the-promise-of-survival-accelerant-tools/chapter-12-the-school-of-acel.md)
+* [Chapter 12: Accelerating Education](part-5-the-promise-of-survival-accelerant-tools/chapter-12-accelerating-education.md)
 * [Chapter 13: The Free Market & Value in a Post-Scarcity Society](part-5-the-promise-of-survival-accelerant-tools/chapter-13-the-free-market-and-value-in-a-post-scarcity-society.md)
 * [Chapter 14: Governance in a Post-Scarcity Society](part-5-the-promise-of-survival-accelerant-tools/chapter-14-governance-in-a-post-scarcity-society.md)
 
